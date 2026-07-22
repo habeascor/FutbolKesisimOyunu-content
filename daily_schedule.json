@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "epoch": "2026-07-22",
+  "puzzles": [
+    {
+      "date": "2026-07-22",
+      "teamA": {
+        "name": "Fenerbahçe",
+        "badge": null
+      },
+      "teamB": {
+        "name": "Galatasaray",
+        "badge": null
+      },
+      "answers": [
+        {
+          "name": "Emre Belözoğlu",
+          "qid": null,
+          "born": 1980
+        },
+        {
+          "name": "Caner Erkin",
+          "qid": null,
+          "born": 1988
+        },
+        {
+          "name": "Colin Kazim-Richards",
+          "qid": null,
+          "born": 1986
+        },
+        {
+          "name": "Serdar Aziz",
+          "qid": null,
+          "born": 1990
+        }
+      ]
+    }
+  ]
+}
