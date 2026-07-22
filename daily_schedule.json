@@ -14,16 +14,6 @@
       },
       "answers": [
         {
-          "name": "Emre Belözoğlu",
-          "qid": null,
-          "born": 1980
-        },
-        {
-          "name": "Caner Erkin",
-          "qid": null,
-          "born": 1988
-        },
-        {
           "name": "Colin Kazim-Richards",
           "qid": null,
           "born": 1986
@@ -32,6 +22,16 @@
           "name": "Serdar Aziz",
           "qid": null,
           "born": 1990
+        },
+        {
+          "name": "emre belözoğlu",
+          "qid": "Q202569",
+          "born": 1980
+        },
+        {
+          "name": "caner erkin",
+          "qid": "Q946447",
+          "born": 1988
         }
       ]
     },
