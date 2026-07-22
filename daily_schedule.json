@@ -34,6 +34,44 @@
           "born": 1990
         }
       ]
+    },
+    {
+      "date": "2026-07-23",
+      "teamA": {
+        "name": "Valencia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+      },
+      "teamB": {
+        "name": "Galatasaray",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+      },
+      "answers": [
+        {
+          "name": "Michy Batshuayi",
+          "qid": "Q2301910",
+          "born": 1993
+        },
+        {
+          "name": "Mehmet Topal",
+          "qid": "Q348199",
+          "born": 1986
+        },
+        {
+          "name": "Juan Mata",
+          "qid": "Q168740",
+          "born": 1988
+        },
+        {
+          "name": "Adrian Ilie",
+          "qid": "Q359484",
+          "born": 1974
+        },
+        {
+          "name": "Sofiane Feghouli",
+          "qid": "Q334890",
+          "born": 1989
+        }
+      ]
     }
   ]
 }
