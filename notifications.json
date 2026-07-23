@@ -2,17 +2,10 @@
   "version": 1,
   "dailyReminder": {
     "enabled": true,
-    "hour": 20,
-    "minute": 0,
+    "hour": 22,
+    "minute": 38,
     "title": "Günün Kesişimi",
-    "body": "Bugünün eşleşmesi seni bekliyor ⚽"
+    "body": "Tekrarlayan hatırlatma canlı testi ⚽"
   },
-  "messages": [
-    {
-      "id": "2026-07-23-deneme-yayini",
-      "fireAt": "2026-07-23T13:26",
-      "title": "Deneme yayını",
-      "body": "İlk zamanlanmış bildirim — Kesişim canlı testi ⚽"
-    }
-  ]
+  "messages": []
 }
