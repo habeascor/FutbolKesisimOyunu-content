@@ -7,5 +7,12 @@
     "title": "Günün Kesişimi",
     "body": "Tekrarlayan hatırlatma canlı testi ⚽"
   },
-  "messages": []
+  "messages": [
+    {
+      "id": "2026-07-23-geldi-mi",
+      "fireAt": "2026-07-23T22:18",
+      "title": "Geldi mi?",
+      "body": "Yeni mesajlar nasıl gözüküyor? Türkçe ğşıüöç"
+    }
+  ]
 }
