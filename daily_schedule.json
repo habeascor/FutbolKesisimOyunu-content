@@ -72,6 +72,34 @@
           "born": 1989
         }
       ]
+    },
+    {
+      "date": "2026-07-24",
+      "teamA": {
+        "name": "başakşehir",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+      },
+      "teamB": {
+        "name": "arsenal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+      },
+      "answers": [
+        {
+          "name": "Mesut özil",
+          "qid": "Q83488",
+          "born": 1988
+        },
+        {
+          "name": "gael clichy",
+          "qid": "Q1929",
+          "born": 1985
+        },
+        {
+          "name": "emmanuel adebayor",
+          "qid": "Q386876",
+          "born": 1984
+        }
+      ]
     }
   ]
 }
