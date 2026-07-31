@@ -100,6 +100,49 @@
           "born": 1984
         }
       ]
+    },
+    {
+      "date": "2026-08-01",
+      "teamA": {
+        "name": "Real Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+      },
+      "teamB": {
+        "name": "Galatasaray",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+      },
+      "answers": [
+        {
+          "name": "Gheorge Hagi",
+          "qid": "Q189892",
+          "born": 1965
+        },
+        {
+          "name": "Alvaro Morata",
+          "qid": "Q48770",
+          "born": 1992
+        },
+        {
+          "name": "Wesley Sneijder",
+          "qid": "Q124086",
+          "born": 1984
+        },
+        {
+          "name": "Hamit Altıntop",
+          "qid": "Q44118",
+          "born": 1982
+        },
+        {
+          "name": "Flavio Conceicao",
+          "qid": "Q350536",
+          "born": 1974
+        },
+        {
+          "name": "elvir baliç",
+          "qid": "Q560001",
+          "born": 1974
+        }
+      ]
     }
   ]
 }
