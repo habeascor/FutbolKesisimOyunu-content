@@ -143,6 +143,34 @@
           "born": 1974
         }
       ]
+    },
+    {
+      "date": "2026-08-02",
+      "teamA": {
+        "name": "Napoli",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+      },
+      "teamB": {
+        "name": "Fenerbahçe",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+      },
+      "answers": [
+        {
+          "name": "Kim Min Jae",
+          "qid": "Q28699707",
+          "born": 1996
+        },
+        {
+          "name": "Elif Elmas",
+          "qid": "Q25409292",
+          "born": 1999
+        },
+        {
+          "name": "Jose Sosa",
+          "qid": "Q314241",
+          "born": 1985
+        }
+      ]
     }
   ]
 }
