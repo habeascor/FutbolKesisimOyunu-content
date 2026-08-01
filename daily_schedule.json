@@ -171,6 +171,44 @@
           "born": 1999
         }
       ]
+    },
+    {
+      "date": "2026-08-03",
+      "teamA": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+      },
+      "teamB": {
+        "name": "Manchester United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "answers": [
+        {
+          "name": "Kléberson",
+          "qid": "Q311035",
+          "born": 1979
+        },
+        {
+          "name": "Eric Bailly",
+          "qid": "Q18637352",
+          "born": 1994
+        },
+        {
+          "name": "Shinji Kagawa",
+          "qid": "Q154708",
+          "born": 1989
+        },
+        {
+          "name": "Wout Weghorst",
+          "qid": "Q2210473",
+          "born": 1992
+        },
+        {
+          "name": "Ronny Johnsen",
+          "qid": "Q381460",
+          "born": 1969
+        }
+      ]
     }
   ]
 }
