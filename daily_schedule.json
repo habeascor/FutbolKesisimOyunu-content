@@ -156,19 +156,19 @@
       },
       "answers": [
         {
-          "name": "Kim Min Jae",
+          "name": "Kim Min-jae",
           "qid": "Q28699707",
           "born": 1996
         },
         {
-          "name": "Elif Elmas",
-          "qid": "Q25409292",
-          "born": 1999
-        },
-        {
-          "name": "Jose Sosa",
+          "name": "José Sosa",
           "qid": "Q314241",
           "born": 1985
+        },
+        {
+          "name": "Eljif Elmas",
+          "qid": "Q25409292",
+          "born": 1999
         }
       ]
     }
