@@ -209,6 +209,54 @@
           "born": 1969
         }
       ]
+    },
+    {
+      "date": "2026-08-04",
+      "teamA": {
+        "name": "Real Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+      },
+      "teamB": {
+        "name": "Bayern Munich",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+      },
+      "answers": [
+        {
+          "name": "David Alaba",
+          "qid": "Q31981",
+          "born": 1992
+        },
+        {
+          "name": "Xabi Alonso",
+          "qid": "Q208104",
+          "born": 1981
+        },
+        {
+          "name": "Hamit Altıntop",
+          "qid": "Q44118",
+          "born": 1982
+        },
+        {
+          "name": "Toni Kroos",
+          "qid": "Q131234",
+          "born": 1990
+        },
+        {
+          "name": "Arjen Robben",
+          "qid": "Q43913",
+          "born": 1984
+        },
+        {
+          "name": "James Rodriguez",
+          "qid": "Q368441",
+          "born": 1991
+        },
+        {
+          "name": "Zé Roberto",
+          "qid": "Q57167",
+          "born": 1974
+        }
+      ]
     }
   ]
 }
