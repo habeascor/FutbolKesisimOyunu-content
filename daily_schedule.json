@@ -257,6 +257,44 @@
           "born": 1974
         }
       ]
+    },
+    {
+      "date": "2026-08-05",
+      "teamA": {
+        "name": "Arsenal",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+      },
+      "teamB": {
+        "name": "Paris Saint Germain",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+      },
+      "answers": [
+        {
+          "name": "David Luiz",
+          "qid": "Q193706",
+          "born": 1987
+        },
+        {
+          "name": "Kaba Diawara",
+          "qid": "Q2707459",
+          "born": 1975
+        },
+        {
+          "name": "Lassana Diarra",
+          "qid": "Q485196",
+          "born": 1985
+        },
+        {
+          "name": "Mikel Arteta",
+          "qid": "Q185572",
+          "born": 1982
+        },
+        {
+          "name": "Nicolas Anelka",
+          "qid": "Q1939",
+          "born": 1979
+        }
+      ]
     }
   ]
 }
