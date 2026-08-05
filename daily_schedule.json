@@ -348,6 +348,64 @@
           "born": null
         }
       ]
+    },
+    {
+      "date": "2026-08-07",
+      "teamA": {
+        "name": "Hull City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
+      },
+      "teamB": {
+        "name": "Fenerbahçe",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+      },
+      "answers": [
+        {
+          "name": "Allahyar Sayyadmanesh",
+          "qid": "Q47199479",
+          "born": 2001
+        },
+        {
+          "name": "Bora Aydınlık",
+          "qid": "Q111669652",
+          "born": 2005
+        },
+        {
+          "name": "Dimitrios Pelkas",
+          "qid": "Q5277658",
+          "born": 1993
+        },
+        {
+          "name": "Jay-Jay Okocha",
+          "qid": "Q605817",
+          "born": 1973
+        },
+        {
+          "name": "João Pedro",
+          "qid": null,
+          "born": null
+        },
+        {
+          "name": "Joshua King",
+          "qid": "Q436237",
+          "born": 1992
+        },
+        {
+          "name": "Lazar Markovic",
+          "qid": "Q965705",
+          "born": 1994
+        },
+        {
+          "name": "Lincoln",
+          "qid": null,
+          "born": null
+        },
+        {
+          "name": "Ozan Tufan",
+          "qid": "Q2043015",
+          "born": 1995
+        }
+      ]
     }
   ]
 }
