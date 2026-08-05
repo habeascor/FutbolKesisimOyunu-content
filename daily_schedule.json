@@ -295,6 +295,59 @@
           "born": 1979
         }
       ]
+    },
+    {
+      "date": "2026-08-06",
+      "teamA": {
+        "name": "Manchester City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+      },
+      "teamB": {
+        "name": "Galatasaray",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+      },
+      "answers": [
+        {
+          "name": "Albert Riera",
+          "qid": "Q215435",
+          "born": 1982
+        },
+        {
+          "name": "Angelino",
+          "qid": "Q20688718",
+          "born": 1997
+        },
+        {
+          "name": "Elano",
+          "qid": "Q207407",
+          "born": 1981
+        },
+        {
+          "name": "İlkay Gündoğan",
+          "qid": "Q161089",
+          "born": 1990
+        },
+        {
+          "name": "Jo",
+          "qid": null,
+          "born": null
+        },
+        {
+          "name": "Leroy Sane",
+          "qid": "Q16499882",
+          "born": 1996
+        },
+        {
+          "name": "Nigel de Jong",
+          "qid": "Q185650",
+          "born": 1984
+        },
+        {
+          "name": "Fernando",
+          "qid": null,
+          "born": null
+        }
+      ]
     }
   ]
 }
