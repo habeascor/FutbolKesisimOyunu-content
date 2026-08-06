@@ -406,6 +406,255 @@
           "born": 1995
         }
       ]
+    },
+    {
+      "date": "2026-08-08",
+      "teamA": {
+        "name": "Juventus",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+      },
+      "teamB": {
+        "name": "Paris Saint Germain",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+      },
+      "answers": [
+        {
+          "name": "Zlatan Ibrahimović",
+          "qid": "Q46896",
+          "born": 1981
+        },
+        {
+          "name": "Gianluigi Buffon",
+          "qid": "Q68060",
+          "born": 1978
+        },
+        {
+          "name": "Ángel Di María",
+          "qid": "Q251683",
+          "born": 1988
+        },
+        {
+          "name": "Dani Alves",
+          "qid": "Q172720",
+          "born": 1983
+        },
+        {
+          "name": "Nicolas Anelka",
+          "qid": "Q1939",
+          "born": 1979
+        },
+        {
+          "name": "Patrice Evra",
+          "qid": "Q1916",
+          "born": 1981
+        },
+        {
+          "name": "Adrien Rabiot",
+          "qid": "Q18962",
+          "born": 1995
+        },
+        {
+          "name": "Blaise Matuidi",
+          "qid": "Q1921",
+          "born": 1987
+        },
+        {
+          "name": "Kingsley Coman",
+          "qid": "Q6413296",
+          "born": 1996
+        },
+        {
+          "name": "Leandro Paredes",
+          "qid": "Q630170",
+          "born": 1994
+        },
+        {
+          "name": "Moise Kean",
+          "qid": "Q27889974",
+          "born": 2000
+        },
+        {
+          "name": "Randal Kolo Muani",
+          "qid": "Q59655998",
+          "born": 1998
+        },
+        {
+          "name": "Timothy Weah",
+          "qid": "Q31871265",
+          "born": 2000
+        },
+        {
+          "name": "Juan Pablo Sorín",
+          "qid": "Q220746",
+          "born": 1976
+        },
+        {
+          "name": "Mohamed Sissoko",
+          "qid": "Q216557",
+          "born": 1985
+        }
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "teamA": {
+        "name": "A.C. Milan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+      },
+      "teamB": {
+        "name": "Barcelona",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+      },
+      "answers": [
+        {
+          "name": "Ronaldo",
+          "qid": "Q529207",
+          "born": 1976
+        },
+        {
+          "name": "Zlatan Ibrahimović",
+          "qid": "Q46896",
+          "born": 1981
+        },
+        {
+          "name": "Ronaldinho",
+          "qid": "Q39444",
+          "born": 1980
+        },
+        {
+          "name": "Rivaldo",
+          "qid": "Q483577",
+          "born": 1972
+        },
+        {
+          "name": "Pepe Reina",
+          "qid": "Q163666",
+          "born": 1982
+        },
+        {
+          "name": "Kevin-Prince Boateng",
+          "qid": "Q151034",
+          "born": 1987
+        },
+        {
+          "name": "João Félix",
+          "qid": "Q27049064",
+          "born": 1999
+        },
+        {
+          "name": "Bojan Krkić",
+          "qid": "Q179172",
+          "born": 1990
+        },
+        {
+          "name": "Mark van Bommel",
+          "qid": "Q151853",
+          "born": 1977
+        },
+        {
+          "name": "Patrick Kluivert",
+          "qid": "Q189686",
+          "born": 1976
+        },
+        {
+          "name": "Edgar Davids",
+          "qid": "Q185115",
+          "born": 1973
+        },
+        {
+          "name": "Gianluca Zambrotta",
+          "qid": "Q182907",
+          "born": 1977
+        },
+        {
+          "name": "Franck Kessié",
+          "qid": "Q18044401",
+          "born": 1996
+        },
+        {
+          "name": "Demetrio Albertini",
+          "qid": "Q245011",
+          "born": 1971
+        },
+        {
+          "name": "Sergiño Dest",
+          "qid": "Q57456989",
+          "born": 2000
+        },
+        {
+          "name": "Gerard Deulofeu",
+          "qid": "Q356126",
+          "born": 1994
+        },
+        {
+          "name": "Alen Halilović",
+          "qid": "Q137856",
+          "born": 1996
+        },
+        {
+          "name": "Christophe Dugarry",
+          "qid": "Q176755",
+          "born": 1972
+        },
+        {
+          "name": "Maxi López",
+          "qid": "Q312317",
+          "born": 1984
+        },
+        {
+          "name": "Michael Reiziger",
+          "qid": "Q34658",
+          "born": 1973
+        },
+        {
+          "name": "Emerson Royal",
+          "qid": "Q30123152",
+          "born": 1999
+        },
+        {
+          "name": "Francesco Coco",
+          "qid": "Q332645",
+          "born": 1977
+        },
+        {
+          "name": "Winston Bogarde",
+          "qid": "Q125796",
+          "born": 1970
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "teamA": {
+        "name": "Inter Miami",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+      },
+      "teamB": {
+        "name": "Barcelona",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+      },
+      "answers": [
+        {
+          "name": "Lionel Messi",
+          "qid": "Q615",
+          "born": 1987
+        },
+        {
+          "name": "Luis Suárez",
+          "qid": "Q26517",
+          "born": 1987
+        },
+        {
+          "name": "Sergio Busquets",
+          "qid": "Q49704",
+          "born": 1988
+        },
+        {
+          "name": "Jordi Alba",
+          "qid": "Q187159",
+          "born": 1989
+        }
+      ]
     }
   ]
 }
