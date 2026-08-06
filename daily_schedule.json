@@ -626,33 +626,168 @@
     {
       "date": "2026-08-10",
       "teamA": {
-        "name": "Inter Miami",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        "name": "Bursaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyptpr1448199354.png"
       },
       "teamB": {
-        "name": "Barcelona",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
       },
       "answers": [
         {
-          "name": "Lionel Messi",
-          "qid": "Q615",
-          "born": 1987
+          "name": "Tomáš Sivok",
+          "qid": "Q299762",
+          "born": 1983
         },
         {
-          "name": "Luis Suárez",
-          "qid": "Q26517",
-          "born": 1987
-        },
-        {
-          "name": "Sergio Busquets",
-          "qid": "Q49704",
-          "born": 1988
-        },
-        {
-          "name": "Jordi Alba",
-          "qid": "Q187159",
+          "name": "Mert Günok",
+          "qid": "Q1401328",
           "born": 1989
+        },
+        {
+          "name": "Dany Nounkeu",
+          "qid": "Q595517",
+          "born": 1986
+        },
+        {
+          "name": "Umut Meraş",
+          "qid": "Q23063266",
+          "born": 1995
+        },
+        {
+          "name": "İbrahim Kaş",
+          "qid": "Q343331",
+          "born": 1986
+        },
+        {
+          "name": "Daniel Pancu",
+          "qid": "Q710813",
+          "born": 1977
+        },
+        {
+          "name": "Serdar Özkan",
+          "qid": "Q577265",
+          "born": 1987
+        },
+        {
+          "name": "Serdar Kurtuluş",
+          "qid": "Q114487",
+          "born": 1987
+        },
+        {
+          "name": "Tomáš Zápotočný",
+          "qid": "Q723915",
+          "born": 1980
+        },
+        {
+          "name": "Egemen Korkmaz",
+          "qid": "Q1114411",
+          "born": 1982
+        },
+        {
+          "name": "Sinan Kaloğlu",
+          "qid": "Q1396846",
+          "born": 1981
+        },
+        {
+          "name": "Umut Nayir",
+          "qid": "Q198254",
+          "born": 1993
+        },
+        {
+          "name": "Ali Tandoğan",
+          "qid": "Q1378286",
+          "born": 1977
+        },
+        {
+          "name": "Yusuf Şimşek",
+          "qid": "Q2035734",
+          "born": 1975
+        },
+        {
+          "name": "Zafer Biryol",
+          "qid": "Q140157",
+          "born": 1976
+        },
+        {
+          "name": "Rasim Kara",
+          "qid": "Q444939",
+          "born": 1950
+        },
+        {
+          "name": "Tamer Tuna",
+          "qid": "Q1515689",
+          "born": 1976
+        },
+        {
+          "name": "Tayfur Bingöl",
+          "qid": "Q7689786",
+          "born": 1993
+        },
+        {
+          "name": "Gökhan Güleç",
+          "qid": "Q1499558",
+          "born": 1985
+        },
+        {
+          "name": "Vedat Okyar",
+          "qid": "Q2555462",
+          "born": 1945
+        },
+        {
+          "name": "Güvenç Kurtar",
+          "qid": "Q1562324",
+          "born": 1960
+        },
+        {
+          "name": "Serdar Topraktepe",
+          "qid": "Q2272267",
+          "born": 1976
+        },
+        {
+          "name": "Sertan Eser",
+          "qid": "Q7455463",
+          "born": 1974
+        },
+        {
+          "name": "Ümit Aydın",
+          "qid": "Q4831526",
+          "born": 1980
+        },
+        {
+          "name": "Yasin Sülün",
+          "qid": "Q1550964",
+          "born": 1977
+        },
+        {
+          "name": "Eser Yağmur",
+          "qid": "Q820148",
+          "born": 1983
+        },
+        {
+          "name": "Fani Madida",
+          "qid": "Q3066407",
+          "born": 1966
+        },
+        {
+          "name": "Tuna Üzümcü",
+          "qid": "Q792953",
+          "born": 1982
+        },
+        {
+          "name": "Zeki Önatlı",
+          "qid": "Q8068673",
+          "born": 1968
+        },
+        {
+          "name": "Akif Başaran",
+          "qid": "Q6094426",
+          "born": 1956
+        },
+        {
+          "name": "Erman Güraçar",
+          "qid": "Q5389872",
+          "born": 1974
         }
       ]
     }
