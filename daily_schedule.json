@@ -660,6 +660,179 @@
           "born": 1992
         }
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "teamA": {
+        "name": "Gaziantepspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vsssxv1448200175.png"
+      },
+      "teamB": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+      },
+      "answers": [
+        {
+          "name": "Cenk Tosun",
+          "qid": "Q377432",
+          "born": 1991
+        },
+        {
+          "name": "Gökhan Zan",
+          "qid": "Q259179",
+          "born": 1981
+        },
+        {
+          "name": "İsmail Köybaşı",
+          "qid": "Q344193",
+          "born": 1989
+        },
+        {
+          "name": "Dany Nounkeu",
+          "qid": "Q595517",
+          "born": 1986
+        },
+        {
+          "name": "Ayhan Akman",
+          "qid": "Q448297",
+          "born": 1977
+        },
+        {
+          "name": "Fatih Tekke",
+          "qid": "Q559158",
+          "born": 1977
+        },
+        {
+          "name": "Rodrigo Tabata",
+          "qid": "Q245852",
+          "born": 1980
+        },
+        {
+          "name": "Ertuğrul Sağlam",
+          "qid": "Q250519",
+          "born": 1969
+        },
+        {
+          "name": "İbrahim Toraman",
+          "qid": "Q343372",
+          "born": 1981
+        },
+        {
+          "name": "İbrahim Üzülmez",
+          "qid": "Q343415",
+          "born": 1974
+        },
+        {
+          "name": "Oktay Derelioğlu",
+          "qid": "Q782070",
+          "born": 1975
+        },
+        {
+          "name": "Serdar Kurtuluş",
+          "qid": "Q114487",
+          "born": 1987
+        },
+        {
+          "name": "İbrahim Akın",
+          "qid": "Q343234",
+          "born": 1984
+        },
+        {
+          "name": "Murat Şahin",
+          "qid": "Q646042",
+          "born": 1976
+        },
+        {
+          "name": "Yusuf Şimşek",
+          "qid": "Q2035734",
+          "born": 1975
+        },
+        {
+          "name": "Ekrem Dağ",
+          "qid": "Q697338",
+          "born": 1980
+        },
+        {
+          "name": "Fevzi Tuncay",
+          "qid": "Q1343408",
+          "born": 1977
+        },
+        {
+          "name": "Gökhan Süzen",
+          "qid": "Q1559269",
+          "born": 1987
+        },
+        {
+          "name": "Mehmet Yozgatlı",
+          "qid": "Q544714",
+          "born": 1979
+        },
+        {
+          "name": "Orkan Çınar",
+          "qid": "Q17612189",
+          "born": 1996
+        },
+        {
+          "name": "Mehmet Sedef",
+          "qid": "Q1361314",
+          "born": 1987
+        },
+        {
+          "name": "Tamer Tuna",
+          "qid": "Q1515689",
+          "born": 1976
+        },
+        {
+          "name": "Gökhan Güleç",
+          "qid": "Q1499558",
+          "born": 1985
+        },
+        {
+          "name": "Veysel Cihan",
+          "qid": "Q453996",
+          "born": 1976
+        },
+        {
+          "name": "Adam Zejer",
+          "qid": "Q4680011",
+          "born": 1963
+        },
+        {
+          "name": "Adem Dursun",
+          "qid": "Q4682114",
+          "born": 1979
+        },
+        {
+          "name": "Ali Cansun Begeçarslan",
+          "qid": "Q6055982",
+          "born": 1982
+        },
+        {
+          "name": "Erman Güraçar",
+          "qid": "Q5389872",
+          "born": 1974
+        },
+        {
+          "name": "Niyazi Güney",
+          "qid": "Q6095150",
+          "born": 1974
+        },
+        {
+          "name": "Reşit Kaynak",
+          "qid": "Q6102130",
+          "born": 1952
+        },
+        {
+          "name": "Şenol Fidan",
+          "qid": "Q8082477",
+          "born": 1966
+        },
+        {
+          "name": "Sinan Demircioğlu",
+          "qid": "Q7521748",
+          "born": 1975
+        }
+      ]
     }
   ]
 }
