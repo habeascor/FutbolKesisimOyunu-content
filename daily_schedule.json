@@ -833,6 +833,174 @@
           "born": 1975
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "teamA": {
+        "name": "Chelsea",
+        "badge": "https://www.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+      },
+      "teamB": {
+        "name": "AC Milan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+      },
+      "answers": [
+        {
+          "name": "George Weah",
+          "qid": "Q173139",
+          "born": 1966
+        },
+        {
+          "name": "Fernando Torres",
+          "qid": "Q42731",
+          "born": 1984
+        },
+        {
+          "name": "Olivier Giroud",
+          "qid": "Q1911",
+          "born": 1986
+        },
+        {
+          "name": "Andriy Shevchenko",
+          "qid": "Q41244",
+          "born": 1976
+        },
+        {
+          "name": "Hernán Crespo",
+          "qid": "Q160206",
+          "born": 1975
+        },
+        {
+          "name": "Gonzalo Higuaín",
+          "qid": "Q483846",
+          "born": 1987
+        },
+        {
+          "name": "Ruud Gullit",
+          "qid": "Q173972",
+          "born": 1962
+        },
+        {
+          "name": "Thiago Silva",
+          "qid": "Q210453",
+          "born": 1984
+        },
+        {
+          "name": "Álvaro Morata",
+          "qid": "Q48770",
+          "born": 1992
+        },
+        {
+          "name": "Michael Essien",
+          "qid": "Q969520",
+          "born": 1982
+        },
+        {
+          "name": "Marcel Desailly",
+          "qid": "Q193625",
+          "born": 1968
+        },
+        {
+          "name": "Alexandre Pato",
+          "qid": "Q138075",
+          "born": 1989
+        },
+        {
+          "name": "João Félix",
+          "qid": "Q27049064",
+          "born": 1999
+        },
+        {
+          "name": "Christian Pulisic",
+          "qid": "Q22279773",
+          "born": 1998
+        },
+        {
+          "name": "Christian Panucci",
+          "qid": "Q168287",
+          "born": 1973
+        },
+        {
+          "name": "Asmir Begović",
+          "qid": "Q431368",
+          "born": 1987
+        },
+        {
+          "name": "Christopher Nkunku",
+          "qid": "Q21693199",
+          "born": 1997
+        },
+        {
+          "name": "Brian Laudrup",
+          "qid": "Q212854",
+          "born": 1969
+        },
+        {
+          "name": "Marco Amelia",
+          "qid": "Q234866",
+          "born": 1982
+        },
+        {
+          "name": "Alex",
+          "qid": "Q216142",
+          "born": 1982
+        },
+        {
+          "name": "Jimmy Greaves",
+          "qid": "Q297271",
+          "born": 1940
+        },
+        {
+          "name": "Tammy Abraham",
+          "qid": "Q24050378",
+          "born": 1997
+        },
+        {
+          "name": "Fabio Borini",
+          "qid": "Q245054",
+          "born": 1991
+        },
+        {
+          "name": "Fikayo Tomori",
+          "qid": "Q24068577",
+          "born": 1997
+        },
+        {
+          "name": "Ruben Loftus-Cheek",
+          "qid": "Q18616995",
+          "born": 1996
+        },
+        {
+          "name": "Tiémoué Bakayoko",
+          "qid": "Q15063275",
+          "born": 1994
+        },
+        {
+          "name": "Carlo Cudicini",
+          "qid": "Q207806",
+          "born": 1973
+        },
+        {
+          "name": "Marco van Ginkel",
+          "qid": "Q648671",
+          "born": 1992
+        },
+        {
+          "name": "Ray Wilkins",
+          "qid": "Q352820",
+          "born": 1956
+        },
+        {
+          "name": "Winston Bogarde",
+          "qid": "Q125796",
+          "born": 1970
+        },
+        {
+          "name": "Samuele Dalla Bona",
+          "qid": "Q966590",
+          "born": 1981
+        }
+      ]
     }
   ],
   "minimumBuild": 8
