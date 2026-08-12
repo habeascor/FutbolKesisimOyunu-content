@@ -1124,6 +1124,239 @@
           "born": 1949
         }
       ]
+    },
+    {
+      "date": "2026-08-14",
+      "teamA": {
+        "name": "Sevilla",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png"
+      },
+      "teamB": {
+        "name": "Real Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+      },
+      "answers": [
+        {
+          "name": "Sergio Ramos",
+          "qid": "Q483309",
+          "born": 1986
+        },
+        {
+          "name": "Javier Hernández",
+          "qid": "Q165125",
+          "born": 1988
+        },
+        {
+          "name": "Isco",
+          "qid": "Q80892",
+          "born": 1992
+        },
+        {
+          "name": "Davor Šuker",
+          "qid": "Q189217",
+          "born": 1968
+        },
+        {
+          "name": "Denis Cheryshev",
+          "qid": "Q246417",
+          "born": 1990
+        },
+        {
+          "name": "Javier Saviola",
+          "qid": "Q186071",
+          "born": 1981
+        },
+        {
+          "name": "José Antonio Reyes",
+          "qid": "Q276399",
+          "born": 1983
+        },
+        {
+          "name": "Pablo Sarabia",
+          "qid": "Q510165",
+          "born": 1992
+        },
+        {
+          "name": "Iván Zamorano",
+          "qid": "Q192035",
+          "born": 1967
+        },
+        {
+          "name": "Robert Prosinečki",
+          "qid": "Q298190",
+          "born": 1969
+        },
+        {
+          "name": "Diego López",
+          "qid": "Q314617",
+          "born": 1981
+        },
+        {
+          "name": "Mariano Díaz",
+          "qid": "Q10556350",
+          "born": 1993
+        },
+        {
+          "name": "Júlio Baptista",
+          "qid": "Q204895",
+          "born": 1981
+        },
+        {
+          "name": "Sergio Reguilón",
+          "qid": "Q24258610",
+          "born": 1996
+        },
+        {
+          "name": "Chus Pereda",
+          "qid": "Q630966",
+          "born": 1938
+        },
+        {
+          "name": "Francisco Buyo",
+          "qid": "Q439067",
+          "born": 1958
+        },
+        {
+          "name": "Dejan Petković",
+          "qid": "Q2015351",
+          "born": 1972
+        },
+        {
+          "name": "Óscar Rodríguez",
+          "qid": "Q27825594",
+          "born": 1998
+        },
+        {
+          "name": "Juan Bautista Agüero",
+          "qid": "Q325802",
+          "born": 1935
+        },
+        {
+          "name": "Miquel Soler",
+          "qid": "Q919720",
+          "born": 1965
+        },
+        {
+          "name": "Enrique Mateos",
+          "qid": "Q1329060",
+          "born": 1934
+        },
+        {
+          "name": "Sebastián Losada",
+          "qid": "Q2202196",
+          "born": 1967
+        },
+        {
+          "name": "Federico Magallanes",
+          "qid": "Q939480",
+          "born": 1976
+        },
+        {
+          "name": "Nando",
+          "qid": "Q644033",
+          "born": 1967
+        },
+        {
+          "name": "Canário",
+          "qid": "Q2635514",
+          "born": 1934
+        },
+        {
+          "name": "Carlos Aranda",
+          "qid": "Q27699",
+          "born": 1980
+        },
+        {
+          "name": "Fran González",
+          "qid": "Q122724434",
+          "born": 2005
+        },
+        {
+          "name": "Jordi López",
+          "qid": "Q1703728",
+          "born": 1981
+        },
+        {
+          "name": "Juan Artola",
+          "qid": "Q3354703",
+          "born": 1895
+        },
+        {
+          "name": "Felo",
+          "qid": "Q3928939",
+          "born": 1936
+        },
+        {
+          "name": "Manolín Bueno",
+          "qid": "Q581395",
+          "born": 1940
+        },
+        {
+          "name": "Luis Miguel Ramis",
+          "qid": "Q3323952",
+          "born": 1970
+        },
+        {
+          "name": "Antonio Gómez",
+          "qid": "Q3323857",
+          "born": 1973
+        },
+        {
+          "name": "José Antonio Salguero",
+          "qid": "Q3821748",
+          "born": 1960
+        },
+        {
+          "name": "Pepillo",
+          "qid": "Q2883237",
+          "born": 1934
+        },
+        {
+          "name": "Sebastián Fleitas",
+          "qid": "Q3109635",
+          "born": 1947
+        },
+        {
+          "name": "Mino",
+          "qid": "Q9033417",
+          "born": 1963
+        },
+        {
+          "name": "Leoncito",
+          "qid": "Q4776739",
+          "born": 1909
+        },
+        {
+          "name": "Rafael De Diego",
+          "qid": "Q6098113",
+          "born": 1944
+        },
+        {
+          "name": "Santos Bedoya",
+          "qid": "Q16054129",
+          "born": 1939
+        },
+        {
+          "name": "Adolfo Bracero",
+          "qid": "Q20986367",
+          "born": 1909
+        },
+        {
+          "name": "Francisco Guzmán",
+          "qid": "Q131584048",
+          "born": 1889
+        },
+        {
+          "name": "Juan Pablo Barrero",
+          "qid": "Q134568194",
+          "born": 1900
+        },
+        {
+          "name": "Francisco Campos",
+          "qid": "Q126095090",
+          "born": 1912
+        }
+      ]
     }
   ],
   "minimumBuild": 8
