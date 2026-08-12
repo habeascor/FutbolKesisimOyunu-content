@@ -1001,6 +1001,129 @@
           "born": 1981
         }
       ]
+    },
+    {
+      "date": "2026-08-13",
+      "teamA": {
+        "name": "Bayern Münich",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+      },
+      "teamB": {
+        "name": "Borussia Dortmund",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+      },
+      "answers": [
+        {
+          "name": "Robert Lewandowski",
+          "qid": "Q151269",
+          "born": 1988
+        },
+        {
+          "name": "Mario Götze",
+          "qid": "Q104454",
+          "born": 1992
+        },
+        {
+          "name": "Mats Hummels",
+          "qid": "Q110053",
+          "born": 1988
+        },
+        {
+          "name": "Ivan Perišić",
+          "qid": "Q161054",
+          "born": 1989
+        },
+        {
+          "name": "Emre Can",
+          "qid": "Q27694",
+          "born": 1994
+        },
+        {
+          "name": "Raphaël Guerreiro",
+          "qid": "Q4241680",
+          "born": 1993
+        },
+        {
+          "name": "Niklas Süle",
+          "qid": "Q13365847",
+          "born": 1995
+        },
+        {
+          "name": "Jürgen Kohler",
+          "qid": "Q308925",
+          "born": 1965
+        },
+        {
+          "name": "Torsten Frings",
+          "qid": "Q107076",
+          "born": 1976
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "qid": "Q472300",
+          "born": 1994
+        },
+        {
+          "name": "Michael Rummenigge",
+          "qid": "Q686183",
+          "born": 1964
+        },
+        {
+          "name": "Robert Kovač",
+          "qid": "Q271882",
+          "born": 1974
+        },
+        {
+          "name": "Toni Schumacher",
+          "qid": "Q157847",
+          "born": 1954
+        },
+        {
+          "name": "Sebastian Rode",
+          "qid": "Q642850",
+          "born": 1990
+        },
+        {
+          "name": "Stefan Reuter",
+          "qid": "Q327285",
+          "born": 1966
+        },
+        {
+          "name": "Thomas Helmer",
+          "qid": "Q508467",
+          "born": 1965
+        },
+        {
+          "name": "Markus Feulner",
+          "qid": "Q545001",
+          "born": 1982
+        },
+        {
+          "name": "Christian Nerlinger",
+          "qid": "Q650214",
+          "born": 1973
+        },
+        {
+          "name": "Grant-Leon Ranos",
+          "qid": "Q117290960",
+          "born": 2003
+        },
+        {
+          "name": "Jürgen Wegmann",
+          "qid": "Q895540",
+          "born": 1964
+        },
+        {
+          "name": "Burkhard Segler",
+          "qid": "Q1016504",
+          "born": 1951
+        },
+        {
+          "name": "Helmut Schmidt",
+          "qid": "Q1604145",
+          "born": 1949
+        }
+      ]
     }
   ],
   "minimumBuild": 8
