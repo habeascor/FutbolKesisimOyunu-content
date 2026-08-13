@@ -1359,5 +1359,6 @@
       ]
     }
   ],
-  "minimumBuild": 10
+  "minimumBuild": 10,
+  "promoFreeUntil": "2026-09-01"
 }
