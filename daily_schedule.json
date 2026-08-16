@@ -1357,6 +1357,417 @@
           "born": 1912
         }
       ]
+    },
+    {
+      "date": "2026-08-16",
+      "teamA": {
+        "name": "Chelsea",
+        "badge": "https://www.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+      },
+      "teamB": {
+        "name": "manchester united",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "answers": [
+        {
+          "name": "Romelu Lukaku",
+          "qid": "Q313316",
+          "born": 1993
+        },
+        {
+          "name": "Juan Mata",
+          "qid": "Q168740",
+          "born": 1988
+        },
+        {
+          "name": "Radamel Falcao",
+          "qid": "Q138172",
+          "born": 1986
+        },
+        {
+          "name": "Danny Welbeck",
+          "qid": "Q188457",
+          "born": 1990
+        },
+        {
+          "name": "Jadon Sancho",
+          "qid": "Q30148558",
+          "born": 2000
+        },
+        {
+          "name": "Mason Mount",
+          "qid": "Q38000669",
+          "born": 1999
+        },
+        {
+          "name": "Juan Sebastián Verón",
+          "qid": "Q46502",
+          "born": 1975
+        },
+        {
+          "name": "Nemanja Matić",
+          "qid": "Q297603",
+          "born": 1988
+        },
+        {
+          "name": "Mark Hughes",
+          "qid": "Q214513",
+          "born": 1963
+        },
+        {
+          "name": "Alejandro Garnacho",
+          "qid": "Q111366053",
+          "born": 2004
+        },
+        {
+          "name": "Ray Wilkins",
+          "qid": "Q352820",
+          "born": 1956
+        },
+        {
+          "name": "Andrey Santos",
+          "qid": "Q106171073",
+          "born": 2004
+        },
+        {
+          "name": "George Graham",
+          "qid": "Q313763",
+          "born": 1944
+        },
+        {
+          "name": "Alex Stepney",
+          "qid": "Q380205",
+          "born": 1942
+        },
+        {
+          "name": "Mark Bosnich",
+          "qid": "Q350628",
+          "born": 1972
+        },
+        {
+          "name": "Paul Parker",
+          "qid": "Q769780",
+          "born": 1964
+        },
+        {
+          "name": "Mal Donaghy",
+          "qid": "Q648928",
+          "born": 1957
+        },
+        {
+          "name": "Stewart Houston",
+          "qid": "Q722580",
+          "born": 1949
+        },
+        {
+          "name": "Mickey Thomas",
+          "qid": "Q1931375",
+          "born": 1954
+        },
+        {
+          "name": "George Hunter",
+          "qid": "Q1587744",
+          "born": 1886
+        },
+        {
+          "name": "Tommy Baldwin",
+          "qid": "Q5485914",
+          "born": 1945
+        },
+        {
+          "name": "Harold Halse",
+          "qid": "Q2470716",
+          "born": 1886
+        },
+        {
+          "name": "Mike Pinner",
+          "qid": "Q6848398",
+          "born": 1934
+        },
+        {
+          "name": "Jimmy Turnbull",
+          "qid": "Q3436786",
+          "born": 1884
+        },
+        {
+          "name": "Stan Crowther",
+          "qid": "Q7597603",
+          "born": 1935
+        },
+        {
+          "name": "Graham Moore",
+          "qid": "Q5593084",
+          "born": 1941
+        },
+        {
+          "name": "Jim McCalliog",
+          "qid": "Q3808355",
+          "born": 1946
+        },
+        {
+          "name": "Tommy Meehan",
+          "qid": "Q7819697",
+          "born": 1896
+        },
+        {
+          "name": "Colin Waldron",
+          "qid": "Q5145643",
+          "born": 1946
+        },
+        {
+          "name": "James Saunders",
+          "qid": "Q6142787",
+          "born": null
+        },
+        {
+          "name": "Peter Proudfoot",
+          "qid": "Q15996494",
+          "born": 1882
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "teamA": {
+        "name": "Barcelona",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+      },
+      "teamB": {
+        "name": "Atletico Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+      },
+      "answers": [
+        {
+          "name": "Luis Suárez",
+          "qid": "Q26517",
+          "born": 1987
+        },
+        {
+          "name": "Antoine Griezmann",
+          "qid": "Q455462",
+          "born": 1991
+        },
+        {
+          "name": "Eusebio",
+          "qid": "Q366816",
+          "born": 1964
+        },
+        {
+          "name": "Sergio Agüero",
+          "qid": "Q119562",
+          "born": 1988
+        },
+        {
+          "name": "David Villa",
+          "qid": "Q83006",
+          "born": 1981
+        },
+        {
+          "name": "Arda Turan",
+          "qid": "Q487459",
+          "born": 1987
+        },
+        {
+          "name": "Memphis Depay",
+          "qid": "Q1894",
+          "born": 1994
+        },
+        {
+          "name": "João Félix",
+          "qid": "Q27049064",
+          "born": 1999
+        },
+        {
+          "name": "Thiago Motta",
+          "qid": "Q191885",
+          "born": 1982
+        },
+        {
+          "name": "Julio Salinas",
+          "qid": "Q155290",
+          "born": 1962
+        },
+        {
+          "name": "Marcos Alonso",
+          "qid": "Q786680",
+          "born": 1959
+        },
+        {
+          "name": "Bernd Schuster",
+          "qid": "Q44389",
+          "born": 1959
+        },
+        {
+          "name": "Demetrio Albertini",
+          "qid": "Q245011",
+          "born": 1971
+        },
+        {
+          "name": "Simão Sabrosa",
+          "qid": "Q203665",
+          "born": 1979
+        },
+        {
+          "name": "Clément Lenglet",
+          "qid": "Q16236859",
+          "born": 1995
+        },
+        {
+          "name": "Luis García",
+          "qid": "Q295416",
+          "born": 1978
+        },
+        {
+          "name": "Dani Pacheco",
+          "qid": "Q311947",
+          "born": 1991
+        },
+        {
+          "name": "Sergi Barjuán",
+          "qid": "Q342223",
+          "born": 1971
+        },
+        {
+          "name": "Fran Mérida",
+          "qid": "Q313786",
+          "born": 1990
+        },
+        {
+          "name": "Santiago Ezquerro",
+          "qid": "Q311972",
+          "born": 1976
+        },
+        {
+          "name": "Julio Alberto",
+          "qid": "Q1947271",
+          "born": 1958
+        },
+        {
+          "name": "Lluís Carreras",
+          "qid": "Q1876388",
+          "born": 1972
+        },
+        {
+          "name": "Miguel Reina",
+          "qid": "Q459238",
+          "born": 1946
+        },
+        {
+          "name": "Delfí Geli",
+          "qid": "Q1184161",
+          "born": 1969
+        },
+        {
+          "name": "Miquel Soler",
+          "qid": "Q919720",
+          "born": 1965
+        },
+        {
+          "name": "Eulogio Martínez",
+          "qid": "Q974364",
+          "born": 1935
+        },
+        {
+          "name": "Juan Carlos",
+          "qid": "Q2276748",
+          "born": 1965
+        },
+        {
+          "name": "Toni Jiménez",
+          "qid": "Q2144303",
+          "born": 1970
+        },
+        {
+          "name": "Pablo Alfaro",
+          "qid": "Q667399",
+          "born": 1969
+        },
+        {
+          "name": "Ángel Arocha",
+          "qid": "Q251503",
+          "born": 1907
+        },
+        {
+          "name": "Marcial Pina",
+          "qid": "Q956974",
+          "born": 1946
+        },
+        {
+          "name": "Carlos Muñoz",
+          "qid": "Q606707",
+          "born": 1961
+        },
+        {
+          "name": "Jorge Mendonça",
+          "qid": "Q1703754",
+          "born": 1938
+        },
+        {
+          "name": "Nano",
+          "qid": "Q1364178",
+          "born": 1982
+        },
+        {
+          "name": "Jesús Landáburu",
+          "qid": "Q2081285",
+          "born": 1955
+        },
+        {
+          "name": "Manuel Vidal",
+          "qid": "Q9028208",
+          "born": 1901
+        },
+        {
+          "name": "Argila",
+          "qid": "Q2885394",
+          "born": 1920
+        },
+        {
+          "name": "Juanjo Enríquez",
+          "qid": "Q5950230",
+          "born": 1950
+        },
+        {
+          "name": "Cheché Martín",
+          "qid": "Q12386093",
+          "born": 1926
+        },
+        {
+          "name": "Enrique Morán",
+          "qid": "Q5833623",
+          "born": 1953
+        },
+        {
+          "name": "José Arana",
+          "qid": "Q3186178",
+          "born": 1911
+        },
+        {
+          "name": "Ramón de Pablo Marañón",
+          "qid": "Q16880178",
+          "born": 1938
+        },
+        {
+          "name": "Victoriano de Santos",
+          "qid": "Q19629188",
+          "born": 1906
+        },
+        {
+          "name": "Ahmed Elmsmari",
+          "qid": "Q133567569",
+          "born": 2006
+        },
+        {
+          "name": "José García-Nieto",
+          "qid": "Q5939978",
+          "born": 1915
+        },
+        {
+          "name": "Luis Miranda Junco",
+          "qid": "Q28708101",
+          "born": 1918
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
