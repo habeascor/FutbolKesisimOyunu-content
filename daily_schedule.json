@@ -1768,6 +1768,39 @@
           "born": 1918
         }
       ]
+    },
+    {
+      "date": "2026-08-20",
+      "teamA": {
+        "name": "galatasaray",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+      },
+      "teamB": {
+        "name": "lazio",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
+      },
+      "answers": [
+        {
+          "name": "Fernando Muslera",
+          "qid": "Q203749",
+          "born": 1986
+        },
+        {
+          "name": "Goran Pandev",
+          "qid": "Q238163",
+          "born": 1983
+        },
+        {
+          "name": "Lorik Cana",
+          "qid": "Q311155",
+          "born": 1983
+        },
+        {
+          "name": "Luis Pedro Cavanda",
+          "qid": "Q1393099",
+          "born": 1991
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
