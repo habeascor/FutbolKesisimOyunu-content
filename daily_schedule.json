@@ -2165,6 +2165,154 @@
           "born": 2006
         }
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "teamA": {
+        "name": "Vestel Manisaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qoldz11489432077.png"
+      },
+      "teamB": {
+        "name": "Galatasaray",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+      },
+      "answers": [
+        {
+          "name": "Arda Turan",
+          "qid": "Q487459",
+          "born": 1987
+        },
+        {
+          "name": "Burak Yılmaz",
+          "qid": "Q18765",
+          "born": 1985
+        },
+        {
+          "name": "Hakan Balta",
+          "qid": "Q31564",
+          "born": 1983
+        },
+        {
+          "name": "Selçuk İnan",
+          "qid": "Q936379",
+          "born": 1985
+        },
+        {
+          "name": "Caner Erkin",
+          "qid": "Q946447",
+          "born": 1988
+        },
+        {
+          "name": "Yalçın Ayhan",
+          "qid": "Q727569",
+          "born": 1982
+        },
+        {
+          "name": "Aydın Yılmaz",
+          "qid": "Q792898",
+          "born": 1988
+        },
+        {
+          "name": "Adem Büyük",
+          "qid": "Q355638",
+          "born": 1987
+        },
+        {
+          "name": "Ferhat Öztorun",
+          "qid": "Q950336",
+          "born": 1987
+        },
+        {
+          "name": "Ufuk Ceylan",
+          "qid": "Q946559",
+          "born": 1986
+        },
+        {
+          "name": "Mehmet Güven",
+          "qid": "Q922443",
+          "born": 1987
+        },
+        {
+          "name": "Mustafa Sarp",
+          "qid": "Q426881",
+          "born": 1980
+        },
+        {
+          "name": "Vedat İnceefe",
+          "qid": "Q178545",
+          "born": 1974
+        },
+        {
+          "name": "Murat Erdoğan",
+          "qid": "Q1953539",
+          "born": 1976
+        },
+        {
+          "name": "Orkun Usak",
+          "qid": "Q931253",
+          "born": 1980
+        },
+        {
+          "name": "Yaser Yıldız",
+          "qid": "Q1383556",
+          "born": 1988
+        },
+        {
+          "name": "Yiğit Gökoğlan",
+          "qid": "Q522688",
+          "born": 1989
+        },
+        {
+          "name": "Anıl Karaer",
+          "qid": "Q615362",
+          "born": 1988
+        },
+        {
+          "name": "Umut Gündoğan",
+          "qid": "Q2478788",
+          "born": 1990
+        },
+        {
+          "name": "Berk Neziroğluları",
+          "qid": "Q820773",
+          "born": 1991
+        },
+        {
+          "name": "Cem Sultan",
+          "qid": "Q1053263",
+          "born": 1991
+        },
+        {
+          "name": "Mertan Caner Öztürk",
+          "qid": "Q6820644",
+          "born": 1992
+        },
+        {
+          "name": "Mustafa Kocabey",
+          "qid": "Q3328883",
+          "born": 1974
+        },
+        {
+          "name": "Oğuz Sabankay",
+          "qid": "Q740321",
+          "born": 1987
+        },
+        {
+          "name": "Oğuzhan Kayar",
+          "qid": "Q15076827",
+          "born": 1995
+        },
+        {
+          "name": "Varol Ürkmez",
+          "qid": "Q6103237",
+          "born": 1937
+        },
+        {
+          "name": "Zafer Şakar",
+          "qid": "Q8064289",
+          "born": 1985
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
