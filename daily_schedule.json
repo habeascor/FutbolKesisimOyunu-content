@@ -1801,6 +1801,370 @@
           "born": 1991
         }
       ]
+    },
+    {
+      "date": "2026-08-24",
+      "teamA": {
+        "name": "Bursaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyptpr1448199354.png"
+      },
+      "teamB": {
+        "name": "Fenerbahçe",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+      },
+      "answers": [
+        {
+          "name": "Miroslav Stoch",
+          "qid": "Q299515",
+          "born": 1989
+        },
+        {
+          "name": "Moussa Sow",
+          "qid": "Q314373",
+          "born": 1986
+        },
+        {
+          "name": "Ozan Tufan",
+          "qid": "Q2043015",
+          "born": 1995
+        },
+        {
+          "name": "Tuncay Şanlı",
+          "qid": "Q310199",
+          "born": 1982
+        },
+        {
+          "name": "Mert Günok",
+          "qid": "Q1401328",
+          "born": 1989
+        },
+        {
+          "name": "Colin Kazim-Richards",
+          "qid": "Q313145",
+          "born": 1986
+        },
+        {
+          "name": "Samuel Holmén",
+          "qid": "Q318533",
+          "born": 1984
+        },
+        {
+          "name": "Ümit Özat",
+          "qid": "Q334886",
+          "born": 1976
+        },
+        {
+          "name": "Fernandão",
+          "qid": "Q6292180",
+          "born": 1987
+        },
+        {
+          "name": "İsmail Yüksek",
+          "qid": "Q97320541",
+          "born": 1999
+        },
+        {
+          "name": "Harun Tekin",
+          "qid": "Q1587824",
+          "born": 1989
+        },
+        {
+          "name": "Volkan Şen",
+          "qid": "Q787409",
+          "born": 1987
+        },
+        {
+          "name": "Serdar Aziz",
+          "qid": "Q942151",
+          "born": 1990
+        },
+        {
+          "name": "Şener Özbayraklı",
+          "qid": "Q2810222",
+          "born": 1990
+        },
+        {
+          "name": "Elvir Baljić",
+          "qid": "Q560001",
+          "born": 1974
+        },
+        {
+          "name": "John Moshoeu",
+          "qid": "Q593509",
+          "born": 1965
+        },
+        {
+          "name": "Erol Bulut",
+          "qid": "Q562157",
+          "born": 1975
+        },
+        {
+          "name": "Selçuk Şahin",
+          "qid": "Q739376",
+          "born": 1981
+        },
+        {
+          "name": "Özer Hurmacı",
+          "qid": "Q307802",
+          "born": 1986
+        },
+        {
+          "name": "Egemen Korkmaz",
+          "qid": "Q1114411",
+          "born": 1982
+        },
+        {
+          "name": "Umut Nayir",
+          "qid": "Q198254",
+          "born": 1993
+        },
+        {
+          "name": "Bilal Kısa",
+          "qid": "Q860285",
+          "born": 1983
+        },
+        {
+          "name": "Gökçek Vederson",
+          "qid": "Q607752",
+          "born": 1981
+        },
+        {
+          "name": "Yusuf Şimşek",
+          "qid": "Q2035734",
+          "born": 1975
+        },
+        {
+          "name": "Zafer Biryol",
+          "qid": "Q140157",
+          "born": 1976
+        },
+        {
+          "name": "Frank Pingel",
+          "qid": "Q562658",
+          "born": 1964
+        },
+        {
+          "name": "Mateus Paraná",
+          "qid": "Q970029",
+          "born": 1987
+        },
+        {
+          "name": "Serdar Kulbilge",
+          "qid": "Q2000793",
+          "born": 1980
+        },
+        {
+          "name": "Burak Kapacak",
+          "qid": "Q53870847",
+          "born": 1999
+        },
+        {
+          "name": "Kemal Aslan",
+          "qid": "Q716673",
+          "born": 1981
+        },
+        {
+          "name": "Bahtiyar Yorulmaz",
+          "qid": "Q803670",
+          "born": 1955
+        },
+        {
+          "name": "İsmail Güldüren",
+          "qid": "Q344163",
+          "born": 1979
+        },
+        {
+          "name": "İbrahim Serdar Aydın",
+          "qid": "Q16442106",
+          "born": 1996
+        },
+        {
+          "name": "Ergun Öztuna",
+          "qid": "Q5385837",
+          "born": 1937
+        },
+        {
+          "name": "Halil Zeybek",
+          "qid": "Q1571121",
+          "born": 1985
+        },
+        {
+          "name": "Semih Yuvakuran",
+          "qid": "Q2269141",
+          "born": 1963
+        },
+        {
+          "name": "Ali Nail Durmuş",
+          "qid": "Q6101899",
+          "born": 1970
+        },
+        {
+          "name": "Osman Denizci",
+          "qid": "Q17431648",
+          "born": 1957
+        },
+        {
+          "name": "Tuncay Becedek",
+          "qid": "Q106874755",
+          "born": 1942
+        },
+        {
+          "name": "Uğur Kaan Yıldız",
+          "qid": "Q116586788",
+          "born": 2002
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "teamA": {
+        "name": "Manchester United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "teamB": {
+        "name": "Sporting Lisbon",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png"
+      },
+      "answers": [
+        {
+          "name": "Cristiano Ronaldo",
+          "qid": "Q11571",
+          "born": 1985
+        },
+        {
+          "name": "Nani",
+          "qid": "Q482947",
+          "born": 1986
+        },
+        {
+          "name": "Bruno Fernandes",
+          "qid": "Q4979316",
+          "born": 1994
+        },
+        {
+          "name": "Peter Schmeichel",
+          "qid": "Q182314",
+          "born": 1963
+        },
+        {
+          "name": "Marcos Rojo",
+          "qid": "Q507890",
+          "born": 1990
+        },
+        {
+          "name": "Gabriel Heinze",
+          "qid": "Q63659",
+          "born": 1978
+        },
+        {
+          "name": "Manuel Ugarte",
+          "qid": "Q27960175",
+          "born": 2001
+        },
+        {
+          "name": "Jovan Kirovski",
+          "qid": "Q1382753",
+          "born": 1976
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "teamA": {
+        "name": "AC Milan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+      },
+      "teamB": {
+        "name": "Ajax",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+      },
+      "answers": [
+        {
+          "name": "Zlatan Ibrahimović",
+          "qid": "Q46896",
+          "born": 1981
+        },
+        {
+          "name": "Marco van Basten",
+          "qid": "Q483629",
+          "born": 1964
+        },
+        {
+          "name": "Frank Rijkaard",
+          "qid": "Q169098",
+          "born": 1962
+        },
+        {
+          "name": "Klaas-Jan Huntelaar",
+          "qid": "Q26069",
+          "born": 1983
+        },
+        {
+          "name": "Clarence Seedorf",
+          "qid": "Q484909",
+          "born": 1976
+        },
+        {
+          "name": "Bojan Krkić",
+          "qid": "Q179172",
+          "born": 1990
+        },
+        {
+          "name": "Patrick Kluivert",
+          "qid": "Q189686",
+          "born": 1976
+        },
+        {
+          "name": "Edgar Davids",
+          "qid": "Q185115",
+          "born": 1973
+        },
+        {
+          "name": "Nigel de Jong",
+          "qid": "Q185650",
+          "born": 1984
+        },
+        {
+          "name": "Sergiño Dest",
+          "qid": "Q57456989",
+          "born": 2000
+        },
+        {
+          "name": "Brian Laudrup",
+          "qid": "Q212854",
+          "born": 1969
+        },
+        {
+          "name": "Jaap Stam",
+          "qid": "Q216917",
+          "born": 1972
+        },
+        {
+          "name": "Urby Emanuelson",
+          "qid": "Q311043",
+          "born": 1986
+        },
+        {
+          "name": "Lucas Ocampos",
+          "qid": "Q194579",
+          "born": 1994
+        },
+        {
+          "name": "Michael Reiziger",
+          "qid": "Q34658",
+          "born": 1973
+        },
+        {
+          "name": "Winston Bogarde",
+          "qid": "Q125796",
+          "born": 1970
+        },
+        {
+          "name": "Maximilian Ibrahimović",
+          "qid": "Q127607065",
+          "born": 2006
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
