@@ -2404,6 +2404,94 @@
           "born": 1977
         }
       ]
+    },
+    {
+      "date": "2026-09-27",
+      "teamA": {
+        "name": "Juventus",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+      },
+      "teamB": {
+        "name": "Monaco",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+      },
+      "answers": [
+        {
+          "name": "Thierry Henry",
+          "qid": "Q45901",
+          "born": 1977
+        },
+        {
+          "name": "Paul Pogba",
+          "qid": "Q129027",
+          "born": 1993
+        },
+        {
+          "name": "Lilian Thuram",
+          "qid": "Q180326",
+          "born": 1972
+        },
+        {
+          "name": "David Trezeguet",
+          "qid": "Q183967",
+          "born": 1977
+        },
+        {
+          "name": "Patrice Evra",
+          "qid": "Q1916",
+          "born": 1981
+        },
+        {
+          "name": "Christian Vieri",
+          "qid": "Q188696",
+          "born": 1973
+        },
+        {
+          "name": "Denis Zakaria",
+          "qid": "Q21066260",
+          "born": 1996
+        },
+        {
+          "name": "Morgan De Sanctis",
+          "qid": "Q219618",
+          "born": 1977
+        },
+        {
+          "name": "Marco Di Vaio",
+          "qid": "Q136940",
+          "born": 1976
+        },
+        {
+          "name": "Khéphren Thuram",
+          "qid": "Q58465451",
+          "born": 2001
+        },
+        {
+          "name": "Vladimir Jugović",
+          "qid": "Q146119",
+          "born": 1969
+        },
+        {
+          "name": "Olivier Kapo",
+          "qid": "Q331914",
+          "born": 1980
+        },
+        {
+          "name": "Rui Barros",
+          "qid": "Q735137",
+          "born": 1965
+        },
+        {
+          "name": "Sergio Almirón",
+          "qid": "Q387003",
+          "born": 1980
+        },
+        {
+          "name": "Raúl Conti",
+          "qid": "Q3421427",
+          "born": 1928
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
