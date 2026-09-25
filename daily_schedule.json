@@ -2313,6 +2313,59 @@
           "born": 1985
         }
       ]
+    },
+    {
+      "date": "2026-09-25",
+      "teamA": {
+        "name": "Fenerbahçe",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+      },
+      "teamB": {
+        "name": "Paris Saint Germain",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+      },
+      "answers": [
+        {
+          "name": "Nicolas Anelka",
+          "qid": "Q1939",
+          "born": 1979
+        },
+        {
+          "name": "Marco Asensio",
+          "qid": "Q16148978",
+          "born": 1996
+        },
+        {
+          "name": "Jay-Jay Okocha",
+          "qid": "Q605817",
+          "born": 1973
+        },
+        {
+          "name": "Diego Lugano",
+          "qid": "Q373547",
+          "born": 1980
+        },
+        {
+          "name": "Gregory van der Wiel",
+          "qid": "Q201367",
+          "born": 1988
+        },
+        {
+          "name": "Mateja Kežman",
+          "qid": "Q204059",
+          "born": 1979
+        },
+        {
+          "name": "Milan Škriniar",
+          "qid": "Q891520",
+          "born": 1995
+        },
+        {
+          "name": "Mevlüt Erdinç",
+          "qid": "Q440846",
+          "born": 1987
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
