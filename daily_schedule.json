@@ -2366,6 +2366,44 @@
           "born": 1987
         }
       ]
+    },
+    {
+      "date": "2026-09-26",
+      "teamA": {
+        "name": "Atletico Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+      },
+      "teamB": {
+        "name": "Trabzonspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png"
+      },
+      "answers": [
+        {
+          "name": "Alexander Sørloth",
+          "qid": "Q13784739",
+          "born": 1995
+        },
+        {
+          "name": "Stefan Savić",
+          "qid": "Q219884",
+          "born": 1991
+        },
+        {
+          "name": "José Sosa",
+          "qid": "Q314241",
+          "born": 1985
+        },
+        {
+          "name": "Fabiano Eller",
+          "qid": "Q503242",
+          "born": 1977
+        },
+        {
+          "name": "Kiki Musampa",
+          "qid": "Q462340",
+          "born": 1977
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
