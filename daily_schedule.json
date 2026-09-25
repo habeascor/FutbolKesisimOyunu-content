@@ -2492,6 +2492,194 @@
           "born": 1928
         }
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "teamA": {
+        "name": "Gençlerbirliği",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png"
+      },
+      "teamB": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+      },
+      "answers": [
+        {
+          "name": "İlhan Mansız",
+          "qid": "Q315309",
+          "born": 1975
+        },
+        {
+          "name": "Duško Tošić",
+          "qid": "Q350607",
+          "born": 1985
+        },
+        {
+          "name": "Ahmed Hassan",
+          "qid": "Q42231",
+          "born": 1975
+        },
+        {
+          "name": "Márcio Nobre",
+          "qid": "Q727531",
+          "born": 1980
+        },
+        {
+          "name": "Gökhan Gönül",
+          "qid": "Q730284",
+          "born": 1985
+        },
+        {
+          "name": "Uğur Boral",
+          "qid": "Q2505360",
+          "born": 1982
+        },
+        {
+          "name": "Zlatko Yankov",
+          "qid": "Q703696",
+          "born": 1966
+        },
+        {
+          "name": "Tayfun Korkut",
+          "qid": "Q708808",
+          "born": 1974
+        },
+        {
+          "name": "Souleymane Youla",
+          "qid": "Q705578",
+          "born": 1981
+        },
+        {
+          "name": "Ersen Martin",
+          "qid": "Q819597",
+          "born": 1979
+        },
+        {
+          "name": "Serdar Özkan",
+          "qid": "Q577265",
+          "born": 1987
+        },
+        {
+          "name": "Mustafa Pektemek",
+          "qid": "Q977098",
+          "born": 1988
+        },
+        {
+          "name": "Ali Tandoğan",
+          "qid": "Q1378286",
+          "born": 1977
+        },
+        {
+          "name": "Mehmet Akgün",
+          "qid": "Q643196",
+          "born": 1986
+        },
+        {
+          "name": "Rahim Zafer",
+          "qid": "Q580705",
+          "born": 1971
+        },
+        {
+          "name": "Mehmet Akyüz",
+          "qid": "Q1589958",
+          "born": 1986
+        },
+        {
+          "name": "Aydın Karabulut",
+          "qid": "Q327454",
+          "born": 1988
+        },
+        {
+          "name": "Mehmet Sedef",
+          "qid": "Q1361314",
+          "born": 1987
+        },
+        {
+          "name": "Tayfur Bingöl",
+          "qid": "Q7689786",
+          "born": 1993
+        },
+        {
+          "name": "Erhan Güven",
+          "qid": "Q442764",
+          "born": 1982
+        },
+        {
+          "name": "Veysel Cihan",
+          "qid": "Q453996",
+          "born": 1976
+        },
+        {
+          "name": "Baki Mercimek",
+          "qid": "Q804428",
+          "born": 1982
+        },
+        {
+          "name": "Mustafa Özkan",
+          "qid": "Q808661",
+          "born": 1975
+        },
+        {
+          "name": "Ali Günçar",
+          "qid": "Q6095226",
+          "born": 1970
+        },
+        {
+          "name": "Okan Koç",
+          "qid": "Q2017091",
+          "born": 1982
+        },
+        {
+          "name": "Sertan Eser",
+          "qid": "Q7455463",
+          "born": 1974
+        },
+        {
+          "name": "Onur Bayramoğlu",
+          "qid": "Q472481",
+          "born": 1990
+        },
+        {
+          "name": "Tuna Üzümcü",
+          "qid": "Q792953",
+          "born": 1982
+        },
+        {
+          "name": "Ümit Bozkurt",
+          "qid": "Q8079469",
+          "born": 1976
+        },
+        {
+          "name": "Varol Ürkmez",
+          "qid": "Q6103237",
+          "born": 1937
+        },
+        {
+          "name": "Adem Dursun",
+          "qid": "Q4682114",
+          "born": 1979
+        },
+        {
+          "name": "Ali Cansun Begeçarslan",
+          "qid": "Q6055982",
+          "born": 1982
+        },
+        {
+          "name": "Ali Eren Beşerler",
+          "qid": "Q4724775",
+          "born": 1975
+        },
+        {
+          "name": "Reşit Kaynak",
+          "qid": "Q6102130",
+          "born": 1952
+        },
+        {
+          "name": "Tolga Doğantez",
+          "qid": "Q1457850",
+          "born": 1975
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
