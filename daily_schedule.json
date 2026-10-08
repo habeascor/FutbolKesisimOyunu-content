@@ -2680,6 +2680,575 @@
           "born": 1975
         }
       ]
+    },
+    {
+      "date": "2026-10-04",
+      "teamA": {
+        "name": "Juventus",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+      },
+      "teamB": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+      },
+      "answers": [
+        {
+          "name": "Ciro Immobile",
+          "qid": "Q458101",
+          "born": 1990
+        },
+        {
+          "name": "Dušan Vlahović",
+          "qid": "Q23762815",
+          "born": 2000
+        },
+        {
+          "name": "Miralem Pjanić",
+          "qid": "Q146907",
+          "born": 1990
+        },
+        {
+          "name": "Tiago Djaló",
+          "qid": "Q50349931",
+          "born": 2000
+        },
+        {
+          "name": "Fabio Miretti",
+          "qid": "Q105477844",
+          "born": 2003
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "teamA": {
+        "name": "Trabzonspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png"
+      },
+      "teamB": {
+        "name": "Lille",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/txcsg21741597962.png"
+      },
+      "answers": [
+        {
+          "name": "Gervinho",
+          "qid": "Q208025",
+          "born": 1987
+        },
+        {
+          "name": "Thomas Meunier",
+          "qid": "Q2036160",
+          "born": 1991
+        },
+        {
+          "name": "Burak Yılmaz",
+          "qid": "Q18765",
+          "born": 1985
+        },
+        {
+          "name": "Emerson",
+          "qid": "Q553017",
+          "born": 1986
+        },
+        {
+          "name": "Nicolas Pépé",
+          "qid": "Q20641306",
+          "born": 1995
+        },
+        {
+          "name": "Róbert Vittek",
+          "qid": "Q207403",
+          "born": 1982
+        },
+        {
+          "name": "Yusuf Yazıcı",
+          "qid": "Q23063190",
+          "born": 1997
+        },
+        {
+          "name": "Edgar Ié",
+          "qid": "Q719509",
+          "born": 1994
+        },
+        {
+          "name": "Tony Sylva",
+          "qid": "Q504393",
+          "born": 1975
+        },
+        {
+          "name": "Oumar Dieng",
+          "qid": "Q1160825",
+          "born": 1972
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "teamA": {
+        "name": "Manchester City",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+      },
+      "teamB": {
+        "name": "Milan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/31vu4p1705226276.png"
+      },
+      "answers": [
+        {
+          "name": "George Weah",
+          "qid": "Q173139",
+          "born": 1966
+        },
+        {
+          "name": "Mario Balotelli",
+          "qid": "Q129700",
+          "born": 1990
+        },
+        {
+          "name": "Robinho",
+          "qid": "Q58441",
+          "born": 1984
+        },
+        {
+          "name": "Patrick Vieira",
+          "qid": "Q46347",
+          "born": 1976
+        },
+        {
+          "name": "Gianluigi Donnarumma",
+          "qid": "Q20830808",
+          "born": 1999
+        },
+        {
+          "name": "Kyle Walker",
+          "qid": "Q59108",
+          "born": 1990
+        },
+        {
+          "name": "Brahim Díaz",
+          "qid": "Q26973015",
+          "born": 1999
+        },
+        {
+          "name": "Nigel de Jong",
+          "qid": "Q185650",
+          "born": 1984
+        },
+        {
+          "name": "Tijjani Reijnders",
+          "qid": "Q39500352",
+          "born": 1998
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "teamA": {
+        "name": "Barcelona",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+      },
+      "teamB": {
+        "name": "Paris Saint Germain",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+      },
+      "answers": [
+        {
+          "name": "Lionel Messi",
+          "qid": "Q615",
+          "born": 1987
+        },
+        {
+          "name": "Neymar",
+          "qid": "Q142794",
+          "born": 1992
+        },
+        {
+          "name": "Zlatan Ibrahimović",
+          "qid": "Q46896",
+          "born": 1981
+        },
+        {
+          "name": "Ronaldinho",
+          "qid": "Q39444",
+          "born": 1980
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "qid": "Q20851003",
+          "born": 1997
+        },
+        {
+          "name": "Dani Alves",
+          "qid": "Q172720",
+          "born": 1983
+        },
+        {
+          "name": "Ferran Torres",
+          "qid": "Q44297797",
+          "born": 2000
+        },
+        {
+          "name": "Thiago Motta",
+          "qid": "Q191885",
+          "born": 1982
+        },
+        {
+          "name": "Lucas Digne",
+          "qid": "Q72648",
+          "born": 1993
+        },
+        {
+          "name": "Rafinha",
+          "qid": "Q455611",
+          "born": 1993
+        },
+        {
+          "name": "Ludovic Giuly",
+          "qid": "Q219771",
+          "born": 1976
+        },
+        {
+          "name": "Maxwell",
+          "qid": "Q215040",
+          "born": 1981
+        },
+        {
+          "name": "Juan Pablo Sorín",
+          "qid": "Q220746",
+          "born": 1976
+        },
+        {
+          "name": "Arnau Tenas",
+          "qid": "Q76460067",
+          "born": 2001
+        },
+        {
+          "name": "Dro Fernández",
+          "qid": "Q135482672",
+          "born": 2008
+        },
+        {
+          "name": "Frédéric Déhu",
+          "qid": "Q553578",
+          "born": 1972
+        },
+        {
+          "name": "Richard Dutruel",
+          "qid": "Q717525",
+          "born": 1972
+        },
+        {
+          "name": "Cristóbal Parralo",
+          "qid": "Q2049205",
+          "born": 1967
+        },
+        {
+          "name": "Kays Ruiz-Atil",
+          "qid": "Q58801738",
+          "born": 2002
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "teamA": {
+        "name": "Konyaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rxwptr1448203413.png"
+      },
+      "teamB": {
+        "name": "Trabzonspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/96s34o1776827629.png"
+      },
+      "answers": [
+        {
+          "name": "Jefferson",
+          "qid": "Q514252",
+          "born": 1983
+        },
+        {
+          "name": "Yunus Mallı",
+          "qid": "Q507956",
+          "born": 1992
+        },
+        {
+          "name": "Enis Bardhi",
+          "qid": "Q18391941",
+          "born": 1995
+        },
+        {
+          "name": "Mustapha Yatabaré",
+          "qid": "Q1377559",
+          "born": 1986
+        },
+        {
+          "name": "Volkan Şen",
+          "qid": "Q787409",
+          "born": 1987
+        },
+        {
+          "name": "Ogün Temizkanoğlu",
+          "qid": "Q1366156",
+          "born": 1969
+        },
+        {
+          "name": "Muhammet Demir",
+          "qid": "Q946426",
+          "born": 1992
+        },
+        {
+          "name": "Ferhat Öztorun",
+          "qid": "Q950336",
+          "born": 1987
+        },
+        {
+          "name": "Tolunay Kafkas",
+          "qid": "Q1378780",
+          "born": 1968
+        },
+        {
+          "name": "Umut Nayir",
+          "qid": "Q198254",
+          "born": 1993
+        },
+        {
+          "name": "Ayman Abdel-Aziz",
+          "qid": "Q2874913",
+          "born": 1978
+        },
+        {
+          "name": "Alper Uludağ",
+          "qid": "Q1546943",
+          "born": 1990
+        },
+        {
+          "name": "Enis Destan",
+          "qid": "Q105473101",
+          "born": 2002
+        },
+        {
+          "name": "Oumar Dieng",
+          "qid": "Q1160825",
+          "born": 1972
+        },
+        {
+          "name": "Yusuf Erdoğan",
+          "qid": "Q1390540",
+          "born": 1992
+        },
+        {
+          "name": "Kazeem Olaigbe",
+          "qid": "Q113366789",
+          "born": 2003
+        },
+        {
+          "name": "Ceyhun Eriş",
+          "qid": "Q495426",
+          "born": 1977
+        },
+        {
+          "name": "Detlef Müller",
+          "qid": "Q823974",
+          "born": 1965
+        },
+        {
+          "name": "Uğur Demirok",
+          "qid": "Q1275189",
+          "born": 1988
+        },
+        {
+          "name": "Murat Tosun",
+          "qid": "Q327428",
+          "born": 1984
+        },
+        {
+          "name": "Bayram Bektaş",
+          "qid": "Q6087377",
+          "born": 1974
+        },
+        {
+          "name": "Emrah Eren",
+          "qid": "Q1339529",
+          "born": 1978
+        },
+        {
+          "name": "Emre Toraman",
+          "qid": "Q1339601",
+          "born": 1979
+        },
+        {
+          "name": "Emrehan Gedikli",
+          "qid": "Q102360716",
+          "born": 2003
+        },
+        {
+          "name": "Adnan Güngör",
+          "qid": "Q359403",
+          "born": 1980
+        },
+        {
+          "name": "Celaleddin Koçak",
+          "qid": "Q327709",
+          "born": 1977
+        },
+        {
+          "name": "Erdinç Yavuz",
+          "qid": "Q1349279",
+          "born": 1978
+        },
+        {
+          "name": "Erman Özgür",
+          "qid": "Q2542760",
+          "born": 1977
+        },
+        {
+          "name": "Yavuz Aygün",
+          "qid": "Q27036924",
+          "born": 1996
+        },
+        {
+          "name": "Yusuf Kurtuluş",
+          "qid": "Q2541960",
+          "born": 1986
+        },
+        {
+          "name": "Ufukhan Bayraktar",
+          "qid": "Q2473840",
+          "born": 1986
+        },
+        {
+          "name": "İbrahim Ege",
+          "qid": "Q8080021",
+          "born": 1983
+        },
+        {
+          "name": "Bahadır Han Güngördü",
+          "qid": "Q113501870",
+          "born": 1996
+        },
+        {
+          "name": "Vukašin Petranović",
+          "qid": "Q7943402",
+          "born": 1962
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "teamA": {
+        "name": "Borussia Dortmund",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+      },
+      "teamB": {
+        "name": "PSV",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+      },
+      "answers": [
+        {
+          "name": "Mario Götze",
+          "qid": "Q104454",
+          "born": 1992
+        },
+        {
+          "name": "Ivan Perišić",
+          "qid": "Q161054",
+          "born": 1989
+        },
+        {
+          "name": "Thorgan Hazard",
+          "qid": "Q714116",
+          "born": 1993
+        },
+        {
+          "name": "Donyell Malen",
+          "qid": "Q24084301",
+          "born": 1999
+        },
+        {
+          "name": "Ian Maatsen",
+          "qid": "Q69495231",
+          "born": 2002
+        },
+        {
+          "name": "Lee Young-pyo",
+          "qid": "Q312512",
+          "born": 1977
+        },
+        {
+          "name": "Fábio Silva",
+          "qid": "Q66738004",
+          "born": 2002
+        },
+        {
+          "name": "Flemming Povlsen",
+          "qid": "Q502937",
+          "born": 1966
+        },
+        {
+          "name": "Niclas Jensen",
+          "qid": "Q549559",
+          "born": 1974
+        },
+        {
+          "name": "Joey Veerman",
+          "qid": "Q27518278",
+          "born": 1998
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "teamA": {
+        "name": "Antalyaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vqoral1601669436.png"
+      },
+      "teamB": {
+        "name": "Chelsea",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+      },
+      "answers": [
+        {
+          "name": "Samuel Eto'o",
+          "qid": "Q1255625",
+          "born": 1981
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "teamA": {
+        "name": "Fenerbahçe",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+      },
+      "teamB": {
+        "name": "Ajax",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+      },
+      "answers": [
+        {
+          "name": "Sofyan Amrabat",
+          "qid": "Q18428483",
+          "born": 1996
+        },
+        {
+          "name": "Dušan Tadić",
+          "qid": "Q713895",
+          "born": 1988
+        },
+        {
+          "name": "Gregory van der Wiel",
+          "qid": "Q201367",
+          "born": 1988
+        },
+        {
+          "name": "Edson Álvarez",
+          "qid": "Q27859514",
+          "born": 1997
+        },
+        {
+          "name": "Mustafa Yücedağ",
+          "qid": "Q2036850",
+          "born": 1966
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
