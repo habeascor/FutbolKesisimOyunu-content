@@ -1,0 +1,358 @@
+{
+  "version": 1,
+  "days": [
+    {
+      "date": "2026-10-08",
+      "qid": "Q1835",
+      "name": "Zinedine Zidane",
+      "f": 144,
+      "t": 69102,
+      "stops": [
+        {
+          "club": "AS Cannes",
+          "year": 1989,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ra9yw91574268646.png"
+        },
+        {
+          "club": "Bordeaux",
+          "year": 1992,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/u45vc51627132724.png"
+        },
+        {
+          "club": "Juventus FC",
+          "year": 1996,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 2001,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "qid": "Q429039",
+      "name": "Roberto Carlos",
+      "f": 84,
+      "t": 61860,
+      "stops": [
+        {
+          "club": "FC Internazionale Milano",
+          "year": 1995,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 1996,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "SC Corinthians Paulista",
+          "year": 2010,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png"
+        },
+        {
+          "club": "Delhi Dynamos FC",
+          "year": 2015,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ljpjmn1693034492.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "qid": "Q83488",
+      "name": "Mesut Özil",
+      "f": 105,
+      "t": 64350,
+      "stops": [
+        {
+          "club": "SV Werder Bremen",
+          "year": 2008,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 2009,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "Arsenal FC",
+          "year": 2013,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "İstanbul Başakşehir FK",
+          "year": 2022,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "qid": "Q487459",
+      "name": "Arda Turan",
+      "f": 71,
+      "t": 176460,
+      "stops": [
+        {
+          "club": "Galatasaray",
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "Atlético Madrid",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "club": "FC Barcelona",
+          "year": 2015,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "club": "İstanbul Başakşehir FK",
+          "year": 2018,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2020,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "qid": "Q16235823",
+      "name": "Nélson Semedo",
+      "f": 54,
+      "t": 34962,
+      "stops": [
+        {
+          "club": "SL Benfica",
+          "year": 2015,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png"
+        },
+        {
+          "club": "FC Barcelona",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "club": "Wolverhampton Wanderers FC",
+          "year": 2020,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "qid": "Q19613570",
+      "name": "Cengiz Ünder",
+      "f": 40,
+      "t": 48600,
+      "stops": [
+        {
+          "club": "AS Roma",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "club": "Leicester City FC",
+          "year": 2020,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png"
+        },
+        {
+          "club": "Olympique de Marseille",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2023,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "qid": "Q559158",
+      "name": "Fatih Tekke",
+      "f": 21,
+      "t": 151854,
+      "stops": [
+        {
+          "club": "Trabzonspor",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/43oobe1672951178.png"
+        },
+        {
+          "club": "Zenit St. Petersburg",
+          "year": 2006,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/8njnyf1572170968.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2010,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "Orduspor",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/rzivr31516305028.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "qid": "Q455462",
+      "name": "Antoine Griezmann",
+      "f": 100,
+      "t": 31896,
+      "stops": [
+        {
+          "club": "Atlético Madrid",
+          "year": 2014,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "club": "FC Barcelona",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "club": "Atlético Madrid",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+        },
+        {
+          "club": "Orlando City SC",
+          "year": 2026,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "qid": "Q97725322",
+      "name": "Kerem Aktürkoğlu",
+      "f": 35,
+      "t": 145782,
+      "stops": [
+        {
+          "club": "24 Erzincanspor",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/6ne1ga1791153177.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2020,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "SL Benfica",
+          "year": 2024,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "qid": "Q129027",
+      "name": "Paul Pogba",
+      "f": 93,
+      "t": 24642,
+      "stops": [
+        {
+          "club": "Manchester United FC",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "club": "Juventus FC",
+          "year": 2012,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "club": "Manchester United FC",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "club": "Juventus FC",
+          "year": 2022,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "club": "AS Monaco FC",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "qid": "Q348199",
+      "name": "Mehmet Topal",
+      "f": 45,
+      "t": 20604,
+      "stops": [
+        {
+          "club": "Çanakkale Dardanel SK",
+          "year": 2004
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2006,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "Valencia CF",
+          "year": 2010,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2012,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "İstanbul Başakşehir FK",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        }
+      ]
+    }
+  ]
+}
