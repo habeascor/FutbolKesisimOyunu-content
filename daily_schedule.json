@@ -3249,6 +3249,87 @@
           "born": 1966
         }
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "teamA": {
+        "name": "Napoli",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+      },
+      "teamB": {
+        "name": "Galatasaray",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+      },
+      "answers": [
+        {
+          "name": "Victor Osimhen",
+          "qid": "Q25253293",
+          "born": 1998
+        },
+        {
+          "name": "Dries Mertens",
+          "qid": "Q11954",
+          "born": 1987
+        },
+        {
+          "name": "Goran Pandev",
+          "qid": "Q238163",
+          "born": 1983
+        },
+        {
+          "name": "Morgan De Sanctis",
+          "qid": "Q219618",
+          "born": 1977
+        },
+        {
+          "name": "Blerim Džemaili",
+          "qid": "Q253348",
+          "born": 1986
+        },
+        {
+          "name": "Tanguy Ndombele",
+          "qid": "Q27671184",
+          "born": 1996
+        },
+        {
+          "name": "Noa Lang",
+          "qid": "Q29441778",
+          "born": 1999
+        },
+        {
+          "name": "Carlos Vinícius",
+          "qid": "Q35694605",
+          "born": 1995
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "teamA": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/svo05k1776827439.png"
+      },
+      "teamB": {
+        "name": "FC Dynamo Kyiv ",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ktbncx1781158762.png"
+      },
+      "answers": [
+        {
+          "name": "Domagoj Vida",
+          "qid": "Q314227",
+          "born": 1989
+        },
+        {
+          "name": "Jeremain Lens",
+          "qid": "Q519678",
+          "born": 1987
+        },
+        {
+          "name": "Denys Boyko",
+          "qid": "Q2425800",
+          "born": 1988
+        }
+      ]
     }
   ],
   "minimumBuild": 11,
