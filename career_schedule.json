@@ -317,6 +317,40 @@
       ]
     },
     {
+      "date": "2026-10-18",
+      "qid": "Q444318",
+      "name": "Okan Buruk",
+      "f": 35,
+      "t": 218934,
+      "stops": [
+        {
+          "club": "Galatasaray",
+          "year": 1991,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "FC Internazionale Milano",
+          "year": 2001,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2006,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "İstanbul Başakşehir FK",
+          "year": 2008,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "qid": "Q348199",
       "name": "Mehmet Topal",
@@ -351,6 +385,47 @@
           "club": "Beşiktaş",
           "year": 2021,
           "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "qid": "Q189686",
+      "name": "Patrick Kluivert",
+      "f": 59,
+      "t": 8940,
+      "stops": [
+        {
+          "club": "AFC Ajax",
+          "year": 1994,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+        },
+        {
+          "club": "A.C. Milan",
+          "year": 1997,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "club": "FC Barcelona",
+          "year": 1998,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "club": "Newcastle United FC",
+          "year": 2004
+        },
+        {
+          "club": "Valencia CF",
+          "year": 2005,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+        },
+        {
+          "club": "PSV Eindhoven",
+          "year": 2006
+        },
+        {
+          "club": "Lille OSC",
+          "year": 2007
         }
       ]
     }
