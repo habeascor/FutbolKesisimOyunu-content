@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "days": [
+    {
+      "date": "2026-10-20",
+      "qid": "Q151269",
+      "name": "Robert Lewandowski",
+      "number": 9,
+      "league": "Ekstraklasa",
+      "club": "Lech Poznań",
+      "nationality": "Polonya",
+      "crest": "https://img.a.transfermarkt.technology/wappen/big/238.png",
+      "flag": "🇵🇱",
+      "options": [
+        {
+          "qid": "Q466012",
+          "name": "Bartosz Bereszyński"
+        },
+        {
+          "qid": "Q151269",
+          "name": "Robert Lewandowski"
+        },
+        {
+          "qid": "Q16212492",
+          "name": "Jan Bednarek"
+        },
+        {
+          "qid": "Q30004741",
+          "name": "Tymoteusz Puchacz"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "qid": "Q969725",
+      "name": "Harry Kane",
+      "number": 9,
+      "league": "Premier League",
+      "club": "Tottenham Hotspur FC",
+      "nationality": "İngiltere",
+      "crest": "https://img.a.transfermarkt.technology/wappen/big/148.png",
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "options": [
+        {
+          "qid": "Q68485450",
+          "name": "Japhet Tanganga"
+        },
+        {
+          "qid": "Q969725",
+          "name": "Harry Kane"
+        },
+        {
+          "qid": "Q17517177",
+          "name": "James Maddison"
+        },
+        {
+          "qid": "Q1439915",
+          "name": "Eric Dier"
+        }
+      ]
+    }
+  ]
+}
