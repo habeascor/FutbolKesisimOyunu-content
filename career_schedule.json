@@ -485,12 +485,14 @@
           "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
         },
         {
-          "club": "Guanco ZÇ",
-          "year": 2018
+          "club": "Guangzhou Evergrande",
+          "year": 2018,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/3nkgi61654266984.png"
         },
         {
-          "club": "En-Nasr",
-          "year": 2021
+          "club": "Al-Nassr",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png"
         },
         {
           "club": "Fenerbahçe",
@@ -498,8 +500,251 @@
           "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
         },
         {
-          "club": "Al-Jazira Club",
-          "year": 2026
+          "club": "Al-Jazira",
+          "year": 2026,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uknsoq1642708421.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "qid": "Q315309",
+      "name": "İlhan Mansız",
+      "f": 54,
+      "t": 55566,
+      "stops": [
+        {
+          "club": "Samsunspor",
+          "year": 1998,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vz05y71679456608.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2001,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "Vissel Kobe",
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/2axjch1578239819.png"
+        },
+        {
+          "club": "MKE Ankaragücü",
+          "year": 2005,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ds85xb1601668748.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "qid": "Q15907851",
+      "name": "Rafa Silva",
+      "f": 37,
+      "t": 31044,
+      "stops": [
+        {
+          "club": "SC Braga",
+          "year": 2013,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/skbiwo1785775946.png"
+        },
+        {
+          "club": "SL Benfica",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2024,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "SL Benfica",
+          "year": 2026,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "qid": "Q10520",
+      "name": "David Beckham",
+      "f": 137,
+      "t": 60036,
+      "stops": [
+        {
+          "club": "Manchester United FC",
+          "year": 1992,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 2003,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "Los Angeles Galaxy",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png"
+        },
+        {
+          "club": "Inter Miami",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "qid": "Q124086",
+      "name": "Wesley Sneijder",
+      "f": 77,
+      "t": 38838,
+      "stops": [
+        {
+          "club": "AFC Ajax",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "FC Internazionale Milano",
+          "year": 2009,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2013,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "OGC Nice",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "qid": "Q203749",
+      "name": "Fernando Muslera",
+      "f": 57,
+      "t": 70572,
+      "stops": [
+        {
+          "club": "Club Nacional de Fútbol",
+          "year": 2006,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png"
+        },
+        {
+          "club": "SS Lazio",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "Estudiantes de La Plata",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "qid": "Q507815",
+      "name": "Alex",
+      "f": 32,
+      "t": 124830,
+      "stops": [
+        {
+          "club": "Parma FC",
+          "year": 2000,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png"
+        },
+        {
+          "club": "Cruzeiro EC",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Coritiba FC",
+          "year": 2013,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "qid": "Q484909",
+      "name": "Clarence Seedorf",
+      "f": 65,
+      "t": 9660,
+      "stops": [
+        {
+          "club": "UC Sampdoria",
+          "year": 1995,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 1996,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "FC Internazionale Milano",
+          "year": 2000,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "club": "A.C. Milan",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "club": "Botafogo FR",
+          "year": 2012,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "qid": "Q1401328",
+      "name": "Mert Günok",
+      "f": 34,
+      "t": 50046,
+      "stops": [
+        {
+          "club": "Bursaspor",
+          "year": 2015,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyptpr1448199354.png"
+        },
+        {
+          "club": "İstanbul Başakşehir FK",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2026,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
         }
       ]
     },
