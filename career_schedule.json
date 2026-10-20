@@ -389,6 +389,121 @@
       ]
     },
     {
+      "date": "2026-10-21",
+      "qid": "Q16234012",
+      "name": "Mbaye Diagne",
+      "f": 19,
+      "t": 44862,
+      "stops": [
+        {
+          "club": "Tianjin Teda F.C.",
+          "year": 2016
+        },
+        {
+          "club": "Kasımpaşa SK",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uryxtp1448203236.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "Club Brugge KV",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "qid": "Q64748320",
+      "name": "Jhon Durán",
+      "f": 29,
+      "t": 92790,
+      "stops": [
+        {
+          "club": "Aston Villa FC",
+          "year": 2023,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+        },
+        {
+          "club": "En-Nasr",
+          "year": 2025
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "SL Benfica",
+          "year": 2026,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "qid": "Q1354960",
+      "name": "Mohamed Salah",
+      "f": 102,
+      "t": 84978,
+      "stops": [
+        {
+          "club": "Chelsea FC",
+          "year": 2014,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png"
+        },
+        {
+          "club": "AS Roma",
+          "year": 2015,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "club": "Liverpool FC",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+        },
+        {
+          "club": "Trabzonspor",
+          "year": 2026,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/43oobe1672951178.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "qid": "Q9613708",
+      "name": "Talisca",
+      "f": 33,
+      "t": 95910,
+      "stops": [
+        {
+          "club": "Beşiktaş",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "Guanco ZÇ",
+          "year": 2018
+        },
+        {
+          "club": "En-Nasr",
+          "year": 2021
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Al-Jazira Club",
+          "year": 2026
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "qid": "Q189686",
       "name": "Patrick Kluivert",
