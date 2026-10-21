@@ -1121,6 +1121,146 @@
           "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
         }
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "qid": "Q11571",
+      "name": "Cristiano Ronaldo",
+      "f": 211,
+      "t": 496116,
+      "stops": [
+        {
+          "club": "Sporting CP",
+          "year": 2002
+        },
+        {
+          "club": "Manchester United FC",
+          "year": 2003,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 2009,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "Juventus FC",
+          "year": 2018,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+        },
+        {
+          "club": "Manchester United FC",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+        },
+        {
+          "club": "En-Nasr",
+          "year": 2023,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/oy1zwv1753982526.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "qid": "Q16499882",
+      "name": "Leroy Sané",
+      "f": 63,
+      "t": 99390,
+      "stops": [
+        {
+          "club": "FC Schalke 04",
+          "year": 2014,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png"
+        },
+        {
+          "club": "Manchester City FC",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+        },
+        {
+          "club": "FC Bayern Münih",
+          "year": 2020,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2025,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "qid": "Q560001",
+      "name": "Elvir Baljić",
+      "f": 19,
+      "t": 30390,
+      "stops": [
+        {
+          "club": "Bursaspor",
+          "year": 1995,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyptpr1448199354.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 1998,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Real Madrid CF",
+          "year": 1999,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2000,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Rayo Vallecano",
+          "year": 2001,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "qid": "Q362534",
+      "name": "Tümer Metin",
+      "f": 26,
+      "t": 33318,
+      "stops": [
+        {
+          "club": "Samsunspor",
+          "year": 1997,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vz05y71679456608.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2001,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2006,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "AE Larissa",
+          "year": 2008,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xlln3b1782459015.png"
+        },
+        {
+          "club": "Kerkyra FC",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/j2udsg1573305377.png"
+        }
+      ]
     }
   ]
 }
