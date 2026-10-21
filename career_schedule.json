@@ -749,6 +749,108 @@
       ]
     },
     {
+      "date": "2026-11-02",
+      "qid": "Q310199",
+      "name": "Tuncay Şanlı",
+      "f": 36,
+      "t": 38910,
+      "stops": [
+        {
+          "club": "Sakaryaspor",
+          "year": 2000,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ya2kqz1791648978.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Middlesbrough FC",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/advjg71780068902.png"
+        },
+        {
+          "club": "Stoke City FC",
+          "year": 2009,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/lz89v21781718914.png"
+        },
+        {
+          "club": "Bolton Wanderers FC",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png"
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "year": 2011,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ci9trv1778399557.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "qid": "Q22007007",
+      "name": "Emre Mor",
+      "f": 44,
+      "t": 54282,
+      "stops": [
+        {
+          "club": "Borussia Dortmund",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "club": "Celta de Vigo",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "Fatih Karagümrük",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/bfb84y1580847945.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2022,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "qid": "Q20851003",
+      "name": "Ousmane Dembélé",
+      "f": 86,
+      "t": 42798,
+      "stops": [
+        {
+          "club": "Stade Rennais FC",
+          "year": 2015,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png"
+        },
+        {
+          "club": "Borussia Dortmund",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+        },
+        {
+          "club": "FC Barcelona",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "year": 2023,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        }
+      ]
+    },
+    {
       "date": "2026-11-05",
       "qid": "Q189686",
       "name": "Patrick Kluivert",
@@ -772,7 +874,8 @@
         },
         {
           "club": "Newcastle United FC",
-          "year": 2004
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
         },
         {
           "club": "Valencia CF",
@@ -781,11 +884,241 @@
         },
         {
           "club": "PSV Eindhoven",
-          "year": 2006
+          "year": 2006,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "qid": "Q946447",
+      "name": "Caner Erkin",
+      "f": 27,
+      "t": 56940,
+      "stops": [
+        {
+          "club": "Manisaspor",
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/qoldz11489432077.png"
         },
         {
-          "club": "Lille OSC",
-          "year": 2007
+          "club": "CSKA Moskova",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/1hf19s1681319986.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2009,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2010,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "Beşiktaş",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+        },
+        {
+          "club": "FC Internazionale Milano",
+          "year": 2016,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 2020,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "qid": "Q1918",
+      "name": "Franck Ribéry",
+      "f": 89,
+      "t": 32772,
+      "stops": [
+        {
+          "club": "FC Metz",
+          "year": 2004,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/1iuew61688452857.png"
+        },
+        {
+          "club": "Olympique de Marseille",
+          "year": 2005,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png"
+        },
+        {
+          "club": "FC Bayern Münih",
+          "year": 2007,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png"
+        },
+        {
+          "club": "ACF Fiorentina",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png"
+        },
+        {
+          "club": "U.S. Salernitana 1919",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/nmi7mk1603170517.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "qid": "Q164038",
+      "name": "Pep Guardiola",
+      "f": 95,
+      "t": 62706,
+      "stops": [
+        {
+          "club": "FC Barcelona",
+          "year": 1990,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+        },
+        {
+          "club": "Brescia Calcio",
+          "year": 2001,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/k0qhbd1566756266.png"
+        },
+        {
+          "club": "AS Roma",
+          "year": 2002,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+        },
+        {
+          "club": "Al Ahli SC",
+          "year": 2003,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "qid": "Q53280628",
+      "name": "Ozan Kabak",
+      "f": 36,
+      "t": 44688,
+      "stops": [
+        {
+          "club": "Galatasaray",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        },
+        {
+          "club": "FC Schalke 04",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png"
+        },
+        {
+          "club": "Norwich City FC",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png"
+        },
+        {
+          "club": "TSG 1899 Hoffenheim",
+          "year": 2022,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "qid": "Q1031846",
+      "name": "Can Bartu",
+      "f": 17,
+      "t": 36816,
+      "stops": [
+        {
+          "club": "Fenerbahçe",
+          "year": 1955,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        },
+        {
+          "club": "ACF Fiorentina",
+          "year": 1961,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png"
+        },
+        {
+          "club": "Venezia F.C.",
+          "year": 1962,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/vbiget1781026964.png"
+        },
+        {
+          "club": "ACF Fiorentina",
+          "year": 1963,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png"
+        },
+        {
+          "club": "SS Lazio",
+          "year": 1964,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
+        },
+        {
+          "club": "Fenerbahçe",
+          "year": 1967,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "qid": "Q136986",
+      "name": "Mauro Icardi",
+      "f": 65,
+      "t": 185694,
+      "stops": [
+        {
+          "club": "UC Sampdoria",
+          "year": 2012,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png"
+        },
+        {
+          "club": "FC Internazionale Milano",
+          "year": 2013,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "year": 2019,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png"
+        },
+        {
+          "club": "Galatasaray",
+          "year": 2022,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "qid": "Q763465",
+      "name": "Hakan Çalhanoğlu",
+      "f": 58,
+      "t": 91434,
+      "stops": [
+        {
+          "club": "Hamburger SV",
+          "year": 2013,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png"
+        },
+        {
+          "club": "Bayer 04 Leverkusen",
+          "year": 2014,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png"
+        },
+        {
+          "club": "A.C. Milan",
+          "year": 2017,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png"
+        },
+        {
+          "club": "FC Internazionale Milano",
+          "year": 2021,
+          "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
         }
       ]
     }
