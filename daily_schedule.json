@@ -9503,6 +9503,640 @@
       ]
     },
     {
+      "date": "2026-12-10",
+      "teamA": {
+        "name": "Barcelona",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png"
+      },
+      "teamB": {
+        "name": "Borussia Dortmund",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png"
+      },
+      "answers": [
+        {
+          "name": "İlkay Gündoğan",
+          "qid": "Q161089",
+          "born": 1990
+        },
+        {
+          "name": "Robert Lewandowski",
+          "qid": "Q151269",
+          "born": 1988
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "qid": "Q20851003",
+          "born": 1997
+        },
+        {
+          "name": "Pierre-Emerick Aubameyang",
+          "qid": "Q44977",
+          "born": 1989
+        },
+        {
+          "name": "Karim Adeyemi",
+          "qid": "Q56424307",
+          "born": 2002
+        },
+        {
+          "name": "Kevin-Prince Boateng",
+          "qid": "Q151034",
+          "born": 1987
+        },
+        {
+          "name": "Marc Bartra",
+          "qid": "Q310625",
+          "born": 1991
+        },
+        {
+          "name": "Paco Alcácer",
+          "qid": "Q507190",
+          "born": 1993
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "teamA": {
+        "name": "Inter Milan",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png"
+      },
+      "teamB": {
+        "name": "Sampdoria",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png"
+      },
+      "answers": [
+        {
+          "name": "Mauro Icardi",
+          "qid": "Q136986",
+          "born": 1993
+        },
+        {
+          "name": "Milan Škriniar",
+          "qid": "Q891520",
+          "born": 1995
+        },
+        {
+          "name": "Samuel Eto'o",
+          "qid": "Q1255625",
+          "born": 1981
+        },
+        {
+          "name": "Clarence Seedorf",
+          "qid": "Q484909",
+          "born": 1976
+        },
+        {
+          "name": "Jürgen Klinsmann",
+          "qid": "Q57079",
+          "born": 1964
+        },
+        {
+          "name": "Juan Sebastián Verón",
+          "qid": "Q46502",
+          "born": 1975
+        },
+        {
+          "name": "Siniša Mihajlović",
+          "qid": "Q294351",
+          "born": 1969
+        },
+        {
+          "name": "Keita Baldé",
+          "qid": "Q14945895",
+          "born": 1995
+        },
+        {
+          "name": "Walter Zenga",
+          "qid": "Q294302",
+          "born": 1960
+        },
+        {
+          "name": "Antonio Cassano",
+          "qid": "Q180993",
+          "born": 1982
+        },
+        {
+          "name": "Joaquín Correa",
+          "qid": "Q17477978",
+          "born": 1994
+        },
+        {
+          "name": "Gianluca Pagliuca",
+          "qid": "Q313480",
+          "born": 1966
+        },
+        {
+          "name": "Sebastiano Esposito",
+          "qid": "Q62076054",
+          "born": 2002
+        },
+        {
+          "name": "Vladimir Jugović",
+          "qid": "Q146119",
+          "born": 1969
+        },
+        {
+          "name": "Andrea Ranocchia",
+          "qid": "Q314322",
+          "born": 1988
+        },
+        {
+          "name": "Giampaolo Pazzini",
+          "qid": "Q219389",
+          "born": 1984
+        },
+        {
+          "name": "Antonio Candreva",
+          "qid": "Q32556",
+          "born": 1987
+        },
+        {
+          "name": "Emil Audero",
+          "qid": "Q17410409",
+          "born": 1997
+        },
+        {
+          "name": "Riccardo Ferri",
+          "qid": "Q221793",
+          "born": 1963
+        },
+        {
+          "name": "Andrea Poli",
+          "qid": "Q212229",
+          "born": 1989
+        },
+        {
+          "name": "Salvatore Esposito",
+          "qid": "Q59914700",
+          "born": 2000
+        },
+        {
+          "name": "Ricky Álvarez",
+          "qid": "Q333793",
+          "born": 1988
+        },
+        {
+          "name": "Jonathan Biabiany",
+          "qid": "Q369551",
+          "born": 1988
+        },
+        {
+          "name": "Yann Karamoh",
+          "qid": "Q23902246",
+          "born": 1998
+        },
+        {
+          "name": "Lennart Skoglund",
+          "qid": "Q539781",
+          "born": 1929
+        },
+        {
+          "name": "Vid Belec",
+          "qid": "Q923884",
+          "born": 1990
+        },
+        {
+          "name": "Liam Brady",
+          "qid": "Q356466",
+          "born": 1956
+        },
+        {
+          "name": "Giuseppe Baldini",
+          "qid": "Q708936",
+          "born": 1922
+        },
+        {
+          "name": "Jeison Murillo",
+          "qid": "Q254521",
+          "born": 1992
+        },
+        {
+          "name": "Dodô",
+          "qid": "Q1573490",
+          "born": 1992
+        },
+        {
+          "name": "Éder",
+          "qid": "Q167698",
+          "born": 1986
+        },
+        {
+          "name": "Federico Bonazzoli",
+          "qid": "Q16382834",
+          "born": 1997
+        },
+        {
+          "name": "Hugo Campagnaro",
+          "qid": "Q508010",
+          "born": 1980
+        },
+        {
+          "name": "Stefano Sensi",
+          "qid": "Q21055388",
+          "born": 1995
+        },
+        {
+          "name": "Angelo Palombo",
+          "qid": "Q310671",
+          "born": 1981
+        },
+        {
+          "name": "Daniele Padelli",
+          "qid": "Q941852",
+          "born": 1985
+        },
+        {
+          "name": "Harald Nielsen",
+          "qid": "Q923271",
+          "born": 1941
+        },
+        {
+          "name": "Alfred Duncan",
+          "qid": "Q151518",
+          "born": 1993
+        },
+        {
+          "name": "Luca Castellazzi",
+          "qid": "Q320513",
+          "born": 1975
+        },
+        {
+          "name": "Aristide Coscia",
+          "qid": "Q2319669",
+          "born": 1918
+        },
+        {
+          "name": "Matías Silvestre",
+          "qid": "Q439278",
+          "born": 1984
+        },
+        {
+          "name": "Tommaso Berni",
+          "qid": "Q611501",
+          "born": 1983
+        },
+        {
+          "name": "Luis Suárez",
+          "qid": "Q270367",
+          "born": 1935
+        },
+        {
+          "name": "Enea Masiero",
+          "qid": "Q1154034",
+          "born": 1933
+        },
+        {
+          "name": "Alessandro Scanziani",
+          "qid": "Q3610297",
+          "born": 1953
+        },
+        {
+          "name": "Antonio Paganin",
+          "qid": "Q2292069",
+          "born": 1966
+        },
+        {
+          "name": "Aurelio Milani",
+          "qid": "Q176662",
+          "born": 1934
+        },
+        {
+          "name": "Celso Battaia",
+          "qid": "Q1318676",
+          "born": 1920
+        },
+        {
+          "name": "Corrado Colombo",
+          "qid": "Q1872075",
+          "born": 1979
+        },
+        {
+          "name": "Dino Bovoli",
+          "qid": "Q1465572",
+          "born": 1914
+        },
+        {
+          "name": "Dino Spadetto",
+          "qid": "Q3707961",
+          "born": 1950
+        },
+        {
+          "name": "Duilio Setti",
+          "qid": "Q3716153",
+          "born": 1912
+        },
+        {
+          "name": "Ebenezer Akinsanmiro",
+          "qid": "Q116788482",
+          "born": 2004
+        },
+        {
+          "name": "Edmondo Fabbri",
+          "qid": "Q1285795",
+          "born": 1921
+        },
+        {
+          "name": "Elpidio Coppa",
+          "qid": "Q1875067",
+          "born": 1914
+        },
+        {
+          "name": "Emilio Gattoronchieri",
+          "qid": "Q3724412",
+          "born": 1912
+        },
+        {
+          "name": "Enzo Matteucci",
+          "qid": "Q3726592",
+          "born": 1933
+        },
+        {
+          "name": "Evaristo Beccalossi",
+          "qid": "Q1319208",
+          "born": 1956
+        },
+        {
+          "name": "Fabio Abiuso",
+          "qid": "Q132862141",
+          "born": 2003
+        },
+        {
+          "name": "Fabrizio Ferron",
+          "qid": "Q385942",
+          "born": 1965
+        },
+        {
+          "name": "Fausto Pari",
+          "qid": "Q514037",
+          "born": 1962
+        },
+        {
+          "name": "Felice D'Amico",
+          "qid": "Q98168908",
+          "born": 2000
+        },
+        {
+          "name": "Filip Stanković",
+          "qid": "Q98929151",
+          "born": 2002
+        },
+        {
+          "name": "Gian Piero Ghio",
+          "qid": "Q776189",
+          "born": 1944
+        },
+        {
+          "name": "Gianfranco Bedin",
+          "qid": "Q1319341",
+          "born": 1945
+        },
+        {
+          "name": "Gianfranco Matteoli",
+          "qid": "Q1522453",
+          "born": 1959
+        },
+        {
+          "name": "Gianluca Caprari",
+          "qid": "Q1539560",
+          "born": 1993
+        },
+        {
+          "name": "Giorgio Barsanti",
+          "qid": "Q781681",
+          "born": 1918
+        },
+        {
+          "name": "Giorgio Bernardin",
+          "qid": "Q1407513",
+          "born": 1928
+        },
+        {
+          "name": "Giorgio Roselli",
+          "qid": "Q3765721",
+          "born": 1957
+        },
+        {
+          "name": "Giovanni Giacomazzi",
+          "qid": "Q2278388",
+          "born": 1928
+        },
+        {
+          "name": "Giuseppe Castelli",
+          "qid": "Q1608286",
+          "born": 1919
+        },
+        {
+          "name": "Guido Vincenzi",
+          "qid": "Q2281519",
+          "born": 1932
+        },
+        {
+          "name": "Gustavo Fiorini",
+          "qid": "Q3779951",
+          "born": 1919
+        },
+        {
+          "name": "Ivano Bordon",
+          "qid": "Q183564",
+          "born": 1951
+        },
+        {
+          "name": "Luca Mondini",
+          "qid": "Q3264988",
+          "born": 1970
+        },
+        {
+          "name": "Marco Branca",
+          "qid": "Q778104",
+          "born": 1965
+        },
+        {
+          "name": "Marco Pompetti",
+          "qid": "Q66545492",
+          "born": 2000
+        },
+        {
+          "name": "Mario Frustalupi",
+          "qid": "Q219490",
+          "born": 1942
+        },
+        {
+          "name": "Massimo Marazzina",
+          "qid": "Q2629845",
+          "born": 1974
+        },
+        {
+          "name": "Massimo Paganin",
+          "qid": "Q2255418",
+          "born": 1970
+        },
+        {
+          "name": "Maurizio Ganz",
+          "qid": "Q703956",
+          "born": 1968
+        },
+        {
+          "name": "Michele Rocca",
+          "qid": "Q21044763",
+          "born": 1996
+        },
+        {
+          "name": "Michele Serena",
+          "qid": "Q953439",
+          "born": 1970
+        },
+        {
+          "name": "Mirko Conte",
+          "qid": "Q1109020",
+          "born": 1974
+        },
+        {
+          "name": "Oliviero Mascheroni",
+          "qid": "Q3881873",
+          "born": 1914
+        },
+        {
+          "name": "Osvaldo Fattori",
+          "qid": "Q2252709",
+          "born": 1922
+        },
+        {
+          "name": "Pietro Broccini",
+          "qid": "Q1485742",
+          "born": 1928
+        },
+        {
+          "name": "Pietro Rebuzzi",
+          "qid": "Q3904201",
+          "born": 1918
+        },
+        {
+          "name": "Rosario Di Vincenzo",
+          "qid": "Q3941356",
+          "born": 1941
+        },
+        {
+          "name": "Sergio Brighenti",
+          "qid": "Q989525",
+          "born": 1932
+        },
+        {
+          "name": "Sergio Magistrelli",
+          "qid": "Q951772",
+          "born": 1951
+        },
+        {
+          "name": "Stefano Bettarini",
+          "qid": "Q1409074",
+          "born": 1972
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "teamA": {
+        "name": "Eyüpspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/7fb0ub1626445710.png"
+      },
+      "teamB": {
+        "name": "Başakşehir",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png"
+      },
+      "answers": [
+        {
+          "name": "Caner Erkin",
+          "qid": "Q946447",
+          "born": 1988
+        },
+        {
+          "name": "Ahmed Kutucu",
+          "qid": "Q59641577",
+          "born": 2000
+        },
+        {
+          "name": "Umut Bozok",
+          "qid": "Q36432583",
+          "born": 1996
+        },
+        {
+          "name": "Mustafa Pektemek",
+          "qid": "Q977098",
+          "born": 1988
+        },
+        {
+          "name": "Serdar Gürler",
+          "qid": "Q472488",
+          "born": 1991
+        },
+        {
+          "name": "Léo Dubois",
+          "qid": "Q20641029",
+          "born": 1994
+        },
+        {
+          "name": "İbrahim Yılmaz",
+          "qid": "Q343383",
+          "born": 1994
+        },
+        {
+          "name": "İlyas Kahraman",
+          "qid": "Q3148834",
+          "born": 1976
+        },
+        {
+          "name": "İbrahim Akdağ",
+          "qid": "Q6070874",
+          "born": 1991
+        },
+        {
+          "name": "Oğuz Sabankay",
+          "qid": "Q740321",
+          "born": 1987
+        },
+        {
+          "name": "Cenk Ahmet Alkılıç",
+          "qid": "Q1053395",
+          "born": 1987
+        },
+        {
+          "name": "Eren Aydın",
+          "qid": "Q1349995",
+          "born": 1982
+        },
+        {
+          "name": "Mete Kaan Demir",
+          "qid": "Q69511849",
+          "born": 1998
+        },
+        {
+          "name": "Göksel Akıncı",
+          "qid": "Q6103142",
+          "born": 1977
+        },
+        {
+          "name": "Erkan Ferin",
+          "qid": "Q6090426",
+          "born": 1988
+        },
+        {
+          "name": "Uğur Işıkal",
+          "qid": "Q7905380",
+          "born": 1985
+        },
+        {
+          "name": "Stéphane Badji",
+          "qid": "Q2395878",
+          "born": 1990
+        },
+        {
+          "name": "Feridun Kıroğlu",
+          "qid": "Q26941609",
+          "born": 1994
+        }
+      ]
+    },
+    {
       "date": "2026-12-13",
       "teamA": {
         "name": "Juventus",

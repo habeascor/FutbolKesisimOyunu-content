@@ -1,0 +1,1461 @@
+{
+  "version": 1,
+  "puzzles": [
+    {
+      "date": "2026-11-15",
+      "teamA": {
+        "name": "Monaco",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+      },
+      "teamB": {
+        "name": "Napoli",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+      },
+      "answers": [
+        {
+          "name": "Carlos Vinícius",
+          "qid": "Q35694605",
+          "born": 1995
+        },
+        {
+          "name": "Morgan De Sanctis",
+          "qid": "Q219618",
+          "born": 1977
+        },
+        {
+          "name": "Ramón Díaz",
+          "qid": "Q348557",
+          "born": 1959
+        },
+        {
+          "name": "Tiémoué Bakayoko",
+          "qid": "Q15063275",
+          "born": 1994
+        },
+        {
+          "name": "Benoît Badiashile",
+          "qid": "Q57704058",
+          "born": 2001
+        },
+        {
+          "name": "Kévin Malcuit",
+          "qid": "Q6453717",
+          "born": 1991
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "teamA": {
+        "name": "Lazio",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png"
+      },
+      "teamB": {
+        "name": "Sampdoria",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png"
+      },
+      "answers": [
+        {
+          "name": "Roberto Mancini",
+          "qid": "Q48330",
+          "born": 1964
+        },
+        {
+          "name": "Simone Inzaghi",
+          "qid": "Q314670",
+          "born": 1976
+        },
+        {
+          "name": "Juan Sebastián Verón",
+          "qid": "Q46502",
+          "born": 1975
+        },
+        {
+          "name": "Siniša Mihajlović",
+          "qid": "Q294351",
+          "born": 1969
+        },
+        {
+          "name": "Keita Baldé",
+          "qid": "Q14945895",
+          "born": 1995
+        },
+        {
+          "name": "Enrico Chiesa",
+          "qid": "Q345026",
+          "born": 1970
+        },
+        {
+          "name": "Joaquín Correa",
+          "qid": "Q17477978",
+          "born": 1994
+        },
+        {
+          "name": "Attilio Lombardo",
+          "qid": "Q758145",
+          "born": 1966
+        },
+        {
+          "name": "Giuseppe Signori",
+          "qid": "Q334684",
+          "born": 1968
+        },
+        {
+          "name": "Vladimir Jugović",
+          "qid": "Q146119",
+          "born": 1969
+        },
+        {
+          "name": "Antonio Candreva",
+          "qid": "Q32556",
+          "born": 1987
+        },
+        {
+          "name": "Alessio Romagnoli",
+          "qid": "Q795017",
+          "born": 1995
+        },
+        {
+          "name": "Marius Stankevičius",
+          "qid": "Q380021",
+          "born": 1981
+        },
+        {
+          "name": "Lorenzo De Silvestri",
+          "qid": "Q441426",
+          "born": 1988
+        },
+        {
+          "name": "Pajtim Kasami",
+          "qid": "Q563881",
+          "born": 1992
+        },
+        {
+          "name": "Pasquale Foggia",
+          "qid": "Q555408",
+          "born": 1983
+        },
+        {
+          "name": "Mario Maraschi",
+          "qid": "Q3848768",
+          "born": 1939
+        },
+        {
+          "name": "Tommaso Berni",
+          "qid": "Q611501",
+          "born": 1983
+        },
+        {
+          "name": "Guglielmo Stendardo",
+          "qid": "Q366837",
+          "born": 1981
+        },
+        {
+          "name": "Alessandro Grandoni",
+          "qid": "Q1371105",
+          "born": 1977
+        },
+        {
+          "name": "Arnaldo Lucentini",
+          "qid": "Q3623509",
+          "born": 1930
+        },
+        {
+          "name": "Claudio Garella",
+          "qid": "Q548192",
+          "born": 1955
+        },
+        {
+          "name": "Daniele Franceschini",
+          "qid": "Q1089110",
+          "born": 1976
+        },
+        {
+          "name": "Dario Marcolin",
+          "qid": "Q3702619",
+          "born": 1971
+        },
+        {
+          "name": "Dionisio Arce",
+          "qid": "Q584417",
+          "born": 1927
+        },
+        {
+          "name": "Emanuele Pesaresi",
+          "qid": "Q3723976",
+          "born": 1976
+        },
+        {
+          "name": "Engelbert König",
+          "qid": "Q3725333",
+          "born": 1919
+        },
+        {
+          "name": "Fabio Bazzani",
+          "qid": "Q924087",
+          "born": 1976
+        },
+        {
+          "name": "Fabrizio Casazza",
+          "qid": "Q944147",
+          "born": 1970
+        },
+        {
+          "name": "Gian Piero Ghio",
+          "qid": "Q776189",
+          "born": 1944
+        },
+        {
+          "name": "Ivan Artipoli",
+          "qid": "Q2668470",
+          "born": 1986
+        },
+        {
+          "name": "Luciano Zauri",
+          "qid": "Q519625",
+          "born": 1978
+        },
+        {
+          "name": "Marco Pisano",
+          "qid": "Q1333978",
+          "born": 1981
+        },
+        {
+          "name": "Mario Frustalupi",
+          "qid": "Q219490",
+          "born": 1942
+        },
+        {
+          "name": "Massimo Bonanni",
+          "qid": "Q460758",
+          "born": 1982
+        },
+        {
+          "name": "Matteo Sereni",
+          "qid": "Q1336105",
+          "born": 1975
+        },
+        {
+          "name": "Modibo Diakité",
+          "qid": "Q703456",
+          "born": 1987
+        },
+        {
+          "name": "Pierluigi Ronzon",
+          "qid": "Q3903137",
+          "born": 1934
+        },
+        {
+          "name": "Renato Buso",
+          "qid": "Q427398",
+          "born": 1969
+        },
+        {
+          "name": "Roberto Badiani",
+          "qid": "Q988186",
+          "born": 1949
+        },
+        {
+          "name": "Rosario Di Vincenzo",
+          "qid": "Q3941356",
+          "born": 1941
+        },
+        {
+          "name": "Vincenzo Chiarenza",
+          "qid": "Q1613791",
+          "born": 1954
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "teamA": {
+        "name": "Roma",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+      },
+      "teamB": {
+        "name": "Valencia",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png"
+      },
+      "answers": [
+        {
+          "name": "John Carew",
+          "qid": "Q192986",
+          "born": 1979
+        },
+        {
+          "name": "Seydou Keita",
+          "qid": "Q191080",
+          "born": 1980
+        },
+        {
+          "name": "Justin Kluivert",
+          "qid": "Q26934107",
+          "born": 1999
+        },
+        {
+          "name": "Iván Helguera",
+          "qid": "Q296975",
+          "born": 1975
+        },
+        {
+          "name": "Fernando Gago",
+          "qid": "Q187426",
+          "born": 1986
+        },
+        {
+          "name": "Mathew Ryan",
+          "qid": "Q1587689",
+          "born": 1992
+        },
+        {
+          "name": "Umar Sadiq",
+          "qid": "Q21584736",
+          "born": 1997
+        },
+        {
+          "name": "Alessandro Florenzi",
+          "qid": "Q1378371",
+          "born": 1991
+        },
+        {
+          "name": "Amedeo Carboni",
+          "qid": "Q460603",
+          "born": 1965
+        },
+        {
+          "name": "Francesco Tavano",
+          "qid": "Q471802",
+          "born": 1979
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "teamA": {
+        "name": "Boca Juniors",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png"
+      },
+      "teamB": {
+        "name": "River Plate",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png"
+      },
+      "answers": [
+        {
+          "name": "Alfredo Di Stéfano",
+          "qid": "Q164546",
+          "born": 1926
+        },
+        {
+          "name": "Gabriel Batistuta",
+          "qid": "Q170376",
+          "born": 1969
+        },
+        {
+          "name": "Claudio Caniggia",
+          "qid": "Q270890",
+          "born": 1967
+        },
+        {
+          "name": "Marcelo Saracchi",
+          "qid": "Q20994301",
+          "born": 1998
+        },
+        {
+          "name": "Oscar Ruggeri",
+          "qid": "Q346942",
+          "born": 1962
+        },
+        {
+          "name": "Abel Balbo",
+          "qid": "Q318387",
+          "born": 1966
+        },
+        {
+          "name": "Milan Borjan",
+          "qid": "Q1360904",
+          "born": 1987
+        },
+        {
+          "name": "Alberto Tarantini",
+          "qid": "Q455135",
+          "born": 1955
+        },
+        {
+          "name": "Julio Olarticoechea",
+          "qid": "Q516892",
+          "born": 1958
+        },
+        {
+          "name": "Jonatan Maidana",
+          "qid": "Q2287577",
+          "born": 1985
+        },
+        {
+          "name": "Jorge Rinaldi",
+          "qid": "Q3183873",
+          "born": 1963
+        },
+        {
+          "name": "Ricardo Gareca",
+          "qid": "Q2553835",
+          "born": 1958
+        },
+        {
+          "name": "Carlos Daniel Tapia",
+          "qid": "Q983591",
+          "born": 1962
+        },
+        {
+          "name": "Juan José Pizzuti",
+          "qid": "Q2472503",
+          "born": 1927
+        },
+        {
+          "name": "Luciano Figueroa",
+          "qid": "Q503165",
+          "born": 1981
+        },
+        {
+          "name": "Alfredo Rojas",
+          "qid": "Q972193",
+          "born": 1937
+        },
+        {
+          "name": "Nelson Vivas",
+          "qid": "Q2332951",
+          "born": 1969
+        },
+        {
+          "name": "Adam Bareiro",
+          "qid": "Q60286902",
+          "born": 1996
+        },
+        {
+          "name": "Norberto Menéndez",
+          "qid": "Q1270002",
+          "born": 1936
+        },
+        {
+          "name": "Julio César Cáceres",
+          "qid": "Q316728",
+          "born": 1979
+        },
+        {
+          "name": "Carlos Barisio",
+          "qid": "Q3660023",
+          "born": 1951
+        },
+        {
+          "name": "Ernesto Mastrángelo",
+          "qid": "Q3057275",
+          "born": 1948
+        },
+        {
+          "name": "Lucas Pratto",
+          "qid": "Q1845684",
+          "born": 1988
+        },
+        {
+          "name": "Sergio Berti",
+          "qid": "Q2463213",
+          "born": 1969
+        },
+        {
+          "name": "José Milton Melgar",
+          "qid": "Q2733543",
+          "born": 1959
+        },
+        {
+          "name": "Sebastián Rambert",
+          "qid": "Q1153455",
+          "born": 1974
+        },
+        {
+          "name": "Agustín Lanata",
+          "qid": "Q23932718",
+          "born": null
+        },
+        {
+          "name": "Alberto Penney",
+          "qid": "Q25039598",
+          "born": 1888
+        },
+        {
+          "name": "Aníbal Cibeyra",
+          "qid": "Q5484720",
+          "born": 1949
+        },
+        {
+          "name": "Bruno Urribarri",
+          "qid": "Q4979424",
+          "born": 1986
+        },
+        {
+          "name": "Carlos Ángel López",
+          "qid": "Q17623854",
+          "born": 1952
+        },
+        {
+          "name": "Carlos Horacio Salinas",
+          "qid": "Q3660076",
+          "born": 1954
+        },
+        {
+          "name": "Carlos Morete",
+          "qid": "Q425629",
+          "born": 1952
+        },
+        {
+          "name": "Cataldo Spitale",
+          "qid": "Q386445",
+          "born": 1908
+        },
+        {
+          "name": "Claudio Cabrera",
+          "qid": "Q17992403",
+          "born": 1963
+        },
+        {
+          "name": "Fabio Talarico",
+          "qid": "Q98454799",
+          "born": 1968
+        },
+        {
+          "name": "Fernando Cáceres",
+          "qid": "Q932371",
+          "born": 1969
+        },
+        {
+          "name": "Fernando Gamboa",
+          "qid": "Q38989",
+          "born": 1970
+        },
+        {
+          "name": "Francisco Lombardo",
+          "qid": "Q953160",
+          "born": 1925
+        },
+        {
+          "name": "Francisco Sá",
+          "qid": "Q677135",
+          "born": 1945
+        },
+        {
+          "name": "Gabriel Amato",
+          "qid": "Q3289181",
+          "born": 1970
+        },
+        {
+          "name": "Gabriel Cedrés",
+          "qid": "Q2692389",
+          "born": 1970
+        },
+        {
+          "name": "Gerardo Reinoso",
+          "qid": "Q5550295",
+          "born": 1965
+        },
+        {
+          "name": "Hugo Coscia",
+          "qid": "Q390465",
+          "born": 1952
+        },
+        {
+          "name": "Hugo Gatti",
+          "qid": "Q116650",
+          "born": 1944
+        },
+        {
+          "name": "Hugo Zarich",
+          "qid": "Q959545",
+          "born": 1940
+        },
+        {
+          "name": "Jesús Méndez",
+          "qid": "Q725080",
+          "born": 1984
+        },
+        {
+          "name": "Jonathan Fabbro",
+          "qid": "Q3501096",
+          "born": 1982
+        },
+        {
+          "name": "Jorge Higuaín",
+          "qid": "Q1133520",
+          "born": 1957
+        },
+        {
+          "name": "Jorge Martínez",
+          "qid": "Q2481943",
+          "born": 1973
+        },
+        {
+          "name": "José Luis Villarreal",
+          "qid": "Q3123663",
+          "born": 1966
+        },
+        {
+          "name": "José Manuel Moreno",
+          "qid": "Q543951",
+          "born": 1916
+        },
+        {
+          "name": "Juan Amador Sánchez",
+          "qid": "Q5947149",
+          "born": 1961
+        },
+        {
+          "name": "Juan José López",
+          "qid": "Q921446",
+          "born": 1950
+        },
+        {
+          "name": "Juan José Negri",
+          "qid": "Q16584822",
+          "born": 1920
+        },
+        {
+          "name": "Juan Vairo",
+          "qid": "Q1982124",
+          "born": 1932
+        },
+        {
+          "name": "Julio Toresani",
+          "qid": "Q5955203",
+          "born": 1967
+        },
+        {
+          "name": "Luka Andrade",
+          "qid": "Q123329438",
+          "born": 2007
+        },
+        {
+          "name": "Mariano Pavone",
+          "qid": "Q718980",
+          "born": 1982
+        },
+        {
+          "name": "Miguel Ángel Loayza",
+          "qid": "Q2352102",
+          "born": 1940
+        },
+        {
+          "name": "Néstor Isella",
+          "qid": "Q9051267",
+          "born": 1937
+        },
+        {
+          "name": "Nicolás Bertolo",
+          "qid": "Q1191497",
+          "born": 1986
+        },
+        {
+          "name": "Pablo Erbín",
+          "qid": "Q28535079",
+          "born": 1965
+        },
+        {
+          "name": "Ramón Centurión",
+          "qid": "Q9066384",
+          "born": 1962
+        },
+        {
+          "name": "Roque Ditro",
+          "qid": "Q3941210",
+          "born": 1936
+        },
+        {
+          "name": "Rubén da Silva",
+          "qid": "Q2733780",
+          "born": 1968
+        },
+        {
+          "name": "Rubén Galletti",
+          "qid": "Q6113269",
+          "born": 1950
+        },
+        {
+          "name": "Tomás Pochettino",
+          "qid": "Q19277762",
+          "born": 1996
+        },
+        {
+          "name": "Víctor Trossero",
+          "qid": "Q3557622",
+          "born": 1953
+        },
+        {
+          "name": "Victorio Cocco",
+          "qid": "Q7927424",
+          "born": 1946
+        },
+        {
+          "name": "Zoilo Canavery",
+          "qid": "Q4024640",
+          "born": 1893
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "teamA": {
+        "name": "Juventus",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+      },
+      "teamB": {
+        "name": "Wolfsburg",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ci9trv1778399557.png"
+      },
+      "answers": [
+        {
+          "name": "Diego",
+          "qid": "Q109428",
+          "born": 1985
+        },
+        {
+          "name": "Mario Mandžukić",
+          "qid": "Q187171",
+          "born": 1986
+        },
+        {
+          "name": "Hasan Salihamidžić",
+          "qid": "Q153387",
+          "born": 1977
+        },
+        {
+          "name": "Andrea Barzagli",
+          "qid": "Q107051",
+          "born": 1981
+        },
+        {
+          "name": "Nicklas Bendtner",
+          "qid": "Q167240",
+          "born": 1988
+        },
+        {
+          "name": "Kamil Grabara",
+          "qid": "Q56441182",
+          "born": 1999
+        },
+        {
+          "name": "Rogério",
+          "qid": "Q31763182",
+          "born": 1998
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "teamA": {
+        "name": "Schalke 04",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/hnci291621593978.png"
+      },
+      "teamB": {
+        "name": "Tottenham Hotspur",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+      },
+      "answers": [
+        {
+          "name": "Kevin-Prince Boateng",
+          "qid": "Q151034",
+          "born": 1987
+        },
+        {
+          "name": "Pierre-Emile Højbjerg",
+          "qid": "Q11059683",
+          "born": 1995
+        },
+        {
+          "name": "Benjamin Stambouli",
+          "qid": "Q245922",
+          "born": 1990
+        },
+        {
+          "name": "Nabil Bentaleb",
+          "qid": "Q15410320",
+          "born": 1994
+        },
+        {
+          "name": "Lewis Holtby",
+          "qid": "Q311246",
+          "born": 1990
+        },
+        {
+          "name": "Steffen Freund",
+          "qid": "Q505864",
+          "born": 1970
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "teamA": {
+        "name": "Monaco",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+      },
+      "teamB": {
+        "name": "Roma",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
+      },
+      "answers": [
+        {
+          "name": "Shabani Nonda",
+          "qid": "Q342439",
+          "born": 1977
+        },
+        {
+          "name": "Stephan El Shaarawy",
+          "qid": "Q12984",
+          "born": 1992
+        },
+        {
+          "name": "John Arne Riise",
+          "qid": "Q189827",
+          "born": 1980
+        },
+        {
+          "name": "Maicon",
+          "qid": "Q177686",
+          "born": 1981
+        },
+        {
+          "name": "Morgan De Sanctis",
+          "qid": "Q219618",
+          "born": 1977
+        },
+        {
+          "name": "Ludovic Giuly",
+          "qid": "Q219771",
+          "born": 1976
+        },
+        {
+          "name": "Christian Panucci",
+          "qid": "Q168287",
+          "born": 1973
+        },
+        {
+          "name": "Jérémy Ménez",
+          "qid": "Q1923",
+          "born": 1987
+        },
+        {
+          "name": "Maarten Stekelenburg",
+          "qid": "Q182685",
+          "born": 1982
+        },
+        {
+          "name": "William Vainqueur",
+          "qid": "Q2525331",
+          "born": 1988
+        },
+        {
+          "name": "Leandro Cufré",
+          "qid": "Q314770",
+          "born": 1978
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "teamA": {
+        "name": "Hamburg",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png"
+      },
+      "teamB": {
+        "name": "Werder Bremen",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png"
+      },
+      "answers": [
+        {
+          "name": "Aílton",
+          "qid": "Q160363",
+          "born": 1973
+        },
+        {
+          "name": "Fabian Ernst",
+          "qid": "Q160890",
+          "born": 1979
+        },
+        {
+          "name": "Davie Selke",
+          "qid": "Q15177921",
+          "born": 1995
+        },
+        {
+          "name": "Eljero Elia",
+          "qid": "Q201896",
+          "born": 1987
+        },
+        {
+          "name": "Mohamed Zidan",
+          "qid": "Q76866",
+          "born": 1981
+        },
+        {
+          "name": "Levin Öztunalı",
+          "qid": "Q14551682",
+          "born": 1996
+        },
+        {
+          "name": "Aaron Hunt",
+          "qid": "Q160384",
+          "born": 1986
+        },
+        {
+          "name": "Bruno Labbadia",
+          "qid": "Q57548",
+          "born": 1966
+        },
+        {
+          "name": "Martin Harnik",
+          "qid": "Q60360",
+          "born": 1987
+        },
+        {
+          "name": "Raphaël Wicky",
+          "qid": "Q449715",
+          "born": 1977
+        },
+        {
+          "name": "Ludovit Reis",
+          "qid": "Q41779982",
+          "born": 2000
+        },
+        {
+          "name": "Frank Rost",
+          "qid": "Q159518",
+          "born": 1973
+        },
+        {
+          "name": "Frank Ordenewitz",
+          "qid": "Q47330",
+          "born": 1965
+        },
+        {
+          "name": "Boubacar Sanogo",
+          "qid": "Q349379",
+          "born": 1982
+        },
+        {
+          "name": "Dirk Weetendorf",
+          "qid": "Q832151",
+          "born": 1972
+        },
+        {
+          "name": "Jaroslav Drobný",
+          "qid": "Q314661",
+          "born": 1979
+        },
+        {
+          "name": "Andreas Reinke",
+          "qid": "Q178495",
+          "born": 1969
+        },
+        {
+          "name": "Benno Möhlmann",
+          "qid": "Q817964",
+          "born": 1954
+        },
+        {
+          "name": "Dietmar Beiersdorfer",
+          "qid": "Q530620",
+          "born": 1963
+        },
+        {
+          "name": "Fritz Laband",
+          "qid": "Q708139",
+          "born": 1925
+        },
+        {
+          "name": "Hans Schulz",
+          "qid": "Q1582414",
+          "born": 1942
+        },
+        {
+          "name": "Karim Coulibaly",
+          "qid": "Q135968088",
+          "born": 2007
+        },
+        {
+          "name": "Marinus Bester",
+          "qid": "Q1898585",
+          "born": 1969
+        },
+        {
+          "name": "Ole Bjørnmose",
+          "qid": "Q709706",
+          "born": 1944
+        },
+        {
+          "name": "Paweł Wojtala",
+          "qid": "Q1513040",
+          "born": 1972
+        },
+        {
+          "name": "Rodolfo Cardoso",
+          "qid": "Q981318",
+          "born": 1968
+        },
+        {
+          "name": "Werner Dreßel",
+          "qid": "Q100517",
+          "born": 1958
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "teamA": {
+        "name": "Everton",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+      },
+      "teamB": {
+        "name": "Lille",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/txcsg21741597962.png"
+      },
+      "answers": [
+        {
+          "name": "Lucas Digne",
+          "qid": "Q72648",
+          "born": 1993
+        },
+        {
+          "name": "Amadou Onana",
+          "qid": "Q99328435",
+          "born": 2001
+        },
+        {
+          "name": "Idrissa Gueye",
+          "qid": "Q46679",
+          "born": 1989
+        },
+        {
+          "name": "André Gomes",
+          "qid": "Q519008",
+          "born": 1993
+        },
+        {
+          "name": "Kevin Mirallas",
+          "qid": "Q316917",
+          "born": 1987
+        },
+        {
+          "name": "Djibril Sidibé",
+          "qid": "Q66737676",
+          "born": 1992
+        },
+        {
+          "name": "Anwar El Ghazi",
+          "qid": "Q17465944",
+          "born": 1995
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "teamA": {
+        "name": "Napoli",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
+      },
+      "teamB": {
+        "name": "Sampdoria",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png"
+      },
+      "answers": [
+        {
+          "name": "Lorenzo Insigne",
+          "qid": "Q1756086",
+          "born": 1991
+        },
+        {
+          "name": "Fabio Quagliarella",
+          "qid": "Q45900",
+          "born": 1983
+        },
+        {
+          "name": "Duván Zapata",
+          "qid": "Q577481",
+          "born": 1991
+        },
+        {
+          "name": "Alain Boghossian",
+          "qid": "Q350738",
+          "born": 1970
+        },
+        {
+          "name": "Ignazio Abate",
+          "qid": "Q213007",
+          "born": 1986
+        },
+        {
+          "name": "Ivan Strinić",
+          "qid": "Q314083",
+          "born": 1987
+        },
+        {
+          "name": "Nicola Amoruso",
+          "qid": "Q62244",
+          "born": 1974
+        },
+        {
+          "name": "Manolo Gabbiadini",
+          "qid": "Q129816",
+          "born": 1991
+        },
+        {
+          "name": "Paolo Barison",
+          "qid": "Q1317514",
+          "born": 1936
+        },
+        {
+          "name": "Antonio Floro Flores",
+          "qid": "Q510039",
+          "born": 1983
+        },
+        {
+          "name": "Christian Maggio",
+          "qid": "Q213102",
+          "born": 1982
+        },
+        {
+          "name": "Claudio Bellucci",
+          "qid": "Q607364",
+          "born": 1975
+        },
+        {
+          "name": "Marco Storari",
+          "qid": "Q240492",
+          "born": 1977
+        },
+        {
+          "name": "Bartosz Bereszyński",
+          "qid": "Q466012",
+          "born": 1992
+        },
+        {
+          "name": "Hugo Campagnaro",
+          "qid": "Q508010",
+          "born": 1980
+        },
+        {
+          "name": "Lorenzo Tonelli",
+          "qid": "Q1651703",
+          "born": 1990
+        },
+        {
+          "name": "Harald Nielsen",
+          "qid": "Q923271",
+          "born": 1941
+        },
+        {
+          "name": "Marco Donadel",
+          "qid": "Q316812",
+          "born": 1983
+        },
+        {
+          "name": "Luca Cigarini",
+          "qid": "Q440031",
+          "born": 1986
+        },
+        {
+          "name": "Rafael Cabral",
+          "qid": "Q615668",
+          "born": 1990
+        },
+        {
+          "name": "Maurizio Domizzi",
+          "qid": "Q768219",
+          "born": 1980
+        },
+        {
+          "name": "Vasco Regini",
+          "qid": "Q4008879",
+          "born": 1990
+        },
+        {
+          "name": "Guglielmo Stendardo",
+          "qid": "Q366837",
+          "born": 1981
+        },
+        {
+          "name": "Alessandro Renica",
+          "qid": "Q982991",
+          "born": 1962
+        },
+        {
+          "name": "Alessandro Zanoli",
+          "qid": "Q108616460",
+          "born": 2000
+        },
+        {
+          "name": "Andrea Bernini",
+          "qid": "Q1407725",
+          "born": 1973
+        },
+        {
+          "name": "Andrea Petagna",
+          "qid": "Q422012",
+          "born": 1995
+        },
+        {
+          "name": "Angelo Sormani",
+          "qid": "Q508434",
+          "born": 1939
+        },
+        {
+          "name": "Bruno Gramaglia",
+          "qid": "Q3645790",
+          "born": 1919
+        },
+        {
+          "name": "Claudio Bonomi",
+          "qid": "Q1460455",
+          "born": 1972
+        },
+        {
+          "name": "Claudio Garella",
+          "qid": "Q548192",
+          "born": 1955
+        },
+        {
+          "name": "Daniele Mannini",
+          "qid": "Q547351",
+          "born": 1983
+        },
+        {
+          "name": "Dario Marcolin",
+          "qid": "Q3702619",
+          "born": 1971
+        },
+        {
+          "name": "Davide Dionigi",
+          "qid": "Q3019333",
+          "born": 1974
+        },
+        {
+          "name": "Dionisio Arce",
+          "qid": "Q584417",
+          "born": 1927
+        },
+        {
+          "name": "Emanuele Pesaresi",
+          "qid": "Q3723976",
+          "born": 1976
+        },
+        {
+          "name": "Enrico Nicolini",
+          "qid": "Q3725951",
+          "born": 1955
+        },
+        {
+          "name": "Eugenio Corini",
+          "qid": "Q511092",
+          "born": 1970
+        },
+        {
+          "name": "Fabio Pecchia",
+          "qid": "Q1087530",
+          "born": 1973
+        },
+        {
+          "name": "Fausto Pari",
+          "qid": "Q514037",
+          "born": 1962
+        },
+        {
+          "name": "Gennaro Tutino",
+          "qid": "Q19950752",
+          "born": 1996
+        },
+        {
+          "name": "Gian Piero Ghio",
+          "qid": "Q776189",
+          "born": 1944
+        },
+        {
+          "name": "Giovanni Bolzoni",
+          "qid": "Q1448187",
+          "born": 1937
+        },
+        {
+          "name": "Humberto Rosa",
+          "qid": "Q3787595",
+          "born": 1932
+        },
+        {
+          "name": "Luca Fusi",
+          "qid": "Q1120153",
+          "born": 1963
+        },
+        {
+          "name": "Luca Mondini",
+          "qid": "Q3264988",
+          "born": 1970
+        },
+        {
+          "name": "Luciano Chiarugi",
+          "qid": "Q1613796",
+          "born": 1947
+        },
+        {
+          "name": "Marco Zamboni",
+          "qid": "Q3290185",
+          "born": 1977
+        },
+        {
+          "name": "Matteo Gianello",
+          "qid": "Q983943",
+          "born": 1976
+        },
+        {
+          "name": "Mirko Conte",
+          "qid": "Q1109020",
+          "born": 1974
+        },
+        {
+          "name": "Nicola Pozzi",
+          "qid": "Q933994",
+          "born": 1986
+        },
+        {
+          "name": "Nicola Zanini",
+          "qid": "Q3876400",
+          "born": 1974
+        },
+        {
+          "name": "Nikita Contini",
+          "qid": "Q20740730",
+          "born": 1996
+        },
+        {
+          "name": "Pierluigi Ronzon",
+          "qid": "Q3903137",
+          "born": 1934
+        },
+        {
+          "name": "Renato Buso",
+          "qid": "Q427398",
+          "born": 1969
+        },
+        {
+          "name": "Riccardo Musetti",
+          "qid": "Q7322921",
+          "born": 1983
+        },
+        {
+          "name": "Roberto Badiani",
+          "qid": "Q988186",
+          "born": 1949
+        },
+        {
+          "name": "Salvatore Miceli",
+          "qid": "Q3946138",
+          "born": 1974
+        },
+        {
+          "name": "Samuele Dalla Bona",
+          "qid": "Q966590",
+          "born": 1981
+        },
+        {
+          "name": "Vittorio Tosto",
+          "qid": "Q330798",
+          "born": 1974
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "teamA": {
+        "name": "Liverpool",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+      },
+      "teamB": {
+        "name": "Monaco",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png"
+      },
+      "answers": [
+        {
+          "name": "Fernando Morientes",
+          "qid": "Q45567",
+          "born": 1976
+        },
+        {
+          "name": "Fabinho",
+          "qid": "Q641425",
+          "born": 1993
+        },
+        {
+          "name": "John Arne Riise",
+          "qid": "Q189827",
+          "born": 1980
+        },
+        {
+          "name": "Takumi Minamino",
+          "qid": "Q776878",
+          "born": 1995
+        },
+        {
+          "name": "Salif Diao",
+          "qid": "Q350785",
+          "born": 1977
+        },
+        {
+          "name": "Djimi Traoré",
+          "qid": "Q250978",
+          "born": 1980
+        },
+        {
+          "name": "Patrice Luzi",
+          "qid": "Q580257",
+          "born": 1980
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "teamA": {
+        "name": "Manchester United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "teamB": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+      },
+      "answers": [
+        {
+          "name": "Wout Weghorst",
+          "qid": "Q2210473",
+          "born": 1992
+        },
+        {
+          "name": "Shinji Kagawa",
+          "qid": "Q154708",
+          "born": 1989
+        },
+        {
+          "name": "Kléberson",
+          "qid": "Q311035",
+          "born": 1979
+        },
+        {
+          "name": "Eric Bailly",
+          "qid": "Q18637352",
+          "born": 1994
+        },
+        {
+          "name": "Bebé",
+          "qid": "Q299450",
+          "born": 1990
+        },
+        {
+          "name": "Ronny Johnsen",
+          "qid": "Q381460",
+          "born": 1969
+        }
+      ]
+    }
+  ]
+}
