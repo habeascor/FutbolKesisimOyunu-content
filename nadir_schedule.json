@@ -1456,6 +1456,183 @@
           "born": 1969
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "teamA": {
+        "name": "Beşiktaş",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png"
+      },
+      "teamB": {
+        "name": "Aston Villa",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+      },
+      "answers": [
+        {
+          "name": "Alpay Özalan",
+          "qid": "Q435749",
+          "born": 1973
+        },
+        {
+          "name": "Tammy Abraham",
+          "qid": "Q24050378",
+          "born": 1997
+        },
+        {
+          "name": "Yasin Özcan",
+          "qid": "Q115688303",
+          "born": 2006
+        },
+        {
+          "name": "John Carew",
+          "qid": "Q192986",
+          "born": 1979
+        },
+        {
+          "name": "Ronny Johnsen",
+          "qid": "Q381460",
+          "born": 1969
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "teamA": {
+        "name": "Wolfsburg",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/ci9trv1778399557.png"
+      },
+      "teamB": {
+        "name": "Manchester United",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+      },
+      "answers": [
+        {
+          "name": "Wout Weghorst",
+          "qid": "Q2210473",
+          "born": 1992
+        },
+        {
+          "name": "Christian Eriksen",
+          "qid": "Q294951",
+          "born": 1992
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "teamA": {
+        "name": "Benfica",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png"
+      },
+      "teamB": {
+        "name": "Juventus",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png"
+      },
+      "answers": [
+        {
+          "name": "Ángel Di María",
+          "qid": "Q251683",
+          "born": 1988
+        },
+        {
+          "name": "João Cancelo",
+          "qid": "Q6298063",
+          "born": 1994
+        },
+        {
+          "name": "Dimas",
+          "qid": "Q725768",
+          "born": 1969
+        },
+        {
+          "name": "Tiago Mendes",
+          "qid": "Q210944",
+          "born": 1981
+        },
+        {
+          "name": "Fabrizio Miccoli",
+          "qid": "Q136959",
+          "born": 1979
+        },
+        {
+          "name": "Paulo Sousa",
+          "qid": "Q314440",
+          "born": 1970
+        },
+        {
+          "name": "Enzo Barrenechea",
+          "qid": "Q102045930",
+          "born": 2001
+        },
+        {
+          "name": "Gabriel Pires",
+          "qid": "Q10545642",
+          "born": 1993
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "teamA": {
+        "name": "Atalanta",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png"
+      },
+      "teamB": {
+        "name": "Atletico Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png"
+      },
+      "answers": [
+        {
+          "name": "Ademola Lookman",
+          "qid": "Q21484766",
+          "born": 1997
+        },
+        {
+          "name": "Christian Vieri",
+          "qid": "Q188696",
+          "born": 1973
+        },
+        {
+          "name": "Cristian Romero",
+          "qid": "Q28058687",
+          "born": 1998
+        },
+        {
+          "name": "Demetrio Albertini",
+          "qid": "Q245011",
+          "born": 1971
+        },
+        {
+          "name": "Giacomo Raspadori",
+          "qid": "Q59914562",
+          "born": 2000
+        },
+        {
+          "name": "Juan Musso",
+          "qid": "Q5951550",
+          "born": 1994
+        },
+        {
+          "name": "Matteo Ruggeri",
+          "qid": "Q97365426",
+          "born": 2002
+        },
+        {
+          "name": "Alemão",
+          "qid": "Q615292",
+          "born": 1961
+        },
+        {
+          "name": "Alessio Cerci",
+          "qid": "Q456365",
+          "born": 1987
+        },
+        {
+          "name": "Costinha",
+          "qid": "Q311087",
+          "born": 1974
+        }
+      ]
     }
   ]
 }
