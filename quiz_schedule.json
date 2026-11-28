@@ -1,0 +1,2930 @@
+{
+  "version": 1,
+  "days": [
+    {
+      "date": "2026-11-19",
+      "questions": [
+        {
+          "id": "q8596516944",
+          "q": "Ankaragücü hangi yıl kuruldu?",
+          "answer": "1910",
+          "wrong": [
+            "1908",
+            "1914",
+            "1900"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qe34421bf67",
+          "q": "1982 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "İtalya",
+          "wrong": [],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final İtalya 3-1 kazandı; maç Madrid şehrinde oynandı.",
+          "kind": "yaz"
+        },
+        {
+          "id": "qecdab87ecb",
+          "q": "Mikel Arteta aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Arsenal",
+          "wrong": [
+            "Manchester United",
+            "Aston Villa",
+            "Manchester City"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "Mikel Arteta'nın kariyerindeki kulüplerden: Barcelona, Paris Saint-Germain, Rangers, Everton, Arsenal."
+        },
+        {
+          "id": "q4df870c637",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Luis Suárez",
+          "wrong": [
+            "Memphis Depay",
+            "Álvaro Negredo",
+            "Ciro Immobile"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1987 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Uruguay Ligi, Eredivisie, Premier League.",
+            "Uyruğu: Uruguay. Forma giydiği kulüplerden biri: Atlético Madrid."
+          ]
+        },
+        {
+          "id": "q535cc87818",
+          "q": "2002 Dünya Kupası'nda Türkiye–Çin maçında Türkiye'nin ilk golünü kim attı?",
+          "answer": "Hasan Şaş",
+          "wrong": [
+            "Uğur Boral",
+            "Hami Mandıralı",
+            "Arda Turan"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Gol 6. dakikada geldi; maç 3-0 Türkiye lehine bitti."
+        },
+        {
+          "id": "q5e5bca34f2",
+          "q": "2024-25 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Victor Osimhen",
+          "wrong": [
+            "Enner Valencia",
+            "Alexander Sørloth",
+            "Umut Bozok"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Victor Osimhen o sezon Galatasaray formasıyla 26 gol attı."
+        },
+        {
+          "id": "q40cdae4ae3",
+          "q": "Gençlerbirliği 1923 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 2,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "qb3a3ef2084",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Tiago Djaló",
+          "wrong": [
+            "Tayyip Talha Sanuç",
+            "Marcão",
+            "Wilfried Singo"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Tiago Djaló, 2000 doğumlu Portekiz savunma.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/FC_Salzburg_gegen_OSC_Lille_%28Cl-Gruppenphase_29._September_2021%29_65_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Werner100359 / CC BY-SA 4.0"
+        },
+        {
+          "id": "q01d51cfcc3",
+          "q": "Bu kulüpleri kuruluş yılına göre eskiden yeniye sırala.",
+          "answer": "Rangers › Marseille › Lazio › Sampdoria",
+          "wrong": [],
+          "tier": 4,
+          "topic": "diger",
+          "note": "Rangers 1872 · Marseille 1899 · Lazio 1900 · Sampdoria 1946",
+          "kind": "sirala",
+          "items": [
+            "Rangers",
+            "Marseille",
+            "Lazio",
+            "Sampdoria"
+          ]
+        },
+        {
+          "id": "q153cec6942",
+          "q": "Cristiano Ronaldo, Manchester United'a gelmeden önce hangi kulüpteydi?",
+          "answer": "Sporting",
+          "wrong": [
+            "Benfica",
+            "Porto",
+            "Braga"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "2003'teki hazırlık maçında United'ı etkileyince transfer oldu."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "questions": [
+        {
+          "id": "qf46878363e",
+          "q": "Cengiz Ünder aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Başakşehir",
+          "wrong": [
+            "Çaykur Rizespor",
+            "Eyüpspor",
+            "Akhisarspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Cengiz Ünder'in kariyerindeki kulüplerden: Başakşehir, Roma, Marseille, Fenerbahçe, Beşiktaş."
+        },
+        {
+          "id": "q066ab3157b",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Harry Kane",
+          "wrong": [
+            "Wayne Rooney",
+            "Tammy Abraham",
+            "Marcus Rashford"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1993 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Premier League, Bundesliga.",
+            "Uyruğu: İngiltere. Forma giydiği kulüplerden biri: Bayern Munich."
+          ]
+        },
+        {
+          "id": "qae9192e412",
+          "q": "Barcelona 1899 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 2,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q780ac8ab78",
+          "q": "EURO 2020 şampiyonu hangi ülke oldu?",
+          "answer": "İtalya",
+          "wrong": [],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final 1-1 bitti, İtalya penaltılarla kazandı; maç Londra şehrinde oynandı.",
+          "kind": "yaz"
+        },
+        {
+          "id": "qcefb5332ea",
+          "q": "Bu kulüpleri kuruluş yılına göre eskiden yeniye sırala.",
+          "answer": "Konyaspor › Antalyaspor › Hatayspor › Kardemir Karabükspor",
+          "wrong": [],
+          "tier": 3,
+          "topic": "diger",
+          "note": "Konyaspor 1922 · Antalyaspor 1966 · Hatayspor 1967 · Kardemir Karabükspor 1969",
+          "kind": "sirala",
+          "items": [
+            "Konyaspor",
+            "Antalyaspor",
+            "Hatayspor",
+            "Kardemir Karabükspor"
+          ]
+        },
+        {
+          "id": "qb1c3aed8ab",
+          "q": "1977-78 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Fenerbahçe",
+          "wrong": [
+            "Trabzonspor",
+            "Beşiktaş",
+            "Galatasaray"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Fenerbahçe'nin 9. lig şampiyonluğuydu."
+        },
+        {
+          "id": "qcb12379fbc",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Cristiano Ronaldo",
+          "wrong": [
+            "Javier Saviola",
+            "Samuel Eto'o",
+            "Goran Pandev"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Cristiano Ronaldo, 1985 doğumlu forvet.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Bryan Berlin / CC BY-SA 4.0",
+          "blur": true
+        },
+        {
+          "id": "qfbab19ba29",
+          "q": "2018 Dünya Kupası finalinde Fransa hangi takımı yendi?",
+          "answer": "Hırvatistan",
+          "wrong": [
+            "Belçika",
+            "Almanya",
+            "Rusya"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final Fransa 4-2 kazandı; maç Moskova şehrinde oynandı."
+        },
+        {
+          "id": "qa3bb77f27f",
+          "q": "2003-04 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Zafer Biryol",
+          "wrong": [
+            "Hakan Şükür",
+            "Alex de Souza",
+            "Milan Baroš"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Zafer Biryol o sezon Konyaspor formasıyla 25 gol attı."
+        },
+        {
+          "id": "qcd2585c6ae",
+          "q": "Konyaspor hangi yıl kuruldu?",
+          "answer": "1922",
+          "wrong": [
+            "1928",
+            "1932",
+            "1918"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "questions": [
+        {
+          "id": "qbdc6bd6f80",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Ogün Altıparmak › Ömer Kaner › Bülent Uygun › Gökhan Ünal",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Ogün Altıparmak 1970-71 · Ömer Kaner 1974-75 · Bülent Uygun 1993-94 · Gökhan Ünal 2005-06",
+          "kind": "sirala",
+          "items": [
+            "Ogün Altıparmak",
+            "Ömer Kaner",
+            "Bülent Uygun",
+            "Gökhan Ünal"
+          ]
+        },
+        {
+          "id": "qc0d9b18009",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Burak Yılmaz",
+          "wrong": [
+            "Arda Turan",
+            "Kerim Frei",
+            "Hamit Altıntop"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Burak Yılmaz, 1985 doğumlu orta saha.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Burak_Y%C4%B1lmaz_20231008_3_%28cropped%29.jpg/960px-Burak_Y%C4%B1lmaz_20231008_3_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Beşiktaş JK / CC BY 2.0",
+          "blur": true
+        },
+        {
+          "id": "qdb1b39fa7a",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Marc Cucurella",
+          "wrong": [
+            "Nuno Mendes",
+            "Arthur Masuaku",
+            "Nélson Semedo"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1998 doğumlu; mevkisi bek.",
+            "Kariyerinde şu liglerde oynadı: La Liga, Premier League.",
+            "Uyruğu: İspanya. Forma giydiği kulüplerden biri: Real Madrid CF."
+          ]
+        },
+        {
+          "id": "qc4c0d06b91",
+          "q": "Hatayspor hangi yıl kuruldu?",
+          "answer": "1967",
+          "wrong": [
+            "1971",
+            "1973",
+            "1961"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qad10436d7b",
+          "q": "Diego Maradona aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Barcelona",
+          "wrong": [
+            "Athletic Bilbao",
+            "Real Madrid",
+            "Atlético Madrid"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Diego Maradona'nın kariyerindeki kulüplerden: Boca Juniors, Barcelona, Napoli, Sevilla."
+        },
+        {
+          "id": "q01d7df23da",
+          "q": "Avrupa Kupası'nı kazanan tek Romanya takımı hangisi?",
+          "answer": "Steaua Bükreş",
+          "wrong": [
+            "Dinamo Bükreş",
+            "Rapid Bükreş",
+            "CFR Cluj"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "1986 finalinde Barcelona'yı penaltılarla yendi."
+        },
+        {
+          "id": "qcacea3eff6",
+          "q": "2006 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "İtalya",
+          "wrong": [],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final 1-1 bitti, İtalya penaltılarla kazandı; maç Berlin şehrinde oynandı.",
+          "kind": "yaz"
+        },
+        {
+          "id": "qeceb891da6",
+          "q": "1970 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Meksiko",
+          "wrong": [
+            "Münih",
+            "São Paulo",
+            "Yokohama"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        },
+        {
+          "id": "qfff8736f5a",
+          "q": "Ankaragücü 1910 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 2,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "qe57eb80850",
+          "q": "2023-24 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Galatasaray",
+          "wrong": [
+            "Trabzonspor",
+            "Fenerbahçe",
+            "Beşiktaş"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Galatasaray'ın 24. lig şampiyonluğuydu."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "questions": [
+        {
+          "id": "q312d1b6a37",
+          "q": "Alanyaspor hangi yıl kuruldu?",
+          "answer": "1948",
+          "wrong": [
+            "1944",
+            "1946",
+            "1942"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qdf0d7ec00e",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "N'Golo Kanté",
+          "wrong": [
+            "Mario Lemina",
+            "Rachid Ghezzal",
+            "Aatif Chahechouhe"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "N'Golo Kanté, 1991 doğumlu Fransa orta saha.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/N%27Golo_Kante_France_v_Senegal_16_June_2026-397.jpg/960px-N%27Golo_Kante_France_v_Senegal_16_June_2026-397.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Bryan Berlin / CC BY-SA 4.0",
+          "blur": true
+        },
+        {
+          "id": "qc437603b66",
+          "q": "1930 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "Uruguay",
+          "wrong": [],
+          "tier": 4,
+          "topic": "mac",
+          "note": "Final Uruguay 4-2 kazandı; maç Montevideo şehrinde oynandı.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q73b459b373",
+          "q": "Sporting CP 1906 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 3,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q0238af8955",
+          "q": "Arsenal iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Emirates Stadium",
+          "wrong": [
+            "Tottenham Hotspur Stadium",
+            "Stamford Bridge",
+            "Etihad Stadium"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q4b9e85d7ed",
+          "q": "2009-10 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Bursaspor",
+          "wrong": [
+            "Beşiktaş",
+            "Fenerbahçe",
+            "Galatasaray"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Bursaspor'un 1. lig şampiyonluğuydu."
+        },
+        {
+          "id": "qab17a7bf36",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Kevin De Bruyne",
+          "wrong": [
+            "Martin Ødegaard",
+            "İrfan Can Kahveci",
+            "Burak Yılmaz"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1991 doğumlu; mevkisi orta saha.",
+            "Kariyerinde şu liglerde oynadı: Belçika Pro League, Premier League, Bundesliga.",
+            "Uyruğu: Belçika. Forma giydiği kulüplerden biri: SSC Napoli."
+          ]
+        },
+        {
+          "id": "qfd7b4e07ab",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Güven Önüt › Özer Umdu › Zafer Biryol › Mauro Icardi",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Güven Önüt 1963-64 · Özer Umdu 1978-79 · Zafer Biryol 2003-04 · Mauro Icardi 2023-24",
+          "kind": "sirala",
+          "items": [
+            "Güven Önüt",
+            "Özer Umdu",
+            "Zafer Biryol",
+            "Mauro Icardi"
+          ]
+        },
+        {
+          "id": "q4b38659f10",
+          "q": "Talisca aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Fenerbahçe",
+          "wrong": [
+            "Bursaspor",
+            "Trabzonspor",
+            "Manisaspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Talisca'nın kariyerindeki kulüplerden: Benfica, Beşiktaş, Fenerbahçe."
+        },
+        {
+          "id": "q539e93cdb1",
+          "q": "2014 Dünya Kupası finalinde Almanya hangi takımı yendi?",
+          "answer": "Arjantin",
+          "wrong": [
+            "Belçika",
+            "İngiltere",
+            "Kolombiya"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final Almanya 1-0 kazandı; maç Rio de Janeiro şehrinde oynandı."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "questions": [
+        {
+          "id": "q9c86533b86",
+          "q": "1938 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "İtalya",
+          "wrong": [],
+          "tier": 4,
+          "topic": "mac",
+          "note": "Final İtalya 4-2 kazandı; maç Colombes şehrinde oynandı.",
+          "kind": "yaz"
+        },
+        {
+          "id": "qa7afb44ebc",
+          "q": "Akhisarspor 1972 yılında kuruldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "diger",
+          "note": "Doğrusu: 1970.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q7638aafde7",
+          "q": "Çaykur Rizespor hangi yıl kuruldu?",
+          "answer": "1953",
+          "wrong": [
+            "1947",
+            "1959",
+            "1951"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q133061166c",
+          "q": "Pep Guardiola aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Roma",
+          "wrong": [
+            "Napoli",
+            "Sampdoria",
+            "Lazio"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Pep Guardiola'nın kariyerindeki kulüplerden: Barcelona, Roma."
+        },
+        {
+          "id": "qd82d10f3f5",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Aykut Yiğit › Şota Arveladze › Umut Bozok › Victor Osimhen",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Aykut Yiğit 1984-85 · Şota Arveladze 1995-96 · Umut Bozok 2021-22 · Victor Osimhen 2024-25",
+          "kind": "sirala",
+          "items": [
+            "Aykut Yiğit",
+            "Şota Arveladze",
+            "Umut Bozok",
+            "Victor Osimhen"
+          ]
+        },
+        {
+          "id": "qb08f2b533a",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Jhon Durán",
+          "wrong": [
+            "Umut Bozok",
+            "Alexander Sørloth",
+            "Hugo Ekitike"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Jhon Durán, 2003 doğumlu Kolombiya forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jhon_Dur%C3%A1n%2C_Esteghlal_FC_vs_Al-Nassr_FC_%28ACLElite%29%3B_3_Mar_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Fatemeh Amuzad/Ali Haddadi Asl / CC BY 4.0",
+          "blur": true
+        },
+        {
+          "id": "q0f807bde70",
+          "q": "2002 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Yokohama",
+          "wrong": [
+            "Solna",
+            "Meksiko",
+            "Rio de Janeiro"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "qd585f94e9e",
+          "q": "EURO 1980 şampiyonu hangi ülke oldu?",
+          "answer": "Batı Almanya",
+          "wrong": [
+            "İspanya",
+            "İngiltere",
+            "İtalya"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Batı Almanya 2-1 kazandı; maç Roma şehrinde oynandı."
+        },
+        {
+          "id": "q34463283f5",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Salih Özcan",
+          "wrong": [
+            "Deniz Türüç",
+            "Yunus Akgün",
+            "Tarık Çamdal"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1998 doğumlu; mevkisi orta saha.",
+            "Kariyerinde şu liglerde oynadı: Bundesliga, Süper Lig.",
+            "Uyruğu: Türkiye. Forma giydiği kulüplerden biri: Beşiktaş."
+          ]
+        },
+        {
+          "id": "qa85a4569f1",
+          "q": "1997-98 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Galatasaray",
+          "wrong": [
+            "Fenerbahçe",
+            "Trabzonspor",
+            "Beşiktaş"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Galatasaray'ın 12. lig şampiyonluğuydu."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "questions": [
+        {
+          "id": "qe00ef876a2",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Aatif Chahechouhe › Vágner Love › Bafétimbi Gomis › Enner Valencia",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Aatif Chahechouhe 2013-14 · Vágner Love 2016-17 · Bafétimbi Gomis 2017-18 · Enner Valencia 2022-23",
+          "kind": "sirala",
+          "items": [
+            "Aatif Chahechouhe",
+            "Vágner Love",
+            "Bafétimbi Gomis",
+            "Enner Valencia"
+          ]
+        },
+        {
+          "id": "q3fdb7f9b15",
+          "q": "EURO 1984 şampiyonu hangi ülke oldu?",
+          "answer": "Fransa",
+          "wrong": [
+            "İspanya",
+            "Batı Almanya",
+            "Portekiz"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Fransa 2-0 kazandı; maç Paris şehrinde oynandı."
+        },
+        {
+          "id": "q6a4176608b",
+          "q": "Kocaelispor iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Kocaeli Stadyumu",
+          "wrong": [
+            "Kamil Ocak Stadyumu",
+            "Alsancak Mustafa Denizli Stadyumu",
+            "Kâzım Karabekir Stadyumu"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q2fe1a50b0d",
+          "q": "Fatih Karagümrük 1926 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 2,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q372328e6a6",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Jhon Durán",
+          "wrong": [
+            "Eldor Shomurodov",
+            "Diogo Jota",
+            "Kylian Mbappé"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "2003 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Kolombiya Ligi, MLS, Premier League.",
+            "Uyruğu: Kolombiya. Forma giydiği kulüplerden biri: SL Benfica."
+          ]
+        },
+        {
+          "id": "q04d9537aa7",
+          "q": "EURO 2020 finalinde İtalya'nın golünü kim attı?",
+          "answer": "Leonardo Bonucci",
+          "wrong": [
+            "Alessio Romagnoli",
+            "Leonardo Pavoletti",
+            "Alberto Aquilani"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Leonardo Bonucci golü 67. dakikada attı."
+        },
+        {
+          "id": "qa39b93af97",
+          "q": "Ronaldo Nazário aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "AC Milan",
+          "wrong": [
+            "Napoli",
+            "Juventus",
+            "Atalanta"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Ronaldo Nazário'nun kariyerindeki kulüplerden: Barcelona, Inter, Real Madrid, AC Milan."
+        },
+        {
+          "id": "q82fde6b955",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Volkan Babacan",
+          "wrong": [
+            "Mert Günok",
+            "Tolga Zengin",
+            "Erce Kardeşler"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Volkan Babacan, 1988 doğumlu Türkiye kaleci.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/AUT_vs._TUR_2016-03-29_%28200%29.jpg/960px-AUT_vs._TUR_2016-03-29_%28200%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Steindy / CC BY-SA 3.0"
+        },
+        {
+          "id": "q4c4989ff23",
+          "q": "EURO 2016 finali hangi şehirde oynandı?",
+          "answer": "Saint-Denis",
+          "wrong": [
+            "Londra",
+            "Viyana",
+            "Münih"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q8dc0a2b64d",
+          "q": "2019-20 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Alexander Sørloth",
+          "wrong": [],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Alexander Sørloth o sezon Trabzonspor formasıyla 24 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Sørloth"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "questions": [
+        {
+          "id": "qecd8808d96",
+          "q": "Zinedine Zidane aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Real Madrid",
+          "wrong": [
+            "Athletic Bilbao",
+            "Barcelona",
+            "Atlético Madrid"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Zinedine Zidane'nin kariyerindeki kulüplerden: Juventus, Real Madrid."
+        },
+        {
+          "id": "q0752baa78a",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Fikri Elma › Fevzi Zemzem › Tarik Hodžić › Aaron Boupendza",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Fikri Elma 1961-62 · Fevzi Zemzem 1967-68 · Tarik Hodžić 1983-84 · Aaron Boupendza 2020-21",
+          "kind": "sirala",
+          "items": [
+            "Fikri Elma",
+            "Fevzi Zemzem",
+            "Tarik Hodžić",
+            "Aaron Boupendza"
+          ]
+        },
+        {
+          "id": "qe2cb1f574b",
+          "q": "1960-61 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Fenerbahçe",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Fenerbahçe'nin 2. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q24b8307dbb",
+          "q": "2006 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "İtalya",
+          "wrong": [
+            "Fransa",
+            "Hırvatistan",
+            "Portekiz"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final 1-1 bitti, İtalya penaltılarla kazandı; maç Berlin şehrinde oynandı."
+        },
+        {
+          "id": "q0766a7b0c0",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Emre Can",
+          "wrong": [
+            "Dorukhan Toköz",
+            "Gökhan Sazdağı",
+            "Yunus Akgün"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1994 doğumlu; mevkisi orta saha.",
+            "Kariyerinde şu liglerde oynadı: Bundesliga, Premier League, Serie A.",
+            "Uyruğu: Almanya. Forma giydiği kulüplerden biri: Borussia Dortmund."
+          ]
+        },
+        {
+          "id": "qaa940f91e7",
+          "q": "Galatasaray hangi yıl kuruldu?",
+          "answer": "1905",
+          "wrong": [
+            "1899",
+            "1907",
+            "1903"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q1f548c5d94",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Arda Turan",
+          "wrong": [
+            "Yekta Kurtuluş",
+            "Taylan Antalyalı",
+            "Mustafa Sarp"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Arda Turan, 1987 doğumlu orta saha.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%90%D1%80%D0%B4%D0%B0_%D0%A2%D1%83%D1%80%D0%B0%D0%BD_%28cropped%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: ФК \"Карпати\" Львів / CC BY 4.0",
+          "blur": true
+        },
+        {
+          "id": "qcb692f9db6",
+          "q": "EURO 2016 finalinde Portekiz hangi takımı yendi?",
+          "answer": "Fransa",
+          "wrong": [
+            "Almanya",
+            "Belçika",
+            "Galler"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final Portekiz 1-0 kazandı; maç Saint-Denis şehrinde oynandı."
+        },
+        {
+          "id": "q14a0617b6c",
+          "q": "Everton 1868 yılında kuruldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 3,
+          "topic": "diger",
+          "note": "Doğrusu: 1878.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q956a70d884",
+          "q": "Kayserispor iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Kayseri Kadir Has Şehir Stadyumu",
+          "wrong": [
+            "Denizli Atatürk Stadyumu",
+            "19 Eylül Stadyumu",
+            "Papara Park"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "questions": [
+        {
+          "id": "qc690bff9fa",
+          "q": "EURO 1992 finalinde Danimarka hangi takımı yendi?",
+          "answer": "Almanya",
+          "wrong": [
+            "Fransa",
+            "İngiltere",
+            "Hollanda"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Danimarka 2-0 kazandı; maç Göteborg şehrinde oynandı."
+        },
+        {
+          "id": "qa6e8696b41",
+          "q": "Antalyaspor 1966 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 2,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "qfeaa31969d",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Feyyaz Uçar › Fatih Tekke › Milan Baroš › Mario Gómez",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Feyyaz Uçar 1989-90 · Fatih Tekke 2004-05 · Milan Baroš 2008-09 · Mario Gómez 2015-16",
+          "kind": "sirala",
+          "items": [
+            "Feyyaz Uçar",
+            "Fatih Tekke",
+            "Milan Baroš",
+            "Mario Gómez"
+          ]
+        },
+        {
+          "id": "q2e6f5de021",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Antoine Griezmann",
+          "wrong": [
+            "Bafétimbi Gomis",
+            "Olivier Giroud",
+            "Randal Kolo Muani"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1991 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: La Liga, MLS.",
+            "Uyruğu: Fransa. Forma giydiği kulüplerden biri: FC Barcelona."
+          ]
+        },
+        {
+          "id": "qa3fad60aa8",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Edin Džeko",
+          "wrong": [
+            "Edinson Cavani",
+            "Okan Yılmaz",
+            "Mateja Kežman"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "Edin Džeko, 1986 doğumlu Bosna-Hersek forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/20150331_2026_AUT_BIH_2177_Edin_D%C5%BEeko_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Ailura / CC BY-SA 3.0 at"
+        },
+        {
+          "id": "q2b0732e2ea",
+          "q": "Galatasaray UEFA Kupası'nı hangi yıl kazandı?",
+          "answer": "2000",
+          "wrong": [
+            "1999",
+            "2001",
+            "2002"
+          ],
+          "tier": 1,
+          "topic": "mac",
+          "note": "Türk futbolunun ilk Avrupa kupası."
+        },
+        {
+          "id": "q05b4cc4421",
+          "q": "'La Albiceleste' hangi milli takımın lakabıdır?",
+          "answer": "Arjantin",
+          "wrong": [
+            "Uruguay",
+            "İspanya",
+            "Şili"
+          ],
+          "tier": 3,
+          "topic": "diger",
+          "note": "Açık mavi ve beyaz."
+        },
+        {
+          "id": "q8bf9ba07cc",
+          "q": "Eyüpspor hangi yıl kuruldu?",
+          "answer": "1919",
+          "wrong": [
+            "1917",
+            "1929",
+            "1909"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q36a5dab2ba",
+          "q": "Nuri Şahin aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Werder Bremen",
+          "wrong": [
+            "Schalke 04",
+            "Bayern Münih",
+            "Hamburg"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Nuri Şahin'in kariyerindeki kulüplerden: Borussia Dortmund, Real Madrid, Liverpool, Werder Bremen."
+        },
+        {
+          "id": "qe2f290fcf4",
+          "q": "1990-91 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Beşiktaş",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Beşiktaş'ın 7. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "questions": [
+        {
+          "id": "q67fb34dc45",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Ousmane Dembélé",
+          "wrong": [
+            "Cédric Bakambu",
+            "Hugo Ekitike",
+            "Bradley Barcola"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1997 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Ligue 1, Bundesliga, La Liga.",
+            "Uyruğu: Fransa. Forma giydiği kulüplerden biri: FC Barcelona."
+          ]
+        },
+        {
+          "id": "q071c468cc0",
+          "q": "Bayern Münih hangi yıl kuruldu?",
+          "answer": "1900",
+          "wrong": [
+            "1902",
+            "1896",
+            "1910"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qaf2a49cb71",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Marco Asensio",
+          "wrong": [
+            "James Rodríguez",
+            "Diego Costa",
+            "Ferran Torres"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Marco Asensio, 1996 doğumlu İspanya forvet.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Marco_Asensio_10_Fenerbah%C3%A7e_20260805_%284%29_%28cropped%29.JPG/960px-Marco_Asensio_10_Fenerbah%C3%A7e_20260805_%284%29_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Zafer / CC BY-SA 4.0",
+          "blur": true
+        },
+        {
+          "id": "qf8ae50eb1d",
+          "q": "Kasımpaşa iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Recep Tayyip Erdoğan Stadyumu",
+          "wrong": [
+            "19 Eylül Stadyumu",
+            "Konya Büyükşehir Belediye Stadyumu",
+            "Kamil Ocak Stadyumu"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q7f62b82b81",
+          "q": "1954 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "Batı Almanya",
+          "wrong": [],
+          "tier": 4,
+          "topic": "mac",
+          "note": "Final Batı Almanya 3-2 kazandı; maç Bern şehrinde oynandı.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q7eb1953c14",
+          "q": "Bu Süper Lig gol krallarını, krallık sezonlarına göre eskiden yeniye sırala.",
+          "answer": "Osman Arpacıoğlu › Necmi Perekli › Bora Öztürk › Semih Şentürk",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Osman Arpacıoğlu 1972-73 · Necmi Perekli 1976-77 · Bora Öztürk 1980-81 · Semih Şentürk 2007-08",
+          "kind": "sirala",
+          "items": [
+            "Osman Arpacıoğlu",
+            "Necmi Perekli",
+            "Bora Öztürk",
+            "Semih Şentürk"
+          ]
+        },
+        {
+          "id": "qe0eb667354",
+          "q": "EURO 2004 şampiyonu hangi ülke oldu?",
+          "answer": "Yunanistan",
+          "wrong": [
+            "Çekya",
+            "İspanya",
+            "İtalya"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final Yunanistan 1-0 kazandı; maç Lizbon şehrinde oynandı."
+        },
+        {
+          "id": "q01069d569e",
+          "q": "Lazio 1900 yılında kuruldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 3,
+          "topic": "diger",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q6a81b9e504",
+          "q": "2025-26 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Galatasaray",
+          "wrong": [
+            "Beşiktaş",
+            "Trabzonspor",
+            "Fenerbahçe"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Galatasaray'ın 26. lig şampiyonluğuydu."
+        },
+        {
+          "id": "qb4f0ebb018",
+          "q": "Tanju Çolak aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Fenerbahçe",
+          "wrong": [
+            "Adana Demirspor",
+            "Yeni Malatyaspor",
+            "Denizlispor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Tanju Çolak'ın kariyerindeki kulüplerden: Galatasaray, Fenerbahçe."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "questions": [
+        {
+          "id": "q984438f0ec",
+          "q": "1975-76 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Trabzonspor",
+          "wrong": [
+            "Fenerbahçe",
+            "Galatasaray",
+            "Beşiktaş"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Trabzonspor'un 1. lig şampiyonluğuydu."
+        },
+        {
+          "id": "qdc0383e7cb",
+          "q": "Manchester City iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Etihad Stadium",
+          "wrong": [
+            "Anfield",
+            "Old Trafford",
+            "Stamford Bridge"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q51fce13930",
+          "q": "Kasımpaşa hangi yıl kuruldu?",
+          "answer": "1921",
+          "wrong": [
+            "1911",
+            "1927",
+            "1917"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q24a244d04c",
+          "q": "İlhan Mansız aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Gençlerbirliği",
+          "wrong": [
+            "Altay",
+            "Eskişehirspor",
+            "Konyaspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "İlhan Mansız'ın kariyerindeki kulüplerden: Gençlerbirliği, Beşiktaş."
+        },
+        {
+          "id": "qc36bdedeab",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Mauro Icardi",
+          "wrong": [
+            "Ciro Immobile",
+            "Mario Balotelli",
+            "Julián Alvarez"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Mauro Icardi, 1993 doğumlu forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mauro_Icardi_en_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Telefe / CC BY 3.0",
+          "blur": true
+        },
+        {
+          "id": "qf625503868",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Mert Günok",
+          "wrong": [
+            "Tarık Çetin",
+            "Ertuğrul Taşkıran",
+            "Erce Kardeşler"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1989 doğumlu; mevkisi kaleci.",
+            "Sırtındaki numara: 34.",
+            "Uyruğu: Türkiye. Forma giydiği kulüplerden biri: Beşiktaş."
+          ]
+        },
+        {
+          "id": "q02767e5d79",
+          "q": "Bir takımın sahada en az kaç oyuncusu kalmazsa maç başlamaz ya da devam etmez?",
+          "answer": "7",
+          "wrong": [
+            "6",
+            "8",
+            "9"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qf745666c78",
+          "q": "2014-15 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Galatasaray",
+          "wrong": [],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Galatasaray'ın 20. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q55da10fce8",
+          "q": "EURO 2016 şampiyonu Almanya oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: Portekiz. Final Portekiz 1-0 kazandı; maç Saint-Denis şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q6fcb4634a9",
+          "q": "1934 Dünya Kupası finalinde İtalya'nın ilk golünü kim attı?",
+          "answer": "Raimundo Orsi",
+          "wrong": [
+            "Angelo Schiavio",
+            "Enrique Guaita",
+            "Gino Colaussi"
+          ],
+          "tier": 4,
+          "topic": "mac",
+          "note": "Raimundo Orsi golü 81. dakikada attı."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "questions": [
+        {
+          "id": "q68a46241d3",
+          "q": "EURO 2000 finali hangi şehirde oynandı?",
+          "answer": "Rotterdam",
+          "wrong": [
+            "Viyana",
+            "Saint-Denis",
+            "Belgrad"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qd4057219bd",
+          "q": "1961-62 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Fikri Elma",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Fikri Elma o sezon Ankara Demirspor formasıyla 21 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Elma"
+          ]
+        },
+        {
+          "id": "q7358b29c6c",
+          "q": "Fenerbahçe iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Şükrü Saracoğlu Stadyumu",
+          "wrong": [
+            "Beşiktaş Stadyumu",
+            "Kâzım Karabekir Stadyumu",
+            "5 Ocak Stadyumu"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q48aa9b108e",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Fatih Tekke",
+          "wrong": [
+            "İlhan Mansız",
+            "Zafer Biryol",
+            "Mustafa Kocabey"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Fatih Tekke, 1977 doğumlu forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fatihtekke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: onur türk / CC BY 2.0",
+          "blur": true
+        },
+        {
+          "id": "q77b57e0039",
+          "q": "1988-89 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Aykut Kocaman",
+          "wrong": [
+            "Şota Arveladze",
+            "Selçuk Yula",
+            "Hakan Şükür"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Aykut Kocaman o sezon Fenerbahçe formasıyla 29 gol attı."
+        },
+        {
+          "id": "q314b4c0dfc",
+          "q": "Lefter Küçükandonyadis aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Fiorentina",
+          "wrong": [
+            "Napoli",
+            "Sampdoria",
+            "Juventus"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Lefter Küçükandonyadis'in kariyerindeki kulüplerden: Fenerbahçe, Fiorentina."
+        },
+        {
+          "id": "q6baf6dc1b2",
+          "q": "1978 Dünya Kupası finalinde Arjantin hangi takımı yendi?",
+          "answer": "Hollanda",
+          "wrong": [
+            "Avusturya",
+            "İspanya",
+            "Peru"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Arjantin 3-1 kazandı; maç Buenos Aires şehrinde oynandı."
+        },
+        {
+          "id": "qb2d5237bbc",
+          "q": "1982 Dünya Kupası şampiyonu Brezilya oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: İtalya. Final İtalya 3-1 kazandı; maç Madrid şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q07404a3ddb",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Zeki Çelik",
+          "wrong": [
+            "İsmail Köybaşı",
+            "Hasan Ali Kaldırım",
+            "Eren Elmalı"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1997 doğumlu; mevkisi bek.",
+            "Kariyerinde şu liglerde oynadı: Ligue 1, Serie A.",
+            "Uyruğu: Türkiye. Forma giydiği kulüplerden biri: Juventus FC."
+          ]
+        },
+        {
+          "id": "q35832d3b0f",
+          "q": "Mallorca hangi yıl kuruldu?",
+          "answer": "1916",
+          "wrong": [
+            "1906",
+            "1926",
+            "1918"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "questions": [
+        {
+          "id": "qe1cdea34e8",
+          "q": "Türkiye EURO 2020 turnuvasında son maçını hangi takıma karşı oynadı?",
+          "answer": "İsviçre",
+          "wrong": [
+            "Hırvatistan",
+            "Fransa",
+            "Almanya"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Maç İsviçre 3-1 Türkiye bitti."
+        },
+        {
+          "id": "q59758406c8",
+          "q": "Selçuk İnan aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Trabzonspor",
+          "wrong": [
+            "Denizlispor",
+            "Göztepe",
+            "Sakaryaspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Selçuk İnan'ın kariyerindeki kulüplerden: Trabzonspor, Galatasaray."
+        },
+        {
+          "id": "qf735dd448b",
+          "q": "1998 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Saint-Denis",
+          "wrong": [
+            "Yokohama",
+            "Moskova",
+            "Madrid"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "qe85b28e45b",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Ferran Torres",
+          "wrong": [
+            "Ansu Fati",
+            "Álvaro Morata",
+            "Marco Asensio"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Ferran Torres, 2000 doğumlu İspanya forvet.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ferran_Torres_France_v_Spain_7.24.26-237_%28cropped%29.jpg/960px-Ferran_Torres_France_v_Spain_7.24.26-237_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Bryan Berlin / CC BY-SA 4.0"
+        },
+        {
+          "id": "qcdd1704c1c",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Thibaut Courtois",
+          "wrong": [
+            "Alisson Becker",
+            "İrfan Can Eğribayat",
+            "Günay Güvenç"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1992 doğumlu; mevkisi kaleci.",
+            "Kariyerinde şu liglerde oynadı: Belçika Pro League, La Liga, Premier League.",
+            "Uyruğu: Belçika. Forma giydiği kulüplerden biri: Real Madrid CF."
+          ]
+        },
+        {
+          "id": "q638315d5d2",
+          "q": "1974 Dünya Kupası şampiyonu İsveç oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: Batı Almanya. Final Batı Almanya 2-1 kazandı; maç Münih şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q579b06748b",
+          "q": "Sinan Engin aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Beşiktaş",
+          "wrong": [
+            "Kocaelispor",
+            "Fatih Karagümrük",
+            "Galatasaray"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Sinan Engin'in kariyerindeki kulüplerden: Beşiktaş."
+        },
+        {
+          "id": "qd4fd57808c",
+          "q": "Göztepe hangi yıl kuruldu?",
+          "answer": "1925",
+          "wrong": [
+            "1927",
+            "1923",
+            "1919"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q518e121805",
+          "q": "Çaykur Rizespor iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Yeni Rize Şehir Stadyumu",
+          "wrong": [
+            "Rams Park",
+            "Papara Park",
+            "Akdeniz Üniversitesi Stadyumu"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q229f93030c",
+          "q": "1994-95 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Aykut Kocaman",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Aykut Kocaman o sezon Fenerbahçe formasıyla 27 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Kocaman"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "questions": [
+        {
+          "id": "q960a03a3c7",
+          "q": "2013-14 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Aatif Chahechouhe",
+          "wrong": [
+            "Mario Gómez",
+            "Umut Bozok",
+            "Gökhan Ünal"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Aatif Chahechouhe o sezon Sivasspor formasıyla 17 gol attı."
+        },
+        {
+          "id": "qdd8fff2a62",
+          "q": "Milan Škriniar aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Fenerbahçe",
+          "wrong": [
+            "Beşiktaş",
+            "Ankaragücü",
+            "Eyüpspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Milan Škriniar'ın kariyerindeki kulüplerden: Inter, Paris Saint-Germain, Fenerbahçe."
+        },
+        {
+          "id": "qd43a0bc574",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Neymar",
+          "wrong": [
+            "Josef de Souza",
+            "Robinho",
+            "Fred"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Neymar, 1992 doğumlu Brezilya orta saha.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/960px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Bryan Berlin / CC BY-SA 4.0",
+          "blur": true
+        },
+        {
+          "id": "q37f2b23a9b",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Raphinha",
+          "wrong": [
+            "Talisca",
+            "Alexandre Pato",
+            "Gabriel Jesus"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1996 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Liga Portugal, Ligue 1, Premier League.",
+            "Uyruğu: Brezilya. Forma giydiği kulüplerden biri: FC Barcelona."
+          ]
+        },
+        {
+          "id": "q023e3ac36b",
+          "q": "Arsenal hangi yıl kuruldu?",
+          "answer": "1886",
+          "wrong": [
+            "1892",
+            "1884",
+            "1882"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q4c3a6a418a",
+          "q": "EURO 2000 turnuvasında Türkiye–Belçika maçında Türkiye'nin ilk golünü kim attı?",
+          "answer": "Hakan Şükür",
+          "wrong": [
+            "Halil Altıntop",
+            "İlhan Mansız",
+            "İbrahim Toraman"
+          ],
+          "tier": 4,
+          "topic": "mac",
+          "note": "Gol 45+2. dakikada geldi; maç 2-0 Türkiye lehine bitti."
+        },
+        {
+          "id": "qe79a030202",
+          "q": "2006-07 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Fenerbahçe",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Fenerbahçe'nin 17. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q83ad4d5051",
+          "q": "2006 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Berlin",
+          "wrong": [
+            "Roma",
+            "Meksiko",
+            "Rio de Janeiro"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "qb15e73b9d4",
+          "q": "EURO 1988 şampiyonu İtalya oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: Hollanda. Final Hollanda 2-0 kazandı; maç Münih şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q1777c095e9",
+          "q": "Trabzonspor iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Papara Park",
+          "wrong": [
+            "Çorum Şehir Stadyumu",
+            "Kâzım Karabekir Stadyumu",
+            "Alanya Oba Stadyumu"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "questions": [
+        {
+          "id": "qc48bc5e180",
+          "q": "Manchester United hangi yıl kuruldu?",
+          "answer": "1878",
+          "wrong": [
+            "1880",
+            "1884",
+            "1882"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q93fec5edcb",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "İlkay Gündoğan",
+          "wrong": [
+            "Marco Reus",
+            "Toni Kroos",
+            "Mario Götze"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1990 doğumlu; mevkisi orta saha.",
+            "Kariyerinde şu liglerde oynadı: Bundesliga, Premier League, La Liga.",
+            "Uyruğu: Almanya. Forma giydiği kulüplerden biri: Galatasaray."
+          ]
+        },
+        {
+          "id": "q40822bb4a6",
+          "q": "İsmail Kartal aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Gaziantepspor",
+          "wrong": [
+            "Yeni Malatyaspor",
+            "Gençlerbirliği",
+            "Sivasspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "İsmail Kartal'ın kariyerindeki kulüplerden: Gaziantepspor, Fenerbahçe."
+        },
+        {
+          "id": "qaf545d6277",
+          "q": "2002 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "Brezilya",
+          "wrong": [
+            "Senegal",
+            "İspanya",
+            "ABD"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final Brezilya 2-0 kazandı; maç Yokohama şehrinde oynandı."
+        },
+        {
+          "id": "q0300753734",
+          "q": "Süper Lig'de en çok gol kralı olan futbolcu kimdir?",
+          "answer": "Metin Oktay",
+          "wrong": [
+            "Tanju Çolak",
+            "Hakan Şükür",
+            "Aykut Kocaman"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Altı kez; hepsi Galatasaray formasıyla."
+        },
+        {
+          "id": "q6fca26e2a4",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Emre Belözoğlu",
+          "wrong": [
+            "Tümer Metin",
+            "Selçuk İnan",
+            "Selçuk Şahin"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Emre Belözoğlu, 1980 doğumlu orta saha.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg/960px-Emre_Bel%C3%B6zo%C4%9Flu_Kas%C4%B1mpa%C5%9Fa_SK_20260130_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Zafer / CC BY 4.0",
+          "blur": true
+        },
+        {
+          "id": "qa5b9fe012f",
+          "q": "2006-07 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Alex de Souza",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Alex de Souza o sezon Fenerbahçe formasıyla 19 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Souza"
+          ]
+        },
+        {
+          "id": "qac70cdc95a",
+          "q": "1962 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Santiago",
+          "wrong": [
+            "Solna",
+            "Saint-Denis",
+            "Lusail"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        },
+        {
+          "id": "qdcd7d1e03a",
+          "q": "Samsunspor iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Samsun 19 Mayıs Stadyumu",
+          "wrong": [
+            "Alsancak Mustafa Denizli Stadyumu",
+            "Çorum Şehir Stadyumu",
+            "Spor Toto Akhisar Stadyumu"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qae2b22864f",
+          "q": "EURO 1992 şampiyonu Almanya oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: Danimarka. Final Danimarka 2-0 kazandı; maç Göteborg şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "questions": [
+        {
+          "id": "q8d9bca3cce",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Victor Osimhen",
+          "wrong": [
+            "Batuhan Karadeniz",
+            "Ousmane Dembélé",
+            "Omar Marmoush"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Victor Osimhen, 1998 doğumlu Nijerya forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Victor-osimhen-nigeria-2024-3-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Fédération Guinéenne Football / Public domain",
+          "blur": true
+        },
+        {
+          "id": "qf318d9548f",
+          "q": "2010 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Johannesburg",
+          "wrong": [
+            "Berlin",
+            "Montevideo",
+            "Münih"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q4400a5ee97",
+          "q": "Gençlerbirliği iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Eryaman Stadyumu",
+          "wrong": [
+            "Samsun 19 Mayıs Stadyumu",
+            "Recep Tayyip Erdoğan Stadyumu",
+            "19 Eylül Stadyumu"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q49b0f3b502",
+          "q": "EURO 1972 şampiyonu hangi ülke oldu?",
+          "answer": "Batı Almanya",
+          "wrong": [
+            "Belçika",
+            "Macaristan",
+            "Sovyetler Birliği"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Batı Almanya 3-0 kazandı; maç Brüksel şehrinde oynandı."
+        },
+        {
+          "id": "q51263a5a3d",
+          "q": "EURO 1980 şampiyonu İngiltere oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: Batı Almanya. Final Batı Almanya 2-1 kazandı; maç Roma şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "qd29ee41484",
+          "q": "Beşiktaş hangi yıl kuruldu?",
+          "answer": "1903",
+          "wrong": [
+            "1901",
+            "1897",
+            "1905"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q7e7a835252",
+          "q": "1964-65 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Fenerbahçe",
+          "wrong": [
+            "Trabzonspor",
+            "Beşiktaş",
+            "Galatasaray"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Fenerbahçe'nin 4. lig şampiyonluğuydu."
+        },
+        {
+          "id": "q53bc9bdcda",
+          "q": "Erling Haaland aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Borussia Dortmund",
+          "wrong": [
+            "Bayern Münih",
+            "Schalke 04",
+            "Hamburg"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Erling Haaland'ın kariyerindeki kulüplerden: Borussia Dortmund, Manchester City."
+        },
+        {
+          "id": "q227939cdb0",
+          "q": "1972-73 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Galatasaray",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Galatasaray'ın 6. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        },
+        {
+          "id": "qd360784004",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Edson Álvarez",
+          "wrong": [
+            "Ozan Kabak",
+            "Ibrahima Konaté",
+            "Semih Kaya"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1997 doğumlu; mevkisi stoper.",
+            "Kariyerinde şu liglerde oynadı: Liga MX, Eredivisie, Süper Lig.",
+            "Uyruğu: Meksika. Forma giydiği kulüplerden biri: Fenerbahçe."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "questions": [
+        {
+          "id": "qcc839527df",
+          "q": "EURO 2024 şampiyonu Belçika oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: İspanya. Final İspanya 2-1 kazandı; maç Berlin şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q1695314505",
+          "q": "Elazığspor hangi yıl kuruldu?",
+          "answer": "1967",
+          "wrong": [
+            "1971",
+            "1969",
+            "1961"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qb95b30c12b",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Gerard Piqué",
+          "wrong": [
+            "Ediz Bahtiyaroğlu",
+            "Gökçek Vederson",
+            "Alpaslan Öztürk"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Gerard Piqué, 1987 doğumlu savunma.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Дмитрий Неймырок / CC BY-SA 3.0"
+        },
+        {
+          "id": "q016c7b53d5",
+          "q": "Dušan Vlahović hangi ülkenin futbolcusu?",
+          "answer": "Sırbistan",
+          "wrong": [
+            "İngiltere",
+            "Danimarka",
+            "Macaristan"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu"
+        },
+        {
+          "id": "q3f19944bb1",
+          "q": "Hakan Şükür aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Bursaspor",
+          "wrong": [
+            "Çaykur Rizespor",
+            "Yeni Malatyaspor",
+            "Manisaspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Hakan Şükür'ün kariyerindeki kulüplerden: Bursaspor, Galatasaray, Inter."
+        },
+        {
+          "id": "qead29344d0",
+          "q": "2018 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Moskova",
+          "wrong": [
+            "Meksiko",
+            "Yokohama",
+            "Madrid"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q159a8f00ee",
+          "q": "Ben kimim? İpuçlarından futbolcuyu bul.",
+          "answer": "Cristiano Ronaldo",
+          "wrong": [
+            "Luís Figo",
+            "Nani",
+            "Ricardo Quaresma"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "İngiltere, İspanya, İtalya, Portekiz ve Suudi Arabistan'da oynadım.",
+            "Kariyerim boyunca 28, 9, 17 ve 7 numaralı formaları giydim.",
+            "Beş Ballon d'Or'um var."
+          ]
+        },
+        {
+          "id": "qd9db26c6b3",
+          "q": "Türkiye EURO 2008 turnuvasında hangi takımı penaltılarla eledi?",
+          "answer": "Hırvatistan",
+          "wrong": [
+            "Portekiz",
+            "İtalya",
+            "Fransa"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Maç 1-1 bitti, Türkiye penaltılarda kazandı."
+        },
+        {
+          "id": "q291757581b",
+          "q": "1959 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Metin Oktay",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Metin Oktay o sezon Galatasaray formasıyla 11 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Oktay"
+          ]
+        },
+        {
+          "id": "q751082d376",
+          "q": "Sampdoria iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Stadio Comunale Luigi Ferraris",
+          "wrong": [
+            "Stadio Diego Armando Maradona",
+            "San Siro",
+            "Stadio Artemio Franchi"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "questions": [
+        {
+          "id": "q847f08c3a6",
+          "q": "1988-89 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Aykut Kocaman",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Aykut Kocaman o sezon Fenerbahçe formasıyla 29 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Kocaman"
+          ]
+        },
+        {
+          "id": "q2acd881c23",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Lucas Torreira",
+          "wrong": [
+            "Alper Potuk",
+            "Christian Atsu",
+            "Alexis Mac Allister"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1996 doğumlu; mevkisi orta saha.",
+            "Kariyerinde şu liglerde oynadı: Premier League, La Liga, Serie A.",
+            "Uyruğu: Uruguay. Forma giydiği kulüplerden biri: Galatasaray."
+          ]
+        },
+        {
+          "id": "qb151237468",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Edinson Cavani",
+          "wrong": [
+            "Dimitar Berbatov",
+            "Alexandre Pato",
+            "Wayne Rooney"
+          ],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Edinson Cavani, 1987 doğumlu forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/PALMEIRAS_X_BOCA_JUNIORS_-_COPA_LIBERTADORES_2023_-_53286889335_%28cropped_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: soccerdigital / Public domain"
+        },
+        {
+          "id": "qfd98143f82",
+          "q": "Çorum FK iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Çorum Şehir Stadyumu",
+          "wrong": [
+            "Elazığ Atatürk Stadyumu",
+            "Yeni Eskişehir Stadyumu",
+            "Eryaman Stadyumu"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q578d332bc2",
+          "q": "Kerem Aktürkoğlu aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Galatasaray",
+          "wrong": [
+            "Orduspor",
+            "Fatih Karagümrük",
+            "Beşiktaş"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Kerem Aktürkoğlu'nun kariyerindeki kulüplerden: Başakşehir, Galatasaray, Benfica, Fenerbahçe."
+        },
+        {
+          "id": "qa19edbfab5",
+          "q": "2006 Dünya Kupası finalinde İtalya'nın golünü kim attı?",
+          "answer": "Marco Materazzi",
+          "wrong": [
+            "Federico Peluso",
+            "Marco Delvecchio",
+            "Diego Fuser"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Marco Materazzi golü 19. dakikada attı."
+        },
+        {
+          "id": "q770888f7ee",
+          "q": "Trabzonspor hangi yıl kuruldu?",
+          "answer": "1967",
+          "wrong": [
+            "1977",
+            "1969",
+            "1965"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "qbe7303785e",
+          "q": "Ronaldinho aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Barcelona",
+          "wrong": [
+            "Real Madrid",
+            "Sevilla",
+            "Atlético Madrid"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Ronaldinho'nun kariyerindeki kulüplerden: Paris Saint-Germain, Barcelona, AC Milan."
+        },
+        {
+          "id": "q06183d42bc",
+          "q": "1978 Dünya Kupası finali hangi şehirde oynandı?",
+          "answer": "Buenos Aires",
+          "wrong": [
+            "Lusail",
+            "Meksiko",
+            "Berlin"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "q85036ee211",
+          "q": "EURO 1988 finalinde Hollanda hangi takımı yendi?",
+          "answer": "Sovyetler Birliği",
+          "wrong": [
+            "İngiltere",
+            "Batı Almanya",
+            "İtalya"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Hollanda 2-0 kazandı; maç Münih şehrinde oynandı."
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "questions": [
+        {
+          "id": "qb531ca072a",
+          "q": "Mallorca iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Estadi Mallorca Son Moix",
+          "wrong": [
+            "Camp Nou",
+            "Estadio San Mamés",
+            "Bernabéu"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        },
+        {
+          "id": "q3ac092d5f6",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Yusuf Yazıcı",
+          "wrong": [
+            "İsmail Yüksek",
+            "Ömer Bayram",
+            "Emre Mor"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Yusuf Yazıcı, 1997 doğumlu Türkiye orta saha.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rus-Turkey_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Антон Зайцев / CC BY-SA 3.0"
+        },
+        {
+          "id": "qa787823ca6",
+          "q": "EURO 1984 finali hangi şehirde oynandı?",
+          "answer": "Paris",
+          "wrong": [
+            "Lizbon",
+            "Belgrad",
+            "Londra"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        },
+        {
+          "id": "q3a3811d891",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Victor Osimhen",
+          "wrong": [
+            "Mauro Icardi",
+            "Randal Kolo Muani",
+            "Halil Dervişoğlu"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1998 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Belçika Pro League, Ligue 1, Serie A.",
+            "Uyruğu: Nijerya. Forma giydiği kulüplerden biri: Galatasaray."
+          ]
+        },
+        {
+          "id": "qb69e8aecbe",
+          "q": "EURO 2012 şampiyonu İspanya oldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final İspanya 4-0 kazandı; maç Kiev şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q822e7f0ada",
+          "q": "2018-19 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Galatasaray",
+          "wrong": [],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Galatasaray'ın 22. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q5efd2b1648",
+          "q": "Gheorghe Hagi aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Galatasaray",
+          "wrong": [
+            "Kocaelispor",
+            "Manisaspor",
+            "Trabzonspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Gheorghe Hagi'nin kariyerindeki kulüplerden: Real Madrid, Barcelona, Galatasaray."
+        },
+        {
+          "id": "q4fdde99dcd",
+          "q": "Akhisarspor hangi yıl kuruldu?",
+          "answer": "1970",
+          "wrong": [
+            "1976",
+            "1966",
+            "1972"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qce594a9633",
+          "q": "2010 Dünya Kupası şampiyonu hangi ülke oldu?",
+          "answer": "İspanya",
+          "wrong": [
+            "Portekiz",
+            "Hollanda",
+            "Almanya"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Final İspanya 1-0 kazandı; maç Johannesburg şehrinde oynandı."
+        },
+        {
+          "id": "q3506a77174",
+          "q": "2019-20 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Başakşehir",
+          "wrong": [
+            "Galatasaray",
+            "Trabzonspor",
+            "Fenerbahçe"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Başakşehir'in 1. lig şampiyonluğuydu."
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "questions": [
+        {
+          "id": "qf10f08d568",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Fred",
+          "wrong": [
+            "Neymar",
+            "Lincoln",
+            "Josef de Souza"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1993 doğumlu; mevkisi orta saha.",
+            "Kariyerinde şu liglerde oynadı: Brezilya Série A, Premier League, Süper Lig.",
+            "Uyruğu: Brezilya. Forma giydiği kulüplerden biri: Fenerbahçe."
+          ]
+        },
+        {
+          "id": "qd992170de3",
+          "q": "David Beckham aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Manchester United",
+          "wrong": [
+            "Aston Villa",
+            "Rangers",
+            "Liverpool"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "David Beckham'ın kariyerindeki kulüplerden: Manchester United, Real Madrid, LA Galaxy."
+        },
+        {
+          "id": "q23e7dcdcd8",
+          "q": "Barcelona iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Camp Nou",
+          "wrong": [
+            "Estadio San Mamés",
+            "Estadi Mallorca Son Moix",
+            "Bernabéu"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q3d05597f9c",
+          "q": "Monaco hangi yıl kuruldu?",
+          "answer": "1924",
+          "wrong": [
+            "1928",
+            "1914",
+            "1930"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        },
+        {
+          "id": "qddb9399f0e",
+          "q": "2002 Dünya Kupası'nda Türkiye–Güney Kore maçında Türkiye'nin ilk golünü kim attı?",
+          "answer": "Hakan Şükür",
+          "wrong": [
+            "Emre Aşık",
+            "Arif Erdem",
+            "Ümit Karan"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Gol 1. dakikada geldi; maç 3-2 Türkiye lehine bitti."
+        },
+        {
+          "id": "q8f51b8e6fd",
+          "q": "1985-86 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Tanju Çolak",
+          "wrong": [
+            "Selçuk Yula",
+            "Feyyaz Uçar",
+            "Cemil Turan"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Tanju Çolak o sezon Samsunspor formasıyla 33 gol attı."
+        },
+        {
+          "id": "qd841701fa3",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Márcio Nobre",
+          "wrong": [
+            "Berkant Göktan",
+            "Mevlüt Erdinç",
+            "Semih Şentürk"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Márcio Nobre, 1980 doğumlu forvet.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Nobre%2713-14.JPG/960px-Nobre%2713-14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Ultraslansi / CC BY-SA 3.0",
+          "blur": true
+        },
+        {
+          "id": "qe96d9d12e5",
+          "q": "1978 Dünya Kupası şampiyonu Avusturya oldu.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Doğrusu: Arjantin. Final Arjantin 3-1 kazandı; maç Buenos Aires şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "qa0bbdb5228",
+          "q": "1974-75 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Ömer Kaner",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Ömer Kaner o sezon Eskişehirspor formasıyla 14 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Kaner"
+          ]
+        },
+        {
+          "id": "q11eb8ab669",
+          "q": "Türkiye'yi EURO 2000'de çeyrek finale taşıyan teknik direktör kimdi?",
+          "answer": "Mustafa Denizli",
+          "wrong": [
+            "Fatih Terim",
+            "Şenol Güneş",
+            "Ersun Yanal"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "questions": [
+        {
+          "id": "q0253482571",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Romelu Lukaku",
+          "wrong": [
+            "El Bilal Touré",
+            "Mostafa Mohamed",
+            "Mauro Icardi"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1993 doğumlu; mevkisi forvet.",
+            "Kariyerinde şu liglerde oynadı: Belçika Pro League, Premier League, Serie A.",
+            "Uyruğu: Belçika. Forma giydiği kulüplerden biri: Fenerbahçe."
+          ]
+        },
+        {
+          "id": "qbf1014e20f",
+          "q": "Fernando Muslera aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Lazio",
+          "wrong": [
+            "Inter",
+            "AC Milan",
+            "Napoli"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Fernando Muslera'nın kariyerindeki kulüplerden: Lazio, Galatasaray."
+        },
+        {
+          "id": "q20d92eebc9",
+          "q": "Türkiye EURO 2024 turnuvasında son maçını hangi takıma karşı oynadı?",
+          "answer": "Hollanda",
+          "wrong": [
+            "Hırvatistan",
+            "Fransa",
+            "Arnavutluk"
+          ],
+          "tier": 2,
+          "topic": "mac",
+          "note": "Maç Hollanda 2-1 Türkiye bitti."
+        },
+        {
+          "id": "q7e42e06a85",
+          "q": "EURO 1960 şampiyonu Sovyetler Birliği oldu.",
+          "answer": "Doğru",
+          "wrong": [
+            "Yanlış"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final Sovyetler Birliği 2-1 kazandı; maç Paris şehrinde oynandı.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q6e60a7b733",
+          "q": "1962-63 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Metin Oktay",
+          "wrong": [
+            "Güven Önüt",
+            "Ertan Adatepe",
+            "Fevzi Zemzem"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Metin Oktay o sezon Galatasaray formasıyla 38 gol attı."
+        },
+        {
+          "id": "qa421e6030c",
+          "q": "Werder Bremen iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Weserstadion",
+          "wrong": [
+            "Volkswagen Arena",
+            "Volksparkstadion",
+            "Veltins-Arena"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        },
+        {
+          "id": "q62d99dd9c9",
+          "q": "1979-80 sezonunda Süper Lig şampiyonu hangi takım oldu?",
+          "answer": "Trabzonspor",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "1959'dan bu yana Trabzonspor'un 4. lig şampiyonluğuydu.",
+          "kind": "yaz"
+        },
+        {
+          "id": "q703e7e8df9",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Vedat Muriqi",
+          "wrong": [
+            "Eren Tozlu",
+            "Sercan Yıldırım",
+            "Çekdar Orhan"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Vedat Muriqi, 1994 doğumlu Kosova forvet.",
+          "kind": "foto",
+          "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Vedat_Muriqi_Fenerbah%C3%A7e_20260717_%286%29.jpg/960px-Vedat_Muriqi_Fenerbah%C3%A7e_20260717_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Fotoğraf: Zafer / CC BY 4.0",
+          "blur": true
+        },
+        {
+          "id": "qf74ed18211",
+          "q": "Borussia Dortmund hangi yıl kuruldu?",
+          "answer": "1909",
+          "wrong": [
+            "1915",
+            "1913",
+            "1919"
+          ],
+          "tier": 3,
+          "topic": "diger"
+        },
+        {
+          "id": "qc3fec74a86",
+          "q": "EURO 2024 finali hangi şehirde oynandı?",
+          "answer": "Berlin",
+          "wrong": [
+            "Londra",
+            "Paris",
+            "Saint-Denis"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "questions": [
+        {
+          "id": "q503beec79a",
+          "q": "Fotoğraftaki futbolcu kim?",
+          "answer": "Gökhan Töre",
+          "wrong": [
+            "Mehmet Batdal",
+            "Kemal Rüzgar",
+            "Adem Büyük"
+          ],
+          "tier": 3,
+          "topic": "takim-oyuncu",
+          "note": "Gökhan Töre, 1992 doğumlu forvet.",
+          "kind": "foto",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/G%C3%B6khan_T%C3%B6re_2013_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Fotoğraf: Thomas Rodenbücher / CC BY 2.0"
+        },
+        {
+          "id": "q71d23616e8",
+          "q": "Galatasaray iç saha maçlarını hangi stadyumda oynuyor?",
+          "answer": "Rams Park",
+          "wrong": [
+            "Alanya Oba Stadyumu",
+            "Spor Toto Akhisar Stadyumu",
+            "Papara Park"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "q9d08e7cda0",
+          "q": "EURO 1976 şampiyonu hangi ülke oldu?",
+          "answer": "Çekoslovakya",
+          "wrong": [
+            "Hollanda",
+            "Yugoslavya",
+            "Batı Almanya"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final 2-2 bitti, Çekoslovakya penaltılarla kazandı; maç Belgrad şehrinde oynandı."
+        },
+        {
+          "id": "q72707dd461",
+          "q": "İpuçlarından futbolcuyu bul.",
+          "answer": "Kerem Aktürkoğlu",
+          "wrong": [
+            "Nicolas Pépé",
+            "Ademola Lookman",
+            "Sadio Mané"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "kind": "ipucu",
+          "clues": [
+            "1998 doğumlu; mevkisi kanat.",
+            "Kariyerinde şu liglerde oynadı: Süper Lig, Liga Portugal.",
+            "Uyruğu: Türkiye. Forma giydiği kulüplerden biri: Fenerbahçe."
+          ]
+        },
+        {
+          "id": "q202222bc1c",
+          "q": "Rafael Leão, kariyerinde Sampdoria formasını da giydi.",
+          "answer": "Yanlış",
+          "wrong": [
+            "Doğru"
+          ],
+          "tier": 2,
+          "topic": "takim-oyuncu",
+          "note": "Doğrusu: AC Milan. Rafael Leão'nun kariyerindeki kulüplerden: Sporting CP, AC Milan, Galatasaray.",
+          "kind": "dogruyanlis"
+        },
+        {
+          "id": "q49e70e119e",
+          "q": "1982 Dünya Kupası finalinde İtalya hangi takımı yendi?",
+          "answer": "Batı Almanya",
+          "wrong": [
+            "Fransa",
+            "İngiltere",
+            "Polonya"
+          ],
+          "tier": 3,
+          "topic": "mac",
+          "note": "Final İtalya 3-1 kazandı; maç Madrid şehrinde oynandı."
+        },
+        {
+          "id": "qb1d2119991",
+          "q": "1964-65 sezonunda Süper Lig gol kralı kim oldu?",
+          "answer": "Metin Oktay",
+          "wrong": [],
+          "tier": 4,
+          "topic": "takim-oyuncu",
+          "note": "Metin Oktay o sezon Galatasaray formasıyla 17 gol attı.",
+          "kind": "yaz",
+          "accept": [
+            "Oktay"
+          ]
+        },
+        {
+          "id": "q9800c634fe",
+          "q": "Emre Belözoğlu aşağıdaki kulüplerden hangisinde forma giydi?",
+          "answer": "Başakşehir",
+          "wrong": [
+            "Trabzonspor",
+            "Konyaspor",
+            "Antalyaspor"
+          ],
+          "tier": 1,
+          "topic": "takim-oyuncu",
+          "note": "Emre Belözoğlu'nun kariyerindeki kulüplerden: Galatasaray, Inter, Fenerbahçe, Atlético Madrid, Başakşehir."
+        },
+        {
+          "id": "q36dec29160",
+          "q": "EURO 2004 finali hangi şehirde oynandı?",
+          "answer": "Lizbon",
+          "wrong": [
+            "Belgrad",
+            "Berlin",
+            "Paris"
+          ],
+          "tier": 2,
+          "topic": "diger"
+        },
+        {
+          "id": "qd34e8f495d",
+          "q": "Hamburg hangi yıl kuruldu?",
+          "answer": "1887",
+          "wrong": [
+            "1889",
+            "1883",
+            "1885"
+          ],
+          "tier": 4,
+          "topic": "diger"
+        }
+      ]
+    }
+  ]
+}
