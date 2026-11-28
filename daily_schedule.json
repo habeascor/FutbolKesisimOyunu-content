@@ -7937,123 +7937,258 @@
     {
       "date": "2026-11-29",
       "teamA": {
-        "name": "Eskişehirspor",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qyxxwv1448199514.png"
+        "name": "Napoli",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png"
       },
       "teamB": {
-        "name": "Mersin İdmanyurdu",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/qyqpwv1448203732.png"
+        "name": "Roma",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png"
       },
       "answers": [
         {
-          "name": "Serkan Reçber",
-          "qid": "Q116586789",
-          "born": 1975
+          "name": "Romelu Lukaku",
+          "qid": "Q313316",
+          "born": 1993
         },
         {
-          "name": "Servet Çetin",
-          "qid": "Q347327",
-          "born": 1981
-        },
-        {
-          "name": "Mehmet Yıldız",
-          "qid": "Q371492",
-          "born": 1981
-        },
-        {
-          "name": "Burhan Eşer",
-          "qid": "Q1016271",
-          "born": 1985
-        },
-        {
-          "name": "Zafer Şahin",
-          "qid": "Q8064285",
+          "name": "Morgan De Sanctis",
+          "qid": "Q219618",
           "born": 1977
         },
         {
-          "name": "Yusuf Şimşek",
-          "qid": "Q6093410",
+          "name": "Leonardo Spinazzola",
+          "qid": "Q6526099",
+          "born": 1993
+        },
+        {
+          "name": "Kostas Manolas",
+          "qid": "Q650452",
+          "born": 1991
+        },
+        {
+          "name": "Daniel Fonseca",
+          "qid": "Q462842",
+          "born": 1969
+        },
+        {
+          "name": "Juan Jesus",
+          "qid": "Q454910",
+          "born": 1991
+        },
+        {
+          "name": "Mário Rui",
+          "qid": "Q3869208",
+          "born": 1991
+        },
+        {
+          "name": "Amedeo Amadei",
+          "qid": "Q460577",
+          "born": 1921
+        },
+        {
+          "name": "Giuseppe Giannini",
+          "qid": "Q445694",
+          "born": 1964
+        },
+        {
+          "name": "Paolo Barison",
+          "qid": "Q1317514",
+          "born": 1936
+        },
+        {
+          "name": "Amadou Diawara",
+          "qid": "Q20859426",
+          "born": 1997
+        },
+        {
+          "name": "Alberto Orlando",
+          "qid": "Q1365655",
           "born": 1938
         },
         {
-          "name": "Ozan Köprülü",
-          "qid": "Q109452390",
-          "born": null
+          "name": "Bruno Pesaola",
+          "qid": "Q983138",
+          "born": 1925
         },
         {
-          "name": "Tanju Kayhan",
-          "qid": "Q634235",
-          "born": 1989
+          "name": "Adelmo Prenna",
+          "qid": "Q3605222",
+          "born": 1930
         },
         {
-          "name": "Cumhur Bozacı",
-          "qid": "Q118340917",
-          "born": 1974
+          "name": "Amato Ciciretti",
+          "qid": "Q27929639",
+          "born": 1993
         },
         {
-          "name": "Raheem Lawal",
-          "qid": "Q348769",
-          "born": 1990
+          "name": "Andrea Briotti",
+          "qid": "Q4754987",
+          "born": 1986
         },
         {
-          "name": "Abdullah Halman",
-          "qid": "Q317634",
-          "born": 1987
+          "name": "Andrea Carnevale",
+          "qid": "Q493607",
+          "born": 1961
         },
         {
-          "name": "Ragıp Başdağ",
-          "qid": "Q373394",
-          "born": 1978
+          "name": "Angelo Sormani",
+          "qid": "Q508434",
+          "born": 1939
         },
         {
-          "name": "Faruk Bayar",
-          "qid": "Q1397194",
-          "born": 1981
+          "name": "Angelo Spanio",
+          "qid": "Q3617240",
+          "born": 1939
         },
         {
-          "name": "Tufan Esin",
-          "qid": "Q7851448",
-          "born": 1980
+          "name": "Antonio Criscimanni",
+          "qid": "Q3619475",
+          "born": 1957
         },
         {
-          "name": "Vedat Uysal",
-          "qid": "Q7917937",
-          "born": 1962
+          "name": "Armando Tre Re",
+          "qid": "Q388076",
+          "born": 1922
         },
         {
-          "name": "Birol Parlak",
-          "qid": "Q15788761",
-          "born": 1990
+          "name": "Carmine Gautieri",
+          "qid": "Q3660370",
+          "born": 1970
         },
         {
-          "name": "Serol Demirhan",
-          "qid": "Q2273811",
-          "born": 1988
+          "name": "Dante Di Benedetti",
+          "qid": "Q775527",
+          "born": 1916
         },
         {
-          "name": "Ramazan Durdu",
-          "qid": "Q2130003",
-          "born": 1983
+          "name": "Domenico Penzo",
+          "qid": "Q1083540",
+          "born": 1953
         },
         {
-          "name": "Alpaslan Kartal",
-          "qid": "Q956261",
-          "born": 1977
+          "name": "Edoardo Artistico",
+          "qid": "Q986625",
+          "born": 1969
         },
         {
-          "name": "Mehmet Budak",
-          "qid": "Q10397140",
-          "born": 1980
+          "name": "Francesco Colonnese",
+          "qid": "Q1872532",
+          "born": 1971
         },
         {
-          "name": "Sezar Güner",
-          "qid": "Q132967672",
+          "name": "Francesco Moriero",
+          "qid": "Q585252",
+          "born": 1969
+        },
+        {
+          "name": "Gabriele Grossi",
+          "qid": "Q3756612",
           "born": 1972
         },
         {
-          "name": "Harun Erol",
-          "qid": "Q141699948",
-          "born": 1960
+          "name": "Giacomo Blason",
+          "qid": "Q1445699",
+          "born": 1914
+        },
+        {
+          "name": "Giannantonio Sperotto",
+          "qid": "Q3763417",
+          "born": 1950
+        },
+        {
+          "name": "Giorgio Braglia",
+          "qid": "Q1465949",
+          "born": 1947
+        },
+        {
+          "name": "Jonas Thern",
+          "qid": "Q535027",
+          "born": 1967
+        },
+        {
+          "name": "Jone Spartano",
+          "qid": "Q3809970",
+          "born": 1927
+        },
+        {
+          "name": "Luciano Marangon",
+          "qid": "Q3838650",
+          "born": 1956
+        },
+        {
+          "name": "Manuele Blasi",
+          "qid": "Q445976",
+          "born": 1980
+        },
+        {
+          "name": "Marco Baroni",
+          "qid": "Q1317738",
+          "born": 1963
+        },
+        {
+          "name": "Marco Quadrini",
+          "qid": "Q3846401",
+          "born": 1979
+        },
+        {
+          "name": "Massimo Agostini",
+          "qid": "Q869006",
+          "born": 1964
+        },
+        {
+          "name": "Moreno Ferrario",
+          "qid": "Q459050",
+          "born": 1959
+        },
+        {
+          "name": "Naim Kryeziu",
+          "qid": "Q536279",
+          "born": 1918
+        },
+        {
+          "name": "Oreste Benatti",
+          "qid": "Q1404156",
+          "born": 1906
+        },
+        {
+          "name": "Paolo Jacobini",
+          "qid": "Q3894163",
+          "born": 1919
+        },
+        {
+          "name": "Pierluigi Gollini",
+          "qid": "Q18156147",
+          "born": 1995
+        },
+        {
+          "name": "Piero Betello",
+          "qid": "Q1409054",
+          "born": 1935
+        },
+        {
+          "name": "Roberto Policano",
+          "qid": "Q3939068",
+          "born": 1964
+        },
+        {
+          "name": "Roberto Scarnecchia",
+          "qid": "Q3939159",
+          "born": 1958
+        },
+        {
+          "name": "Ruben Buriani",
+          "qid": "Q977997",
+          "born": 1955
+        },
+        {
+          "name": "Sebastiano Nela",
+          "qid": "Q978010",
+          "born": 1961
+        },
+        {
+          "name": "Vittorio Dagianti",
+          "qid": "Q4015342",
+          "born": 1919
         }
       ]
     },
@@ -8148,93 +8283,18 @@
     {
       "date": "2026-12-01",
       "teamA": {
-        "name": "Gaziantepspor",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vsssxv1448200175.png"
+        "name": "Gençlerbirliği",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png"
       },
       "teamB": {
-        "name": "Kasımpaşa",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uryxtp1448203236.png"
+        "name": "Real Madrid",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png"
       },
       "answers": [
         {
-          "name": "Cenk Tosun",
-          "qid": "Q377432",
-          "born": 1991
-        },
-        {
-          "name": "Yalçın Ayhan",
-          "qid": "Q727569",
-          "born": 1982
-        },
-        {
-          "name": "Murat Şahin",
-          "qid": "Q646042",
-          "born": 1976
-        },
-        {
-          "name": "Oğulcan Çağlayan",
-          "qid": "Q15838887",
-          "born": 1996
-        },
-        {
-          "name": "Cihat Arslan",
-          "qid": "Q2645475",
-          "born": 1970
-        },
-        {
-          "name": "Gökhan Güleç",
-          "qid": "Q1499558",
-          "born": 1985
-        },
-        {
-          "name": "Hasan Özer",
-          "qid": "Q6091261",
-          "born": 1974
-        },
-        {
-          "name": "Turgut Doğan Şahin",
-          "qid": "Q2460668",
-          "born": 1988
-        },
-        {
-          "name": "Abdullah Elyasa Süme",
-          "qid": "Q832129",
-          "born": 1983
-        },
-        {
-          "name": "Uğur Yıldırım",
-          "qid": "Q523871",
-          "born": 1982
-        },
-        {
-          "name": "Murat Erdoğan",
-          "qid": "Q1953539",
-          "born": 1976
-        },
-        {
-          "name": "Eray Birniçan",
-          "qid": "Q1348179",
-          "born": 1988
-        },
-        {
-          "name": "Faruk Bayar",
-          "qid": "Q1397194",
-          "born": 1981
-        },
-        {
-          "name": "Göksel Akıncı",
-          "qid": "Q6103142",
-          "born": 1977
-        },
-        {
-          "name": "Senijad Ibričić",
-          "qid": "Q715775",
-          "born": 1985
-        },
-        {
-          "name": "Mustafa Marangoz",
-          "qid": "Q6094748",
-          "born": 1980
+          "name": "Geremi",
+          "qid": "Q204230",
+          "born": 1978
         }
       ]
     },
@@ -9115,149 +9175,124 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/ya2kqz1791648978.png"
       },
       "teamB": {
-        "name": "Sivasspor",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/pnhe5i1681161798.png"
+        "name": "Bursaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/uyptpr1448199354.png"
       },
       "answers": [
         {
-          "name": "Bülent Uygun",
-          "qid": "Q1020698",
+          "name": "Hakan Şükür",
+          "qid": "Q192974",
           "born": 1971
         },
         {
-          "name": "Batuhan Karadeniz",
-          "qid": "Q811050",
-          "born": 1991
+          "name": "Tuncay Şanlı",
+          "qid": "Q310199",
+          "born": 1982
         },
         {
-          "name": "Ergin Keleş",
-          "qid": "Q1350603",
-          "born": 1987
+          "name": "Okan Yılmaz",
+          "qid": "Q942014",
+          "born": 1978
         },
         {
-          "name": "Fernando Andrade",
-          "qid": "Q335005",
-          "born": 1993
-        },
-        {
-          "name": "Beykan Şimşek",
-          "qid": "Q4999443",
-          "born": 1995
-        },
-        {
-          "name": "Mahmut Hanefi Erdoğdu",
-          "qid": "Q175335",
-          "born": 1983
-        },
-        {
-          "name": "Burak Akdiş",
-          "qid": "Q1010172",
-          "born": 1977
-        },
-        {
-          "name": "Max Gradel",
-          "qid": "Q714036",
-          "born": 1987
-        },
-        {
-          "name": "Murat Erdoğan",
-          "qid": "Q1953539",
-          "born": 1976
-        },
-        {
-          "name": "Hakan Özmert",
-          "qid": "Q550735",
-          "born": 1985
-        },
-        {
-          "name": "Sefer Yılmaz",
-          "qid": "Q22342856",
+          "name": "Mehmet Altıparmak",
+          "qid": "Q6099958",
           "born": 1969
         },
         {
-          "name": "Ceyhun Güray",
-          "qid": "Q6100231",
-          "born": 1956
-        },
-        {
-          "name": "Musa Aydın",
-          "qid": "Q936079",
-          "born": 1980
-        },
-        {
-          "name": "Ümit Kurt",
-          "qid": "Q334849",
-          "born": 1991
-        },
-        {
-          "name": "Mohamed Ali Kurtuluş",
-          "qid": "Q1951915",
-          "born": 1974
-        },
-        {
-          "name": "Murat Duman",
-          "qid": "Q25473681",
-          "born": 1974
-        },
-        {
-          "name": "Atilla Koca",
-          "qid": "Q612897",
-          "born": 1980
-        },
-        {
-          "name": "Alaaddin Okumuş",
-          "qid": "Q69511028",
-          "born": 1995
-        },
-        {
-          "name": "Aytaç Ak",
-          "qid": "Q793314",
-          "born": 1985
-        },
-        {
-          "name": "Yavuz Eraydın",
-          "qid": "Q1419830",
-          "born": 1976
-        },
-        {
-          "name": "Musa Sinan Yılmazer",
-          "qid": "Q1953982",
-          "born": 1987
-        },
-        {
-          "name": "Çetin Limanoğlu",
-          "qid": "Q134394835",
-          "born": 1976
-        },
-        {
-          "name": "İlhan Ummak",
-          "qid": "Q343671",
+          "name": "Hüseyin Çimşir",
+          "qid": "Q1388923",
           "born": 1979
         },
         {
-          "name": "Harun Avgın",
-          "qid": "Q12809885",
-          "born": 1981
+          "name": "Taner Gülleri",
+          "qid": "Q2392344",
+          "born": 1976
         },
         {
-          "name": "Emrehan Ceylan",
-          "qid": "Q6047448",
-          "born": 1980
+          "name": "İlhan Depe",
+          "qid": "Q6096581",
+          "born": 1992
         },
         {
-          "name": "Volkan Eğri",
-          "qid": "Q66817701",
-          "born": 1998
+          "name": "Taner Demirbaş",
+          "qid": "Q7682558",
+          "born": 1978
         },
         {
-          "name": "Metekan Yılmaz",
-          "qid": "Q6080866",
-          "born": 1984
+          "name": "Mesut Ünal",
+          "qid": "Q27055380",
+          "born": 1973
         },
         {
-          "name": "Gökhan Çalışal",
-          "qid": "Q5626480",
-          "born": 1980
+          "name": "Burak Altıparmak",
+          "qid": "Q14776723",
+          "born": 1990
+        },
+        {
+          "name": "Hasan Yiğit",
+          "qid": "Q5678310",
+          "born": 1975
+        },
+        {
+          "name": "Önder Deniz Kolgu",
+          "qid": "Q20476889",
+          "born": 1974
+        },
+        {
+          "name": "Şaban Yıldırım",
+          "qid": "Q6096142",
+          "born": 1970
+        },
+        {
+          "name": "Ataberk Dadakdeniz",
+          "qid": "Q60050418",
+          "born": 1999
+        },
+        {
+          "name": "Hakan Aslantaş",
+          "qid": "Q445496",
+          "born": 1985
+        },
+        {
+          "name": "Yonathan Del Valle",
+          "qid": "Q2053195",
+          "born": 1990
+        },
+        {
+          "name": "Yasin Pehlivan",
+          "qid": "Q697343",
+          "born": 1989
+        },
+        {
+          "name": "Ramazan Sal",
+          "qid": "Q2130019",
+          "born": 1985
+        },
+        {
+          "name": "Kerem Şen",
+          "qid": "Q110713337",
+          "born": 2002
+        },
+        {
+          "name": "Emirhan Aydoğan",
+          "qid": "Q26912314",
+          "born": 1997
+        },
+        {
+          "name": "Seyhan Cenk Tekelioğlu",
+          "qid": "Q7459061",
+          "born": 1973
+        },
+        {
+          "name": "Barış Örücü",
+          "qid": "Q809714",
+          "born": 1992
+        },
+        {
+          "name": "Shpëtim Hasani",
+          "qid": "Q132326",
+          "born": 1982
         }
       ]
     },
@@ -10448,14 +10483,29 @@
         "badge": "https://r2.thesportsdb.com/images/media/team/badge/9jwk7o1513952059.png"
       },
       "teamB": {
-        "name": "Yeni Malatyaspor",
-        "badge": "https://r2.thesportsdb.com/images/media/team/badge/u3d7g61681538883.png"
+        "name": "Antalyaspor",
+        "badge": "https://r2.thesportsdb.com/images/media/team/badge/vqoral1601669436.png"
       },
       "answers": [
         {
-          "name": "Umut Nayir",
-          "qid": "Q198254",
-          "born": 1993
+          "name": "Sinan Kaloğlu",
+          "qid": "Q1396846",
+          "born": 1981
+        },
+        {
+          "name": "Serdar Gürler",
+          "qid": "Q472488",
+          "born": 1991
+        },
+        {
+          "name": "Nazım Sangaré",
+          "qid": "Q27063857",
+          "born": 1994
+        },
+        {
+          "name": "Tarık Çamdal",
+          "qid": "Q832137",
+          "born": 1991
         },
         {
           "name": "Ömer Şişmanoğlu",
@@ -10463,9 +10513,9 @@
           "born": 1989
         },
         {
-          "name": "Aytaç Kara",
-          "qid": "Q793318",
-          "born": 1993
+          "name": "Soner Aydoğdu",
+          "qid": "Q973219",
+          "born": 1991
         },
         {
           "name": "Adis Jahović",
@@ -10473,79 +10523,79 @@
           "born": 1987
         },
         {
-          "name": "Kubilay Kanatsızkuş",
-          "qid": "Q27037473",
-          "born": 1997
+          "name": "Bora Öztürk",
+          "qid": "Q893293",
+          "born": 1955
         },
         {
-          "name": "Ahmed Ildız",
-          "qid": "Q28056330",
-          "born": 1996
+          "name": "Erman Kılıç",
+          "qid": "Q617680",
+          "born": 1983
         },
         {
-          "name": "Hüseyin Kartal",
-          "qid": "Q1530663",
-          "born": 1982
-        },
-        {
-          "name": "Guilherme",
-          "qid": "Q5615962",
-          "born": 1991
-        },
-        {
-          "name": "Vedat Kapurtu",
-          "qid": "Q6081427",
+          "name": "Richard Kingson",
+          "qid": "Q217097",
           "born": 1978
         },
         {
-          "name": "Sinan Özkan",
-          "qid": "Q550789",
-          "born": 1986
-        },
-        {
-          "name": "Mehmet Sak",
-          "qid": "Q167729",
+          "name": "Gökhan Karadeniz",
+          "qid": "Q15493338",
           "born": 1990
         },
         {
-          "name": "Barış Başdaş",
-          "qid": "Q809709",
-          "born": 1990
+          "name": "Mustafa Özkan",
+          "qid": "Q808661",
+          "born": 1975
         },
         {
-          "name": "Halil Zeybek",
-          "qid": "Q1571121",
-          "born": 1985
-        },
-        {
-          "name": "İlyas Çakmak",
-          "qid": "Q343846",
-          "born": 1988
-        },
-        {
-          "name": "Beyhan Sümer",
-          "qid": "Q20472194",
-          "born": 1981
-        },
-        {
-          "name": "Emre Öztürk",
-          "qid": "Q1339600",
+          "name": "Deniz Kadah",
+          "qid": "Q1187845",
           "born": 1986
         },
         {
-          "name": "Ramazan Kahya",
-          "qid": "Q7289146",
+          "name": "Gökdeniz Bayrakdar",
+          "qid": "Q98829644",
+          "born": 2001
+        },
+        {
+          "name": "Murat Akın",
+          "qid": "Q1359223",
+          "born": 1986
+        },
+        {
+          "name": "Soner Dikmen",
+          "qid": "Q27036597",
+          "born": 1993
+        },
+        {
+          "name": "Orhan Atik",
+          "qid": "Q7102169",
+          "born": 1967
+        },
+        {
+          "name": "Lamine Diarra",
+          "qid": "Q562325",
+          "born": 1983
+        },
+        {
+          "name": "Gürhan Gürsoy",
+          "qid": "Q1383232",
+          "born": 1987
+        },
+        {
+          "name": "Lokman Gör",
+          "qid": "Q1868561",
+          "born": 1990
+        },
+        {
+          "name": "Kenan Pirić",
+          "qid": "Q20601097",
+          "born": 1994
+        },
+        {
+          "name": "Kerem Şeras",
+          "qid": "Q1727116",
           "born": 1984
-        },
-        {
-          "name": "Seçkin Getbay",
-          "qid": "Q7459643",
-          "born": 1989
-        },
-        {
-          "name": "Samed Kartal",
-          "qid": "Q929601",
-          "born": 1988
         }
       ]
     },
